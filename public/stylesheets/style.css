@@ -1,0 +1,18 @@
+body {
+	/*position:relative;*/
+}
+
+.center {
+	text-align: center;
+}
+
+.car {
+	height: 600px !important;
+}
+
+.scroll {
+	z-index: 1;
+	background-color: white;
+	/*position: fixed;*/
+	width:100%;
+}

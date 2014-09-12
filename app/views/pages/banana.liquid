@@ -8,4 +8,32 @@ response_type: text/html
 position: 0
 seo_title: banana
 ---
-<div>wdfshjbdnedwsa</div>
+{% extends 'index' %}
+
+{% block 'main' %}
+
+
+<div class="row">
+	<div class="left-photo large-6 columns">
+		Photo
+	</div>
+	<div class="right-text large-6 columns">
+		Text
+	</div>
+</div>
+
+<ul data-orbit class="car">
+  <li>
+    <img src="images/Earth.jpg" />
+    <div class="orbit-caption">...</div>
+  </li>
+  <li>
+    <img src="images/fav.png" />
+    <div class="orbit-caption">...</div>
+  </li>
+  <li>
+    <img src="images/menu.jpg" />
+    <div class="orbit-caption">...</div>
+  </li>
+</ul>
+{% endblock %}
