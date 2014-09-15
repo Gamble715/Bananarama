@@ -1,20 +1,10 @@
 (function() {
 
-  // $.stellar({
-  // 	scrollProperty: 'scroll',
-  // 	 verticalScrolling: true,
-  // 	 positionProperty: 'position',
-  // });
-
-  // $.stellar.positionProperty.position = {
-  //   setTop: function($element, newTop, originalTop) {
-  //     $element.css('top', newTop);
-  //   	console.log($element.position());
-  //   },
-  //   setLeft: function($element, newLeft, originalLeft) {
-  //     $element.css('left', newLeft);
-  //   }
-  // }
+  $.stellar({
+  	scrollProperty: 'scroll',
+  	 verticalScrolling: true,
+  	 positionProperty: 'position',
+  });
 
   function moveScroller() {
       var move = function() {
@@ -40,23 +30,5 @@
   };
 
   moveScroller();
-
-
-			// $.stellar.positionProperty.position.setTop($('.scroll'), 0, 0);
-
-	// $(window).scroll(function() {
-	//   if ($.stellar.scrollProperty.scroll.getTop($(window)) >= 312) {
-	//   	console.log("euyd");
-	//   	// $.stellar.positionProperty.position.setTop($(window), 312)
-	//   	// console.log($.stellar.positionProperty.limit.setTop($('footer'), 400, 0));
-	//   	// console.log($('footer')[0].attributes);
-	// 	  // console.log($.stellar.positionProperty.position.setTop($('footer'), 312, 0));
-	// 	  // console.log($.stellar.scrollProperty.scroll.getTop($(window)));
-	//   }
-	// });
-
-
-
-
 
 })();
