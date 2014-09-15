@@ -2884,3 +2884,34 @@ Found page "Banana" [banana]
 [0;32;49mCompleted 200 OK in 3.1ms
 
 [0m
+* Reloaded "pages", "snippets" at 2014-09-15 16:26:17 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-15 16:27:18 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-15 16:27:18 -0500
+* Reloaded "pages", "snippets" at 2014-09-15 16:27:31 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-15 16:27:33 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-15 16:29:17 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-15 16:29:22 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.1ms
+
+[0m
