@@ -1,12 +1,24 @@
 ---
-title: Banana
-slug: banana
+title: Recipes
+
+# true if the page is included in the menu
 listed: true
-published: false
-cache_strategy: none
-response_type: text/html
-position: 0
-seo_title: banana
+
+# true if the page is published
+published: true
+
+# position among sibling pages
+# position: 1
+
+# sets a redirection to the given url (301)
+# redirect_url: "<url to a page or to a remote url>"
+
+# content type that this page is templatizing
+# content_type: "recipes"
+
+# editable_elements:
+#   'some_block/some_slug': "<text>"
+#   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
 ---
 {% extends 'index' %}
 

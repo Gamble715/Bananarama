@@ -2915,3 +2915,212 @@ Found page "Banana" [banana]
 [0;32;49mCompleted 200 OK in 3.1ms
 
 [0m
+* Reloaded "pages", "snippets" at 2014-09-15 16:36:08 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-15 16:36:25 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-15 16:41:01 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-15 16:42:26 -0500
+* Reloaded "pages", "snippets" at 2014-09-15 16:52:06 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-15 16:52:18 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-15 16:52:34 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-15 16:52:34 -0500
+* Reloaded "pages", "snippets" at 2014-09-15 16:55:25 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-15 16:55:58 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-15 16:56:11 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-15 16:56:12 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-15 16:56:19 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-15 16:56:20 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-15 16:59:40 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-15 16:59:41 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-15 17:00:03 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-15 17:00:03 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-15 17:00:26 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-15 17:00:26 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-15 17:02:23 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-15 17:02:37 -0500
+* Reloaded "pages", "snippets" at 2014-09-15 17:02:42 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-19 10:53:43 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-19 10:57:49 -0500
+* Reloaded "pages", "snippets" at 2014-09-19 10:59:08 -0500
+* Reloaded "pages", "snippets" at 2014-09-19 10:59:13 -0500
+* Reloaded "content_entries" at 2014-09-19 11:02:20 -0500
+unknow content type "recipes"
+unknow content type "recipes"
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_types", "content_entries" at 2014-09-19 11:02:20 -0500
+* Reloaded "pages", "snippets" at 2014-09-19 15:02:39 -0500
+* Reloaded "pages", "snippets" at 2014-09-19 16:36:57 -0500
+* Reloaded "content_entries" at 2014-09-19 16:38:57 -0500
+unknow content type "videostitle:string"
+unknow content type "videostitle:string"
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_types", "content_entries" at 2014-09-19 16:38:57 -0500
+* Reloaded "pages", "snippets" at 2014-09-19 16:43:53 -0500
+* Reloaded "content_entries" at 2014-09-19 16:46:02 -0500
+unknow content type "careerstitle:string"
+unknow content type "careerstitle:string"
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_types", "content_entries" at 2014-09-19 16:46:02 -0500
+* Reloaded "pages", "snippets" at 2014-09-19 16:46:39 -0500
+* Reloaded "content_types", "content_entries" at 2014-09-19 16:47:36 -0500
+* Reloaded "content_entries" at 2014-09-19 16:47:36 -0500
+* Reloaded "pages", "snippets" at 2014-09-19 16:48:04 -0500
+* Reloaded "pages", "snippets" at 2014-09-19 16:48:15 -0500

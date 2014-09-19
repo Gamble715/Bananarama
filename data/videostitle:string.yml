@@ -1,0 +1,20 @@
+- "Sample 1":
+    video: "Ut molestiae eaque voluptas velit ratione quia velit."
+    time: "Exercitationem ullam repellat tempore rem facilis eum maxime."
+    date_added: 2014/09/19 # YYYY/MM/DD
+
+- "Sample 2":
+    video: "Quasi nostrum voluptatem totam omnis molestiae non."
+    time: "Consequatur et eveniet quisquam."
+    date_added: 2014/09/19 # YYYY/MM/DD
+
+- "Sample 3":
+    video: "Vel voluptatibus aspernatur accusantium."
+    time: "Fugiat distinctio minima voluptatem tempora molestiae vel at."
+    date_added: 2014/09/19 # YYYY/MM/DD
+
+- "Sample 4":
+    video: "Impedit blanditiis voluptatibus quia."
+    time: "Ipsa sunt occaecati qui."
+    date_added: 2014/09/19 # YYYY/MM/DD
+

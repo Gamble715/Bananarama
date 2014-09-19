@@ -20,6 +20,7 @@ editable_elements:
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>{{ page.title }}</title>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   {{ 'foundation.css' | stylesheet_tag }}
   {{ 'style.css' | stylesheet_tag }}
   {{ 'vendor/custom.modernizr.js' | javascript_tag }}
@@ -57,6 +58,17 @@ editable_elements:
   '><\/script>')
 
   $.stellar();
+
+    $(".next-slide").click(function() {
+    $("#ORBIT-ID").siblings(".orbit-next").click();
+    $("#ORBIT-ID").siblings(".orbit-timer").click(); // Remove this line to pause the orbit. (it pauses whenever you change slides by default)
+  });
+
+  $(".prev-slide").click(function() {
+    $("#ORBIT-ID").siblings(".orbit-prev").click();
+    $("#ORBIT-ID").siblings(".orbit-timer").click(); // Remove this line to pause the orbit. (it pauses whenever you change slides by default)
+  });
+
   </script>
 
   {{ 'foundation.min.js' | javascript_tag }}

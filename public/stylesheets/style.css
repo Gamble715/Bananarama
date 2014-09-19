@@ -14,6 +14,28 @@ body {
    max-width: initial;
 }
 
+.orbit-container .orbit-prev span,
+.orbit-container .orbit-next span {
+    color: red;
+    border: none;
+    font-size: 70px;
+    text-indent: 0;
+    margin-top: -32px;
+}
+
+.orbit-container .orbit-prev {
+    background-color: transparent;
+}
+.orbit-container .orbit-prev span:before {
+    content: "\2039";
+}
+.orbit-container .orbit-next {
+    background-color: transparent;
+}
+.orbit-container .orbit-next span:before {
+    content: "\203A";
+}
+
 .center {
 	text-align: center;
 }
