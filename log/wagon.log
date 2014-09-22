@@ -3509,3 +3509,261 @@ unknow content type "careerstitle:string"
 	/opt/boxen/rbenv/versions/2.0.0-p353/bin/wagon:23:in `<main>'
 
 
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:20:42 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.2ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:20:57 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:21:41 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:21:43 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:21:54 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:21:55 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:22:32 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:22:32 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 65.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:22:39 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:22:39 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:23:30 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:23:30 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:24:00 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:24:01 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:24:24 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:24:25 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:24:51 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:24:51 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:24:56 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:24:57 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:25:00 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:25:14 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:25:14 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:25:18 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.2ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:25:41 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:25:41 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:26:01 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:26:01 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:26:03 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:33:35 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:33:35 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 14:34:04 -0500
+* Reloaded "pages", "snippets" at 2014-09-22 14:34:14 -0500
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:34:15 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:36:07 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:38:16 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:38:24 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:39:08 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:42:40 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.9ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:42:49 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.3ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:42:55 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/banana" at 2014-09-22 14:44:35 -0500[0m
+Detecting locale EN
+Found page "Banana" [banana]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.5ms
+
+[0m

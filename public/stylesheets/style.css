@@ -16,7 +16,7 @@ body {
 
 .orbit-container .orbit-prev span,
 .orbit-container .orbit-next span {
-    color: red;
+    color: #fff;
     border: none;
     font-size: 70px;
     text-indent: 0;
@@ -27,13 +27,15 @@ body {
     background-color: transparent;
 }
 .orbit-container .orbit-prev span:before {
-    content: "\2039";
+    font-family: FontAwesome;
+    content: "\f053";
 }
 .orbit-container .orbit-next {
     background-color: transparent;
 }
 .orbit-container .orbit-next span:before {
-    content: "\203A";
+    font-family: FontAwesome;
+    content: "\f054";
 }
 
 .center {
@@ -42,11 +44,14 @@ body {
 
 .car {
 	height: 600px !important;
-	/*position: fixed !important;*/
 }
 
 .scroll {
 	z-index: 99;
 	background-color: white;
 	width:100%;
+}
+
+.organic-photo {
+  background-image: url('http://www.placehold.it/350x500');
 }
