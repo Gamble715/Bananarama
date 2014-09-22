@@ -1,6 +1,5 @@
 ---
 name: Banana
-index: banana.liquid
 locales: [en]
 subdomain: banana
 domains: [banana.locomotivehosting.com]

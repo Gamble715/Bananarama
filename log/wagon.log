@@ -4262,3 +4262,36 @@ Found page "Home page" [index]
 
 [0m
 * Reloaded "pages", "snippets" at 2014-09-22 17:04:41 -0500
+[Locomotive::Mounter::Models::Site] setting an unknown attribute 'index' with the value '"banana.liquid"'
+[Locomotive::Mounter::Models::Site] setting an unknown attribute 'index' with the value '"banana.liquid"'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:52:in `block in write_attributes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:49:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:49:in `write_attributes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:36:in `block in initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:403:in `_run__2474282320985537080__initialize__477158661611375972__callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:405:in `__run_callback'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:385:in `_run_initialize_callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:81:in `run_callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:23:in `initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/base.rb:16:in `initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `new'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:169:in `require_mounter'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:67:in `push'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/cli.rb:196:in `push'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.4.0/bin/wagon:9:in `<top (required)>'
+	/opt/boxen/rbenv/versions/2.0.0-p353/bin/wagon:23:in `load'
+	/opt/boxen/rbenv/versions/2.0.0-p353/bin/wagon:23:in `<main>'
+
+
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2014-09-22 17:06:58 -0500
