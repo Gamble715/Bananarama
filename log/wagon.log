@@ -4295,3 +4295,12 @@ Found page "Home page" [index]
 
 
 * Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2014-09-22 17:06:58 -0500
+[0;97;49mStarted GET "/recipes" at 2014-09-22 17:10:52 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.0ms
+
+[0m
