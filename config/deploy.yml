@@ -3,7 +3,7 @@ development:
   email: john@doe.net
   password: apassword
   # api_key: <your api key here>
-staging:
+hosting:
   host: http://pulsarlabs.herokuapp.com/
   email: gamble.mcadam@gmail.com
   password: mickey
@@ -14,8 +14,3 @@ production:
   email: john@doe.net
   password: apassword
   # api_key: <your api key here>
-
-hosting:
-  host: banana.locomotivehosting.com
-  api_key: 50876e12ce75a2c709bee6f9fa5eb799c56602be
-  ssl: true
