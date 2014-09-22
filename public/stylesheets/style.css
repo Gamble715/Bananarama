@@ -42,6 +42,11 @@ body {
 	text-align: center;
 }
 
+.spacing {
+  line-height: 45px;
+  font-size: 1.2em;
+}
+
 .car {
 	height: 600px !important;
 }
