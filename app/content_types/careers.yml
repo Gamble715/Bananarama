@@ -1,8 +1,8 @@
 # Public name of this content type
-name: Videostitle:string
+name: Careers
 
 # TODO: explain
-slug: videostitle:string
+slug: careers
 
 # Explanation for the backoffice
 description: A description of the content type for the editors
@@ -26,7 +26,7 @@ order_by: manually # default: manually, also available: created_at or any field 
 # public_submission_accounts: ['john@acme.net']
 
 # Describe each field. The name shoud always be an underscored string
-fields: 
+fields:
 - description: # Name of the field
     label: Description
     type: text
@@ -36,23 +36,16 @@ fields:
     # Enable or not the RTE [html|text]
     # text_formatting: html
 
-- video: # Name of the field
-    label: Video
+- looking_for: # Name of the field
+    label: Looking for
     type: string
     required: false
     hint: A description of the field for the editors
     localized: false
 
-- time: # Name of the field
-    label: Time
+- title: # Name of the field
+    label: Title
     type: string
-    required: false
-    hint: A description of the field for the editors
-    localized: false
-
-- date_added: # Name of the field
-    label: Date added
-    type: date
     required: false
     hint: A description of the field for the editors
     localized: false
