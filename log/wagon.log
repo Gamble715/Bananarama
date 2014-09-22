@@ -4026,3 +4026,239 @@ Found page "Recipes" [recipes]
 [0m
 * Reloaded "pages", "snippets" at 2014-09-22 16:51:59 -0500
 * Reloaded "pages", "snippets" at 2014-09-22 16:52:14 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2014-09-22 16:57:03 -0500
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2014-09-22 16:57:09 -0500
+[Locomotive::Mounter::Models::Site] setting an unknown attribute 'index' with the value '"banana"'
+[Locomotive::Mounter::Models::Site] setting an unknown attribute 'index' with the value '"banana"'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:52:in `block in write_attributes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:49:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:49:in `write_attributes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:36:in `block in initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:403:in `_run__2188724407765497887__initialize__922635650712793287__callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:405:in `__run_callback'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:385:in `_run_initialize_callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:81:in `run_callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:23:in `initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/base.rb:16:in `initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `new'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+[0;97;49mStarted GET "/" at 2014-09-22 16:57:17 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.3ms
+
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2014-09-22 16:57:35 -0500
+[Locomotive::Mounter::Models::Site] setting an unknown attribute 'index' with the value '"banana.liquid"'
+[Locomotive::Mounter::Models::Site] setting an unknown attribute 'index' with the value '"banana.liquid"'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:52:in `block in write_attributes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:49:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:49:in `write_attributes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:36:in `block in initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:403:in `_run__2188724407765497887__initialize__922635650712793287__callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:405:in `__run_callback'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:385:in `_run_initialize_callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:81:in `run_callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:23:in `initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/base.rb:16:in `initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `new'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+[0;97;49mStarted GET "/" at 2014-09-22 16:57:39 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-09-22 16:58:00 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.2ms
+
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2014-09-22 16:58:16 -0500
+[Locomotive::Mounter::Models::Site] setting an unknown attribute 'index' with the value '"banana"'
+[Locomotive::Mounter::Models::Site] setting an unknown attribute 'index' with the value '"banana"'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:52:in `block in write_attributes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:49:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:49:in `write_attributes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:36:in `block in initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:403:in `_run__2188724407765497887__initialize__922635650712793287__callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:405:in `__run_callback'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:385:in `_run_initialize_callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:81:in `run_callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:23:in `initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/base.rb:16:in `initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `new'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+[0;97;49mStarted GET "/" at 2014-09-22 16:58:24 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.3ms
+
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2014-09-22 16:59:41 -0500
+[Locomotive::Mounter::Models::Site] setting an unknown attribute 'index' with the value '"Banana"'
+[Locomotive::Mounter::Models::Site] setting an unknown attribute 'index' with the value '"Banana"'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:52:in `block in write_attributes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:49:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:49:in `write_attributes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:36:in `block in initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:403:in `_run__2188724407765497887__initialize__922635650712793287__callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:405:in `__run_callback'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:385:in `_run_initialize_callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:81:in `run_callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:23:in `initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/base.rb:16:in `initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `new'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+[0;97;49mStarted GET "/" at 2014-09-22 16:59:41 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.9ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-09-22 16:59:44 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 17:00:25 -0500
+[0;97;49mStarted GET "/" at 2014-09-22 17:00:49 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-09-22 17:00:51 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2014-09-22 17:01:19 -0500
+[Locomotive::Mounter::Models::Site] setting an unknown attribute 'index' with the value '"banana.liquid"'
+[Locomotive::Mounter::Models::Site] setting an unknown attribute 'index' with the value '"banana.liquid"'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:52:in `block in write_attributes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:49:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:49:in `write_attributes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:36:in `block in initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:403:in `_run__2188724407765497887__initialize__922635650712793287__callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:405:in `__run_callback'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:385:in `_run_initialize_callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/callbacks.rb:81:in `run_callbacks'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/fields.rb:23:in `initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/base.rb:16:in `initialize'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `new'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/opt/boxen/rbenv/versions/2.0.0-p353/lib/ruby/gems/2.0.0/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "pages", "snippets" at 2014-09-22 17:04:08 -0500
+* Reloaded "pages", "snippets" at 2014-09-22 17:04:27 -0500
+[0;97;49mStarted GET "/" at 2014-09-22 17:04:29 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-22 17:04:41 -0500
