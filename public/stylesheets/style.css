@@ -57,6 +57,12 @@ body {
 	width:100%;
 }
 
+.left {
+  display: inline-block;
+  text-decoration: none;
+  margin-right: 45px;
+}
+
 .organic-photo {
   background-image: url('http://www.placehold.it/350x500');
 }
