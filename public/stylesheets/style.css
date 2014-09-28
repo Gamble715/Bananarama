@@ -46,10 +46,45 @@ body {
   background-image: url('http://www.placehold.it/350x500');
 }
 
+/*-- Below Orbit Nav Bar --*/
+
+.main-nav{
+  margin-top: -100px;
+  z-index: 1;
+}
+
+.nav-item{
+  height: 100px;
+  padding-top: 15px;
+  width: 14.28%;
+  background: rgba(255,255,255,0.9);
+}
+
+.nav-item i{
+  font-size: 2.75em;
+  display: block;
+  padding-bottom: 5px;
+}
+
+.nav-item > i, a, h4, strong{
+  color: #7F3992;
+}
+
+.nav-item > a, h4, strong {
+  font-size: 0.9em;
+}
+
+.active{
+  background-color: #8B4B9A;
+}
+.active i, .active a, .active h4, .active strong{
+  color: white;
+}
+
 /*-- Navigation Styles --*/
 
 .nav-header{ 
-  background-color: rgba(249,246,244,1);
+  background-color: rgba(255,255,255,0.9);
   position: absolute;
   top: 0;
   z-index: 30;
@@ -58,8 +93,8 @@ body {
   width: 100%;
 }
 
-.nav-header h1, h2, h3, h4, p, a{
-  color: #A470AC;
+.nav-header > h1, h2, h3, h4, p, a{
+  color: #7F3992;
 }
 
 .nav-header h4{
@@ -117,6 +152,7 @@ body {
 
 .orbit-container {
   height: 700px;
+  z-index: 0;
 }
 
 .orbit-container .orbit-prev span,
@@ -132,15 +168,15 @@ body {
     background-color: transparent;
 }
 .orbit-container .orbit-prev span:before {
-    font-family: FontAwesome;
-    content: "\f053";
+    font-family: fontello;
+    content: '\e804';
 }
 .orbit-container .orbit-next {
     background-color: transparent;
 }
 .orbit-container .orbit-next span:before {
-    font-family: FontAwesome;
-    content: "\f054";
+    font-family: fontello;
+    content: '\e805'
 }
 
 .orbit-slide-number{

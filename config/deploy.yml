@@ -3,11 +3,12 @@ development:
   email: john@doe.net
   password: apassword
   # api_key: <your api key here>
-hosting:
+  
+staging:
   host: http://pulsarlabs.herokuapp.com/
-  email: gamble.mcadam@gmail.com
-  password: mickey
-  api_key: 71d564f423fe73f0e97f1acce08c056266890096
+  email: crites.justin@gmail.com
+  password: burningman09
+  api_key: fdb51e29e050a4a648f45cb1a92704f302e5d82c
 
 production:
   host: www.example.com

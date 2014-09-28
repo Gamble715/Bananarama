@@ -24,95 +24,13 @@ position: 0
 <body>
 
   {% include header %}
-  
-  <div class="row">
-    <ul data-orbit class="car">
-      <li>
-        <img src="images/Earth.jpg" />
-        <div class="orbit-caption">...</div>
-      </li>
-      <li>
-        <img src="images/fav.png" />
-        <div class="orbit-caption">...</div>
-      </li>
-      <li>
-        <img src="images/menu.jpg" />
-        <div class="orbit-caption">...</div>
-      </li>
-    </ul>
-  </div>
 
-  <div class="row">
-    <div class="large-3 columns">
-      <div class="row">
-        <div class="large-6 columns center nav-item">
-          <a href="#"><strong>Overview</strong></a>
-        </div>
-        <div class="large-6 columns center nav-item">
-          <a href="#"><strong>Recipies</strong></a>
-        </div>
-      </div>
-    </div>
+  {% include hero_unit %}
 
-    <div class="large-3 columns">
-      <div class="row">
-        <div class="large-6 columns center nav-item">
-          <a href="#"><strong>Where to buy</strong></a>
-        </div> 
-        <div class="large-6 columns center nav-item">
-          <a href="#"><strong>ONE Difference</strong></a>
-        </div>
-      </div>
-    </div>
-
-    <div class="large-3 columns">
-      <div class="row">
-        <div class="large-6 columns center nav-item">
-          <a href="#"><strong>Our company</strong></a>
-        </div>
-        <div class="large-6 columns center nav-item">
-          <a href="#"><strong>FAQ</strong></a>
-        </div>
-      </div>
-    </div>
-
-    <div class="large-3 columns">
-      <div class="row">
-        <div class="large-6 columns center nav-item">
-          <a href="#"><strong>Promotion</strong></a>
-        </div>
-        <div class="large-6 columns center nav-item">
-          <a href="#"><strong>Stuff</strong></a>
-        </div>
-      </div>
-    </div>
-  </div>
+  {% include main_nav %}
 
   {% include footer %}
-  {% block 'main' %}
-    <div class="row copy full-width">
-      <span class="large-6 columns organic-photo">
-      <img src="http://placehold.it/650x500" alt="">
-      </span>
-      <span class="large-6 columns">
-        <h3 class='center'>ORGANIC</h3>
-        <p class="spacing">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-      </span>
-    </div>
-    <ul data-orbit class="car">
-      <li>
-        <img src="http://placehold.it/1400x600" />
-        <div class="orbit-caption">...</div>
-      </li>
-      <li>
-        <img src="http://placehold.it/1400x600" />
-        <div class="orbit-caption">...</div>
-      </li>
-      <li>
-        <img src="http://placehold.it/1400x600" />
-        <div class="orbit-caption">...</div>
-      </li>
-    </ul>
+  {% block 'our_bananas' %}
 
   {% endblock %}
 
@@ -138,6 +56,7 @@ position: 0
   </script>
 
   {{ 'foundation.min.js' | javascript_tag }}
+  {{ 'main.js' | javascript_tag }}
   {{ 'footer.js' | javascript_tag }}
   <!--
 
