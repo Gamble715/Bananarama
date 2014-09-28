@@ -5,12 +5,6 @@ published: true
 cache_strategy: none
 response_type: text/html
 position: 0
-editable_elements:
-  main/about_body: "<div class=\"row\">\r\n        <div class=\"large-12 columns\">\r\n
-    \         <div class=\"panel\">\r\n            <p>This is a twelve column section
-    in a rljdnflacjnsow. Each of theswece includes a div.panel element so you can
-    see where the columns are - it's not required at all for the grid.</p>\r\n          </div>\r\n
-    \       </div>\r\n      </div>"
 ---
 <!DOCTYPE html>
 <!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" > <![endif]-->
@@ -30,7 +24,7 @@ editable_elements:
 <body>
 
   {% include header %}
-
+  
   <div class="row">
     <ul data-orbit class="car">
       <li>
@@ -96,6 +90,29 @@ editable_elements:
 
   {% include footer %}
   {% block 'main' %}
+    <div class="row copy full-width">
+      <span class="large-6 columns organic-photo">
+      <img src="http://placehold.it/650x500" alt="">
+      </span>
+      <span class="large-6 columns">
+        <h3 class='center'>ORGANIC</h3>
+        <p class="spacing">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
+      </span>
+    </div>
+    <ul data-orbit class="car">
+      <li>
+        <img src="http://placehold.it/1400x600" />
+        <div class="orbit-caption">...</div>
+      </li>
+      <li>
+        <img src="http://placehold.it/1400x600" />
+        <div class="orbit-caption">...</div>
+      </li>
+      <li>
+        <img src="http://placehold.it/1400x600" />
+        <div class="orbit-caption">...</div>
+      </li>
+    </ul>
 
   {% endblock %}
 

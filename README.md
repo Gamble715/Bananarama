@@ -1,6 +1,6 @@
 To get started run:
 	  bundle install
-		wagon serve
+		bundle exec wagon serve
 
 To push to hosting run:
-		wagon push hosting
+		bundle exec wagon push hosting
