@@ -22,6 +22,7 @@ editable_elements:
   <title>{{ page.title }}</title>
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
   {{ 'foundation.css' | stylesheet_tag }}
+  {{ 'fontello.css' | stylesheet_tag }}
   {{ 'style.css' | stylesheet_tag }}
   {{ 'vendor/custom.modernizr.js' | javascript_tag }}
   {% inline_editor %}
@@ -30,20 +31,68 @@ editable_elements:
 
   {% include header %}
 
-  <ul data-orbit class="car">
-    <li>
-      <img src="images/Earth.jpg" />
-      <div class="orbit-caption">...</div>
-    </li>
-    <li>
-      <img src="images/fav.png" />
-      <div class="orbit-caption">...</div>
-    </li>
-    <li>
-      <img src="images/menu.jpg" />
-      <div class="orbit-caption">...</div>
-    </li>
-  </ul>
+  <div class="row">
+    <ul data-orbit class="car">
+      <li>
+        <img src="images/Earth.jpg" />
+        <div class="orbit-caption">...</div>
+      </li>
+      <li>
+        <img src="images/fav.png" />
+        <div class="orbit-caption">...</div>
+      </li>
+      <li>
+        <img src="images/menu.jpg" />
+        <div class="orbit-caption">...</div>
+      </li>
+    </ul>
+  </div>
+
+  <div class="row">
+    <div class="large-3 columns">
+      <div class="row">
+        <div class="large-6 columns center nav-item">
+          <a href="#"><strong>Overview</strong></a>
+        </div>
+        <div class="large-6 columns center nav-item">
+          <a href="#"><strong>Recipies</strong></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="large-3 columns">
+      <div class="row">
+        <div class="large-6 columns center nav-item">
+          <a href="#"><strong>Where to buy</strong></a>
+        </div> 
+        <div class="large-6 columns center nav-item">
+          <a href="#"><strong>ONE Difference</strong></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="large-3 columns">
+      <div class="row">
+        <div class="large-6 columns center nav-item">
+          <a href="#"><strong>Our company</strong></a>
+        </div>
+        <div class="large-6 columns center nav-item">
+          <a href="#"><strong>FAQ</strong></a>
+        </div>
+      </div>
+    </div>
+
+    <div class="large-3 columns">
+      <div class="row">
+        <div class="large-6 columns center nav-item">
+          <a href="#"><strong>Promotion</strong></a>
+        </div>
+        <div class="large-6 columns center nav-item">
+          <a href="#"><strong>Stuff</strong></a>
+        </div>
+      </div>
+    </div>
+  </div>
 
   {% include footer %}
   {% block 'main' %}

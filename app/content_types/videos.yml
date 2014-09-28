@@ -1,8 +1,8 @@
 # Public name of this content type
-name: Videostitle:string
+name: Videos
 
 # TODO: explain
-slug: videostitle:string
+slug: videos
 
 # Explanation for the backoffice
 description: A description of the content type for the editors

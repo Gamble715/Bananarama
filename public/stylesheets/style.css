@@ -1,3 +1,5 @@
+/*-- Site Wide Styles / Foundation Override --*/
+
 body {
 }
 
@@ -12,6 +14,84 @@ body {
    margin-left: auto;
    margin-right: auto;
    max-width: initial;
+}
+
+.row {
+  width: 100%;
+  max-width: 100%;
+}
+
+/*-- Navigation Styles --*/
+
+.nav-header{ 
+  background-color: rgba(249,246,244,1);
+  position: absolute;
+  top: 0;
+  z-index: 30;
+  height: 60px;
+  padding-top: 10px;
+  width: 100%;
+}
+
+.nav-header h1, h2, h3, h4, p, a{
+  color: #A470AC;
+}
+
+.nav-header h4{
+  font-size: 0.9em;
+}
+
+#newsletter {
+  text-decoration: none;
+  border-bottom: 2px solid #FDB53D;
+}
+#newsletter:hover {
+  border-bottom-color: #FDB53D;
+}
+
+.pill-search{
+  border: 0;
+  background-color: #ECECEC;
+  height: 20px;
+  margin-top: 0px;
+  margin-left: 35px;
+  padding-left: 15px;
+  border-radius:15px; 
+  -moz-border-radius:15px; 
+  -webkit-border-radius:15px;
+}
+
+.social-section {
+  float: right;
+  padding-right: 15px;
+  padding-top: 10px;
+}
+
+.social-section span{
+  margin-left: 15px;
+}
+
+.search {
+  float: right;
+}
+
+#fbicon{
+  color: #3755C9;
+}
+#googicon{
+  color: #DB6E3C;
+}
+#twiticon{
+  color: #6AE1EF;
+}
+#pinicon{
+  color: #DE3B41;
+}
+
+/*-- Large Slider Styles --*/
+
+.orbit-container {
+  height: 700px;
 }
 
 .orbit-container .orbit-prev span,
@@ -36,13 +116,16 @@ body {
     content: "\203A";
 }
 
-.center {
-	text-align: center;
+.orbit-slide-number{
+  display: none;
 }
 
-.car {
-	height: 600px !important;
-	/*position: fixed !important;*/
+.orbit-timer{
+  display: none;
+}
+
+.center {
+	text-align: center;
 }
 
 .scroll {
