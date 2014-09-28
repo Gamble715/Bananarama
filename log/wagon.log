@@ -593,3 +593,116 @@ Found page "Home page" [index]
 [0;32;49mCompleted 200 OK in 5.5ms
 
 [0m
+unable to get an API token: 
+unable to get an API token: 
+[0;97;49mStarted GET "/" at 2014-09-27 21:41:46 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-27 21:42:11 -0500
+[0;97;49mStarted GET "/" at 2014-09-27 21:42:13 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 29.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-09-27 21:56:16 -0500
+[0;97;49mStarted GET "/" at 2014-09-27 21:57:25 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.3ms
+
+[0m
+[0;97;49mStarted GET "/font/fontello.woff" at 2014-09-27 21:57:26 -0500[0m
+Detecting locale EN
+  Rendered snippet header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.7ms
+
+[0m
+[0;97;49mStarted GET "/font/fontello.ttf" at 2014-09-27 21:57:26 -0500[0m
+Detecting locale EN
+  Rendered snippet header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.2ms
+
+[0m
+[0;97;49mStarted GET "/font/fontello.svg" at 2014-09-27 21:57:26 -0500[0m
+Detecting locale EN
+  Rendered snippet header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 34.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-09-27 21:57:54 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.1ms
+
+[0m
+[0;97;49mStarted GET "/font/fontello.woff" at 2014-09-27 21:57:55 -0500[0m
+Detecting locale EN
+  Rendered snippet header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 16.9ms
+
+[0m
+[0;97;49mStarted GET "/font/fontello.ttf" at 2014-09-27 21:57:55 -0500[0m
+Detecting locale EN
+  Rendered snippet header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 4.4ms
+
+[0m
+[0;97;49mStarted GET "/font/fontello.svg" at 2014-09-27 21:57:55 -0500[0m
+Detecting locale EN
+  Rendered snippet header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-09-27 21:58:36 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.6ms
+
+[0m
