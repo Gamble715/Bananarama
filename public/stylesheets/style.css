@@ -1,6 +1,8 @@
 /*-- Site Wide Styles / Foundation Override --*/
 
-body {
+html, body{
+  width: 100%;
+  height: 100%;
 }
 
 .copy {
@@ -46,11 +48,25 @@ body {
   background-image: url('http://www.placehold.it/350x500');
 }
 
+.color-purple{
+  color:purple;
+}
+
+.color-white{
+  color:white;
+}
+
 /*-- Below Orbit Nav Bar --*/
 
 .main-nav{
   margin-top: -100px;
   z-index: 1;
+}
+
+.main-nav-scrolled {
+  position: fixed;
+  width: 100%;
+  top: 160px;
 }
 
 .nav-item{
@@ -66,7 +82,7 @@ body {
   padding-bottom: 5px;
 }
 
-.nav-item > i, a, h4, strong{
+.nav-item *{
   color: #7F3992;
 }
 
@@ -85,7 +101,7 @@ body {
 
 .nav-header{ 
   background-color: rgba(255,255,255,0.9);
-  position: absolute;
+  position: fixed;
   top: 0;
   z-index: 30;
   height: 60px;
@@ -93,7 +109,7 @@ body {
   width: 100%;
 }
 
-.nav-header > h1, h2, h3, h4, p, a{
+.nav-header *{
   color: #7F3992;
 }
 
@@ -148,6 +164,34 @@ body {
   color: #DE3B41;
 }
 
+/*-- Footer Styles--*/
+
+.footer{
+  width: 100%;
+  height: 50px;
+  padding-bottom: 25px; 
+  margin-top: 25px;
+}
+
+.footer-content{
+  position: absolute;
+  display: inline;
+  left: 15px;
+  width: 100%;
+}
+
+.footer-content *{
+  font-size: 1em;
+  margin-left: 2%;
+  display:inline;
+}
+
+.social-section-footer{
+  position: absolute;
+  display: inline;
+  right: 15px;
+}
+
 /*-- Large Slider Styles --*/
 
 .orbit-container {
@@ -184,4 +228,31 @@ body {
 }
 .orbit-timer{
   display: none;
+}
+
+/*-- Index Body Styles --*/
+
+.side-pic{
+  margin-left: 25%;
+  margin-top: -27%;
+  -webkit-transform: rotateX(120deg);
+  transform: rotateY(180deg);
+  height: 450px;
+}
+
+.call-to-action-purple{
+  height: 350px;
+  background-color: #5D2158;
+  text-align: center;
+  padding: 5% 5% 5% 5%;
+}
+
+.call-to-action-purple *{
+  color: white;
+}
+
+.banana-facts{
+  height: 350px;
+  text-align: center;
+  padding: 5% 5% 5% 5%;
 }

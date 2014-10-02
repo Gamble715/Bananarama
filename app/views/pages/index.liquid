@@ -30,11 +30,14 @@ position: 0
 
   {% include main_nav %}
 
-  {% include footer %}
+  {% include body_content %}
+
   {% block 'our_bananas' %}
 
   {% endblock %}
 
+  {% include footer %}
+  
   {{ 'vendor/jquery.js' | javascript_tag }}
   {{ 'vendor/jquery.stellar.min.js' | javascript_tag }}
   <script>
