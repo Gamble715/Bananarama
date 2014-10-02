@@ -20,33 +20,8 @@ published: true
 #   'some_block/some_slug': "<text>"
 #   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
 ---
-{% extends 'index' %}
+{% extends 'generic' %}
 
-{% block 'main' %}
+{% block 'generic_body_content' %}
 
-
-<div class="row copy">
-	<span class="large-6 columns">
-		Photo
-	</span>
-	<span class="large-6 columns">
-		Text
-	</span>
-</div>
-<ul data-orbit class="car">
-  <li>
-    <img src="images/Earth.jpg" />
-    <div class="orbit-caption">...</div>
-  </li>
-  <li>
-    <img src="images/fav.png" />
-    <div class="orbit-caption">...</div>
-  </li>
-  <li>
-    <img src="images/menu.jpg" />
-    <div class="orbit-caption">...</div>
-  </li>
-</ul>
-
-<div style="height: 500px"></div>
 {% endblock %}
