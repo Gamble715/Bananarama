@@ -8,7 +8,7 @@ slug: recipes
 description: A description of the content type for the editors
 
 # Default field (e.g title)
-label_field_name: title
+label_field_name:  title
 
 # Order of entries
 order_by: manually # default: manually, also available: created_at or any field slug
@@ -27,10 +27,31 @@ order_by: manually # default: manually, also available: created_at or any field 
 
 # Describe each field. The name shoud always be an underscored string
 fields: 
+-  image: # Name of the field
+    label:  image
+    type: file
+    required: true
+    hint: A description of the field for the editors
+    localized: false
+
 - title: # Name of the field
     label: Title
     type: string
-    required: true
+    required: false
+    hint: A description of the field for the editors
+    localized: false
+
+- minutes: # Name of the field
+    label: Minutes
+    type: integer
+    required: false
+    hint: A description of the field for the editors
+    localized: false
+
+- ingredients: # Name of the field
+    label: Ingredients
+    type: integer
+    required: false
     hint: A description of the field for the editors
     localized: false
 
@@ -42,17 +63,3 @@ fields:
     localized: false
     # Enable or not the RTE [html|text]
     # text_formatting: html
-
-- video: # Name of the field
-    label: Video
-    type: string
-    required: false
-    hint: A description of the field for the editors
-    localized: false
-
-- course: # Name of the field
-    label: Course
-    type: string
-    required: false
-    hint: A description of the field for the editors
-    localized: false

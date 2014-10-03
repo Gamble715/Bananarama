@@ -23,21 +23,21 @@ published: true
 {% extends 'generic' %}
 
 {% block 'generic_body_content' %}
-
-
-<div class="row">
-<h2 class="large-12 columns center">RECIPES</h2>
-</div>
-<div class="row">
-<ul class="center">
-  <li class="left">Snacks & Bites</li>
-  <li class="left">Breakfast & Brunch</li>
-  <li class="left">Salads</li>
-  <li class="left">Desserts</li>
-  <li class="left">Breads</li>
-  <li class="left">Beverages & Smoothies</li>
-  <li class="left">Kids Friendly</li>
-</ul>
-</div>
-
+	<div class="recipe-row row">
+		{% for recipe in contents.recipes %}
+			<div class="small-4 columns">
+				<div class="recipe">
+					<img src='{{ recipe.image["url"] }}' />
+					<h1>{{ recipe.title }}</h1>
+					<h4><span>{{ recipe.minutes }}</span> min, <span>{{ recipe.ingredients }}</span> ingredients </h4>
+					<p>{{ recipe.description }}</p>
+					<p> My Recipes </p>
+					<p> Rating </p>
+					<hr>
+					<p> Social stuff </p>
+					<p> Number </p>
+				</div>
+			</div>
+		{% endfor %}
+	</div>
 {% endblock %}

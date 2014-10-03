@@ -1938,3 +1938,1603 @@ Found page "Recipes" [recipes]
 [0;32;49mCompleted 200 OK in 4.3ms
 
 [0m
+* Reloaded "pages", "snippets" at 2014-10-02 16:46:22 -0500
+* Reloaded "pages", "snippets" at 2014-10-02 16:47:11 -0500
+* Reloaded "pages", "snippets" at 2014-10-02 16:48:53 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-02 16:48:55 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.3ms
+
+[0m
+* Reloaded "content_types", "content_entries" at 2014-10-02 16:52:40 -0500
+* Reloaded "content_types", "content_entries" at 2014-10-02 16:54:46 -0500
+["/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:193:in `method_missing'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'"]
+The 'recipes' content type does not have a field named 'video'.
+The 'recipes' content type does not have a field named 'video'.
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_types", "content_entries" at 2014-10-02 16:55:37 -0500
+["/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:193:in `method_missing'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'"]
+The 'recipes' content type does not have a field named 'video'.
+The 'recipes' content type does not have a field named 'video'.
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_types", "content_entries" at 2014-10-02 16:57:25 -0500
+["/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:193:in `method_missing'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'"]
+The 'recipes' content type does not have a field named 'video'.
+The 'recipes' content type does not have a field named 'video'.
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "pages", "snippets" at 2014-10-02 17:10:29 -0500
+* Reloaded "pages", "snippets" at 2014-10-02 17:10:52 -0500
+* Reloaded "pages", "snippets" at 2014-10-02 17:12:24 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-02 17:12:40 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/recipes.liquid:23:in `Recipes'
+[0m
+* Reloaded "content_types", "content_entries" at 2014-10-02 17:15:31 -0500
+["/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:193:in `method_missing'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:80:in `block (2 levels) in build_entry'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `tap'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'", "/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'"]
+The 'recipes' content type does not have a field named 'video'.
+The 'recipes' content type does not have a field named 'video'.
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:86:in `rescue in block (2 levels) in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:74:in `block (2 levels) in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:73:in `block in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_entries" at 2014-10-02 17:15:40 -0500
+undefined method `permalink!' for {"url"=>"Sample 1"}:Hash
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:261:in `block (2 levels) in set_slug'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:250:in `block in set_slug'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:249:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:249:in `set_slug'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:91:in `block in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+[0;97;49mStarted GET "/recipes" at 2014-10-02 17:15:44 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/recipes.liquid:23:in `Recipes'
+[0m
+[0;97;49mStarted GET "/" at 2014-10-02 17:16:11 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.8ms
+
+[0m
+[0;97;49mStarted GET "/locomotive" at 2014-10-02 17:16:14 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 5.7ms
+
+[0m
+[0;97;49mStarted GET "/locomotive" at 2014-10-02 17:16:20 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 5.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-02 17:19:01 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] undefined method `each' for nil:NilClass - ./app/views/pages/recipes.liquid:23:in `Recipes'
+[0m
+undefined method `permalink!' for {"url"=>"Sample 1"}:Hash
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:261:in `block (2 levels) in set_slug'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:250:in `block in set_slug'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:249:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:249:in `set_slug'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:91:in `block in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:169:in `require_mounter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:24:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/cli.rb:179:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/bin/wagon:9:in `<top (required)>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `<main>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `eval'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `<main>'
+
+
+undefined method `permalink!' for {"url"=>"Sample 1"}:Hash
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:261:in `block (2 levels) in set_slug'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:250:in `block in set_slug'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:249:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_entry.rb:249:in `set_slug'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:91:in `block in build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/models/content_type.rb:68:in `build_entry'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:75:in `add'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:29:in `block (2 levels) in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `each_with_index'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:28:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:169:in `require_mounter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:24:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/cli.rb:179:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/bin/wagon:9:in `<top (required)>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `<main>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `eval'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `<main>'
+
+
+[0;97;49mStarted GET "/" at 2014-10-03 15:33:10 -0500[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 15:33:13 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 15:34:12 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 15:34:13 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.0ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-03 15:34:41 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 15:34:41 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.7ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-03 15:43:03 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 15:43:04 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.2ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-03 15:43:45 -0500
+(<unknown>): found character that cannot start any token while scanning for the next token at line 15 column 1
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+[0;97;49mStarted GET "/recipes" at 2014-10-03 15:43:46 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.7ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-03 15:43:51 -0500
+(<unknown>): found character that cannot start any token while scanning for the next token at line 15 column 1
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_entries" at 2014-10-03 15:44:01 -0500
+(<unknown>): found character that cannot start any token while scanning for the next token at line 16 column 1
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+[0;97;49mStarted GET "/recipes" at 2014-10-03 15:44:03 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 15:44:06 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.6ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-03 15:44:32 -0500
+(<unknown>): found character that cannot start any token while scanning for the next token at line 16 column 1
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+[0;97;49mStarted GET "/recipes" at 2014-10-03 15:44:33 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+(<unknown>): found character that cannot start any token while scanning for the next token at line 16 column 1
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:169:in `require_mounter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:24:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/cli.rb:179:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/bin/wagon:9:in `<top (required)>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `<main>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `eval'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 16 column 1
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:169:in `require_mounter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:24:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/cli.rb:179:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/bin/wagon:9:in `<top (required)>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `<main>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `eval'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 13 column 1
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:169:in `require_mounter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:24:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/cli.rb:179:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/bin/wagon:9:in `<top (required)>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `<main>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `eval'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 13 column 1
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:169:in `require_mounter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:24:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/cli.rb:179:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/bin/wagon:9:in `<top (required)>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `<main>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `eval'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 14 column 1
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:169:in `require_mounter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:24:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/cli.rb:179:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/bin/wagon:9:in `<top (required)>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `<main>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `eval'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `<main>'
+
+
+[0;97;49mStarted GET "/recipes" at 2014-10-03 15:46:56 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 15:47:00 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.3ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-03 15:48:37 -0500
+(<unknown>): found character that cannot start any token while scanning for the next token at line 12 column 1
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+[0;97;49mStarted GET "/recipes" at 2014-10-03 15:48:38 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.4ms
+
+[0m
+(<unknown>): found character that cannot start any token while scanning for the next token at line 12 column 1
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:169:in `require_mounter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:24:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/cli.rb:179:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/bin/wagon:9:in `<top (required)>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `<main>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `eval'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 12 column 1
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:169:in `require_mounter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:24:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/cli.rb:179:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/bin/wagon:9:in `<top (required)>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `<main>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `eval'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `<main>'
+
+
+(<unknown>): found character that cannot start any token while scanning for the next token at line 12 column 1
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:370:in `parse_stream'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:318:in `parse'
+	/Users/j4ustin/.rvm/rubies/ruby-2.1.2/lib/ruby/2.1.0/psych.rb:245:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/base.rb:57:in `read_yaml'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:22:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:169:in `require_mounter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon.rb:24:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/cli.rb:179:in `serve'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/bin/wagon:9:in `<top (required)>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `load'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/wagon:23:in `<main>'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `eval'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/bin/ruby_executable_hooks:15:in `<main>'
+
+
+[0;97;49mStarted GET "/recipes" at 2014-10-03 15:51:14 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.1ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-03 15:52:00 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 15:52:00 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:12:56 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 16:13:17 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:13:18 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:13:44 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:13:58 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:14:06 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:15:17 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:15:55 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.7ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-03 16:19:02 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:19:03 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.5ms
+
+[0m
+[0;97;49mStarted GET "/%7B" at 2014-10-03 16:19:03 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 9.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 16:19:38 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:19:40 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.0ms
+
+[0m
+[0;97;49mStarted GET "/%7B" at 2014-10-03 16:19:41 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 8.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 16:20:33 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:20:37 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] undefined method `starts_with?' for {"url"=>"banana.jpg"}:Hash - ./app/views/pages/recipes.liquid:23:in `Recipes'
+[0m
+* Reloaded "content_entries" at 2014-10-03 16:21:07 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:21:11 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] undefined method `starts_with?' for {"url"=>"banana.jpg"}:Hash - ./app/views/pages/recipes.liquid:23:in `Recipes'
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 16:21:26 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:21:27 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] undefined method `starts_with?' for {"url"=>"banana.jpg"}:Hash - ./app/views/pages/recipes.liquid:23:in `Recipes'
+[0m
+* Reloaded "content_entries" at 2014-10-03 16:24:46 -0500
+* Reloaded "pages", "snippets" at 2014-10-03 16:24:53 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:24:56 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/%7B" at 2014-10-03 16:24:56 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.9ms
+
+[0m
+[0;97;49mStarted GET "/%7B" at 2014-10-03 16:24:56 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 16:25:20 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:25:22 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.9ms
+
+[0m
+[0;97;49mStarted GET "/%7B%22url%22=" at 2014-10-03 16:25:22 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 10.8ms
+
+[0m
+[0;97;49mStarted GET "/%7B%22url%22=" at 2014-10-03 16:25:24 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 5.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 16:29:46 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:29:48 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.8ms
+
+[0m
+[0;97;49mStarted GET "/%7B%22url%22=%3E%22public/images/banana.jpg%22%7D" at 2014-10-03 16:29:48 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 7.0ms
+
+[0m
+[0;97;49mStarted GET "/%7B%22url%22=%3E%22banana.jpg%22%7D" at 2014-10-03 16:29:48 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 10.8ms
+
+[0m
+[0;97;49mStarted GET "/%7B%22url%22=%3E%22public/images/banana.jpg%22%7D" at 2014-10-03 16:29:48 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 7.5ms
+
+[0m
+[0;97;49mStarted GET "/%7B%22url%22=%3E%22banana.jpg%22%7D" at 2014-10-03 16:29:48 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 7.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 16:30:18 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:30:22 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] undefined method `starts_with?' for {"url"=>"public/images/banana.jpg"}:Hash - ./app/views/pages/recipes.liquid:23:in `Recipes'
+[0m
+* Reloaded "content_entries" at 2014-10-03 16:30:36 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:30:37 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] undefined method `starts_with?' for {"url"=>"banana.jpg"}:Hash - ./app/views/pages/recipes.liquid:23:in `Recipes'
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 16:32:46 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:32:52 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.2ms
+
+[0m
+[0;97;49mStarted GET "/%7B%22url%22=%3E%22banana.jpg%22%7D" at 2014-10-03 16:32:52 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 10.7ms
+
+[0m
+[0;97;49mStarted GET "/%7B%22url%22=%3E%22banana.jpg%22%7D" at 2014-10-03 16:32:52 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 7.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 16:33:16 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:33:17 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.6ms
+
+[0m
+[0;97;49mStarted GET "/banana.jpg" at 2014-10-03 16:33:17 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 9.6ms
+
+[0m
+[0;97;49mStarted GET "/banana.jpg" at 2014-10-03 16:33:17 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 5.0ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-03 16:33:40 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:33:41 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.9ms
+
+[0m
+[0;97;49mStarted GET "/public/images/banana.jpg" at 2014-10-03 16:33:41 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.8ms
+
+[0m
+[0;97;49mStarted GET "/banana.jpg" at 2014-10-03 16:33:41 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.3ms
+
+[0m
+[0;97;49mStarted GET "/public/images/banana.jpg" at 2014-10-03 16:33:41 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.7ms
+
+[0m
+[0;97;49mStarted GET "/banana.jpg" at 2014-10-03 16:33:41 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 8.4ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-03 16:33:50 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:33:51 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.4ms
+
+[0m
+[0;97;49mStarted GET "/public/images/banana.jpg" at 2014-10-03 16:33:52 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 8.5ms
+
+[0m
+[0;97;49mStarted GET "/banana.jpg" at 2014-10-03 16:33:52 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 18.4ms
+
+[0m
+[0;97;49mStarted GET "/public/images/banana.jpg" at 2014-10-03 16:33:52 -0500[0m
+Detecting locale EN
+[0;97;49mStarted GET "/banana.jpg" at 2014-10-03 16:33:52 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet body_content
+  Rendered snippet footer
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 12.8ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 12.2ms
+
+[0m
+[0;97;49mStarted GET "/public/images/banana.jpg" at 2014-10-03 16:33:56 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.6ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-03 16:34:05 -0500
+* Reloaded "content_entries" at 2014-10-03 16:34:05 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:34:07 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.0ms
+
+[0m
+[0;97;49mStarted GET "/banana.jpg" at 2014-10-03 16:34:07 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 27.3ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-03 16:34:15 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:34:17 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.3ms
+
+[0m
+[0;97;49mStarted GET "/banana.jpg" at 2014-10-03 16:34:17 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.4ms
+
+[0m
+[0;97;49mStarted GET "/banana.jpg" at 2014-10-03 16:34:17 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet main_nav
+  Rendered snippet body_content
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.7ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-03 16:34:35 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:34:36 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 16:50:33 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:50:50 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 31.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:51:14 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 16:52:38 -0500
+* Reloaded "pages", "snippets" at 2014-10-03 16:52:50 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:53:42 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:54:35 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 88.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:54:52 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 15.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 16:55:22 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:08:18 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 20.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 17:18:41 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:19:13 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 22.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:19:28 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:19:47 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:20:02 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:20:26 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:24:19 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:24:41 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:26:15 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:28:54 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-03 17:29:10 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:29:12 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:30:01 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:31:04 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:33:11 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:33:55 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:36:01 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 106.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:38:48 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:39:01 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 24.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:39:20 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:40:26 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 18.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:45:50 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:49:16 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:49:35 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:50:38 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:50:47 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:52:45 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 19.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:54:36 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-03 17:54:59 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.2ms
+
+[0m

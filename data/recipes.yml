@@ -1,20 +1,35 @@
-- "Sample 1":
-    description: "Similique vel et quae aliquam eligendi est. Vitae hic illo nulla et error dolorem velit. Aut ipsam dolor labore corporis. Repudiandae nobis exercitationem quasi voluptatem quos nisi. Error eius quas ut laborum voluptates corporis consequuntur nobis."
-    video: "Dolor ipsum ea minus nostrum consequatur."
-    course: "Rerum deserunt exercitationem doloremque ut placeat dolorem aut omnis."
+- "Banana Something":
+    image: /images/banana.jpg
+    description: "Et commodi fugit pariatur quasi voluptas. Sequi quis sit est quibusdam accusantium molestiae nam. Et suscipit nostrum molestias quaerat quis sit voluptatem autem. Perferendis voluptas laudantium distinctio molestiae maiores aut et sunt."
+    minutes: 40
+    ingredients: 5
 
-- "Sample 2":
-    description: "Dolor modi odit eos quae. Delectus saepe ad alias inventore. Sit autem delectus consequuntur qui perspiciatis et. Temporibus aut a deserunt neque reprehenderit."
-    video: "Et aut ipsam voluptas delectus."
-    course: "Fugiat alias sed dicta dolorem illum vitae."
+- "Suprise Bananas":
+    image: /images/banana.jpg
+    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    minutes: 40
+    ingredients: 5
 
-- "Sample 3":
-    description: "Quia mollitia voluptatem voluptatem et. Dolore quia cum asperiores optio molestiae reprehenderit. Qui esse nulla minima dolor aut dignissimos. Sit autem iure officia et quas nemo sunt a. Sit accusamus excepturi quo qui voluptatem."
-    video: "Ad molestias repellat quia asperiores nostrum cum ut."
-    course: "Explicabo omnis voluptas excepturi qui commodi vitae et."
+- "Super Banana Supremo":
+    image: /images/banana.jpg
+    description: "Third recipe"
+    minutes: 40 
+    ingredients: 10
 
-- "Sample 4":
-    description: "Sed eaque omnis illo voluptatum nobis autem adipisci animi. Expedita repellendus nostrum enim dolor. Eum laborum exercitationem illo velit necessitatibus nihil et. Beatae molestias blanditiis est et incidunt. Eos eius corporis optio aut rem minus."
-    video: "Excepturi similique autem et quis maxime nemo."
-    course: "Itaque rerum commodi unde saepe earum."
+- "Delicious something or other":
+    image: /images/banana.jpg
+    description: "Fourth recipe"
+    minutes: 50 
+    ingredients: 5
 
+- "Big blamo supriso":
+    image: /images/banana.jpg
+    description: "Fifth recipe"
+    minutes: 50 
+    ingredients: 5
+
+- "Banana Bread":
+    image: /images/banana.jpg
+    description: "Sixth recipe"
+    minutes: 50 
+    ingredients: 5
