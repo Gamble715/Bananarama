@@ -20,24 +20,24 @@ published: true
 #   'some_block/some_slug': "<text>"
 #   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
 ---
-{% extends 'index' %}
+{% extends 'generic' %}
 
-{% block 'our_bananas' %}
+{% block 'generic_body_content' %}
 
 
-<div class="row">
-	<ul class="center">
-	  <li class="left">Snacks & Bites</li>
-	  <li class="left">Breakfast & Brunch</li>
-	  <li class="left">Salads</li>
-	  <li class="left">Desserts</li>
-	  <li class="left">Breads</li>
-	  <li class="left">Beverages & Smoothies</li>
-	  <li class="left">Kids Friendly</li>
-	</ul>
-</div>
-<div class="row">
-	<h2 class="large-12 columns center">RECIPES</h2>
-</div>
+	<div class="row">
+		<ul class="center">
+		  <li class="left">Snacks & Bites</li>
+		  <li class="left">Breakfast & Brunch</li>
+		  <li class="left">Salads</li>
+		  <li class="left">Desserts</li>
+		  <li class="left">Breads</li>
+		  <li class="left">Beverages & Smoothies</li>
+		  <li class="left">Kids Friendly</li>
+		</ul>
+	</div>
+	<div class="row">
+		<h2 class="large-12 columns center">RECIPES</h2>
+	</div>
 
 {% endblock %}

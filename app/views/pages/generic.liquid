@@ -1,0 +1,103 @@
+---
+title: Home page
+listed: false
+published: true
+cache_strategy: none
+response_type: text/html
+position: 0
+---
+<!DOCTYPE html>
+<!--[if IE 8]>         <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>{{ page.title }}</title>
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+  {{ 'foundation.css' | stylesheet_tag }}
+  {{ 'fonts.css' | stylesheet_tag }}
+  {{ 'fontello.css' | stylesheet_tag }}
+  {{ 'style.css' | stylesheet_tag }}
+  {{ 'vendor/custom.modernizr.js' | javascript_tag }}
+  {% inline_editor %}
+</head>
+<body>
+  <!-- <div class="row"> -->
+    {% include header %}
+    {% include generic_nav %}
+  <!-- </div> -->
+
+  <div class="row">
+
+    {% block 'generic_body_content' %}
+    {% endblock %}
+  </div>
+
+  {% include generic_nav %}
+  {% include footer %}
+
+  {{ 'vendor/jquery.js' | javascript_tag }}
+  {{ 'vendor/jquery.stellar.min.js' | javascript_tag }}
+  <script>
+  document.write('<script src=' +
+  ('__proto__' in {} ? '{{ 'vendor/zepto.js' | javascript_url }}' : '{{ 'vendor/jquery.js' | javascript_url }}') +
+  '><\/script>')
+
+  $.stellar();
+
+    $(".next-slide").click(function() {
+    $("#ORBIT-ID").siblings(".orbit-next").click();
+    $("#ORBIT-ID").siblings(".orbit-timer").click(); // Remove this line to pause the orbit. (it pauses whenever you change slides by default)
+  });
+
+  $(".prev-slide").click(function() {
+    $("#ORBIT-ID").siblings(".orbit-prev").click();
+    $("#ORBIT-ID").siblings(".orbit-timer").click(); // Remove this line to pause the orbit. (it pauses whenever you change slides by default)
+  });
+
+  </script>
+  {{ 'foundation.min.js' | javascript_tag }}
+  {{ 'main.js' | javascript_tag }}
+  {{ 'footer.js' | javascript_tag }}
+  <!--
+
+  {{ 'foundation/foundation.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.alerts.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.clearing.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.cookie.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.dropdown.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.forms.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.joyride.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.magellan.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.orbit.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.reveal.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.section.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.tooltips.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.topbar.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.interchange.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.placeholder.js' | javascript_tag }}
+
+  {{ 'foundation/foundation.abide.js' | javascript_tag }}
+
+  -->
+
+<script>
+$(document).foundation();
+</script>
+</body>
+</html>
