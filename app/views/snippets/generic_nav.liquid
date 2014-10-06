@@ -1,3 +1,11 @@
+{% nav <origin>(, <options>) %}
+
+{% nav site, depth: , snippet: menu_entry %}
+{% block misc_properties %}
+  {% editable_text menu_teaser %}{% endeditable_text %}
+  {% editable_file menu_image %}{% endeditable_file %}
+{% endblock %}
+
 <ul class="row" data-tab id="nav">
     <li class="small-1 columns center nav-item">
       <a href="#ourBananas">
