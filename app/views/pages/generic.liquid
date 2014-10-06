@@ -22,15 +22,29 @@ position: 0
   {{ 'vendor/custom.modernizr.js' | javascript_tag }}
   {% inline_editor %}
 </head>
+
+
 <body class="generic-body">
+    {% include header %}
 
-  {% include header %}
+    <ul class="row" data-tab id="nav">
+      {% nav 'site', snippet: 'generic_nav', no_wrapper: true%}
+    </ul>
 
-  {% block 'generic_body_content' %}
-  {% endblock %}
+    {% include sub_nav %}
+
+
+  <div class="row">
+
+    {% block 'generic_body_content' %}
+    {% endblock %}
+  </div>
+
+  <ul class="row" data-tab id="nav">
+    {% nav 'site', snippet: 'generic_nav', no_wrapper: true%}
+  </ul>
 
   {% include generic_footer %}
-  
   {{ 'vendor/jquery.js' | javascript_tag }}
   {{ 'vendor/jquery.stellar.min.js' | javascript_tag }}
   <script>
@@ -53,7 +67,6 @@ position: 0
   </script>
   {{ 'foundation.min.js' | javascript_tag }}
   {{ 'main.js' | javascript_tag }}
-  {{ 'footer.js' | javascript_tag }}
 
 <script>
 $(document).foundation();

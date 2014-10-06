@@ -12,6 +12,7 @@ html, body{
 
 .generic-body{
   background-color: #f5f5f5;
+
 }
 
 .copy {
@@ -79,10 +80,10 @@ html, body{
 }
 
 .nav-item{
-  height: 100px;
+  height: 85px;
   padding-top: 15px;
   padding-bottom: 15px;
-  width: 14.28%;
+  /*width: 14.28%;*/
   background: rgba(255,255,255,0.9);
 }
 
@@ -119,7 +120,7 @@ html, body{
 
 /*-- Navigation Styles --*/
 
-.nav-header{ 
+.nav-header{
   background-color: rgba(255,255,255,0.9);
   position: fixed;
   top: 0;
@@ -171,8 +172,8 @@ html, body{
   margin-top: 0px;
   margin-left: 35px;
   padding-left: 15px;
-  border-radius:15px; 
-  -moz-border-radius:15px; 
+  border-radius:15px;
+  -moz-border-radius:15px;
   -webkit-border-radius:15px;
 }
 
@@ -208,7 +209,7 @@ html, body{
 .footer{
   width: 100%;
   height: 50px;
-  padding-bottom: 25px; 
+  padding-bottom: 25px;
   margin-top: 25px;
 }
 
@@ -276,6 +277,16 @@ html, body{
 
 /*-- Index Body Styles --*/
 
+.sub-nav {
+  background: #8B4B9A;
+  height: 25px;
+  color:#fff;
+}
+
+#nav {
+  list-style: none;
+}
+
 .side-pic{
   margin-left: 25%;
   margin-top: -27%;
@@ -301,9 +312,25 @@ html, body{
   padding: 5% 5% 5% 5%;
 }
 
+
+/*History Styles*/
+
+.year {
+  margin: 0 0 20px 20px;
+  display: block
+}
+
+.history-text {
+  margin: 0 0 20px 20px;
+}
+
+.history {
+  list-style-image: ''
+}
+
 /*-- Recipe Styling --*/
 
-.recipe-row{
+.recipe-row {
   padding: 0 1% 0 1%;
   margin-top: 2%;
 }

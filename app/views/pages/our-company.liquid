@@ -1,5 +1,5 @@
 ---
-title: Our-company
+title: Our Company
 
 # true if the page is included in the menu
 listed: true
@@ -8,7 +8,7 @@ listed: true
 published: true
 
 # position among sibling pages
-# position: 1
+position: 4
 
 # sets a redirection to the given url (301)
 # redirect_url: "<url to a page or to a remote url>"
@@ -20,33 +20,96 @@ published: true
 #   'some_block/some_slug': "<text>"
 #   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
 ---
-{% extends 'index' %}
-
-{% block 'main' %}
+{% extends 'generic' %}
 
 
-<div class="row copy">
-	<span class="large-6 columns">
-		Photo
-	</span>
-	<span class="large-6 columns">
-		Text
-	</span>
-</div>
-<ul data-orbit class="car">
-  <li>
-    <img src="images/Earth.jpg" />
-    <div class="orbit-caption">...</div>
-  </li>
-  <li>
-    <img src="images/fav.png" />
-    <div class="orbit-caption">...</div>
-  </li>
-  <li>
-    <img src="images/menu.jpg" />
-    <div class="orbit-caption">...</div>
-  </li>
-</ul>
+{% block 'generic_body_content' %}
 
-<div style="height: 500px"></div>
+  <div class="row">
+    <h2 class="large-6 columns large-centered center">
+      The One Banana Story
+    </h2>
+  </div>
+
+  <div class="row">
+    <ul class="large-7 columns large-centered history">
+      <li>
+        <strong class="year">1947</strong>
+        <div class="history-text">Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics. Wolf scenester literally, organic street art Austin dreamcatcher deep v 90's vegan shabby chic artisan aesthetic Etsy freegan. Banjo 3 wolf moon wayfarers letterpress, Echo Park deep v fashion axe pop-up Banksy fixie cliche. Cornhole narwhal occupy Kickstarter tote bag scenester. VHS fap PBR, single-origin coffee deep v street art hoodie food truck seitan Tumblr locavore lomo pickled mustache occupy.</div>
+      </li>
+      <li>
+        <strong class="year">1954</strong>
+        <div class="history-text">Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics. Wolf scenester literally, organic street art Austin dreamcatcher deep v 90's vegan shabby chic artisan aesthetic Etsy freegan. Banjo 3 wolf moon wayfarers letterpress, Echo Park deep v fashion axe pop-up Banksy fixie cliche. Cornhole narwhal occupy Kickstarter tote bag scenester. VHS fap PBR, single-origin coffee deep v street art hoodie food truck seitan Tumblr locavore lomo pickled mustache occupy.</div>
+      </li>
+      <li>
+        <strong class="year">1976</strong>
+        <div class="history-text">Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics. Wolf scenester literally, organic street art Austin dreamcatcher deep v 90's vegan shabby chic artisan aesthetic Etsy freegan. Banjo 3 wolf moon wayfarers letterpress, Echo Park deep v fashion axe pop-up Banksy fixie cliche. Cornhole narwhal occupy Kickstarter tote bag scenester. VHS fap PBR, single-origin coffee deep v street art hoodie food truck seitan Tumblr locavore lomo pickled mustache occupy.</div>
+      </li>
+      <li>
+        <strong class="year">1988</strong>
+        <div class="history-text">Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics. Wolf scenester literally, organic street art Austin dreamcatcher deep v 90's vegan shabby chic artisan aesthetic Etsy freegan. Banjo 3 wolf moon wayfarers letterpress, Echo Park deep v fashion axe pop-up Banksy fixie cliche. Cornhole narwhal occupy Kickstarter tote bag scenester. VHS fap PBR, single-origin coffee deep v street art hoodie food truck seitan Tumblr locavore lomo pickled mustache occupy.</div>
+      </li>
+      <li>
+        <strong class="year">1991</strong>
+        <div class="history-text">Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics. Wolf scenester literally, organic street art Austin dreamcatcher deep v 90's vegan shabby chic artisan aesthetic Etsy freegan. Banjo 3 wolf moon wayfarers letterpress, Echo Park deep v fashion axe pop-up Banksy fixie cliche. Cornhole narwhal occupy Kickstarter tote bag scenester. VHS fap PBR, single-origin coffee deep v street art hoodie food truck seitan Tumblr locavore lomo pickled mustache occupy.</div>
+      </li>
+      <li>
+        <strong class="year">1995</strong>
+        <div class="history-text">Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics. Wolf scenester literally, organic street art Austin dreamcatcher deep v 90's vegan shabby chic artisan aesthetic Etsy freegan. Banjo 3 wolf moon wayfarers letterpress, Echo Park deep v fashion axe pop-up Banksy fixie cliche. Cornhole narwhal occupy Kickstarter tote bag scenester. VHS fap PBR, single-origin coffee deep v street art hoodie food truck seitan Tumblr locavore lomo pickled mustache occupy.</div>
+      </li>
+      <li>
+        <strong class="year">1998</strong>
+        <div class="history-text">Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics. Wolf scenester literally, organic street art Austin dreamcatcher deep v 90's vegan shabby chic artisan aesthetic Etsy freegan. Banjo 3 wolf moon wayfarers letterpress, Echo Park deep v fashion axe pop-up Banksy fixie cliche. Cornhole narwhal occupy Kickstarter tote bag scenester. VHS fap PBR, single-origin coffee deep v street art hoodie food truck seitan Tumblr locavore lomo pickled mustache occupy.</div>
+      </li>
+      <li>
+        <strong class="year">2014</strong>
+        <div class="history-text">Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics. Wolf scenester literally, organic street art Austin dreamcatcher deep v 90's vegan shabby chic artisan aesthetic Etsy freegan. Banjo 3 wolf moon wayfarers letterpress, Echo Park deep v fashion axe pop-up Banksy fixie cliche. Cornhole narwhal occupy Kickstarter tote bag scenester. VHS fap PBR, single-origin coffee deep v street art hoodie food truck seitan Tumblr locavore lomo pickled mustache occupy.</div>
+      </li>
+    </ul>
+  </div>
+
+  <div class="row">
+    <!-- <div class="large-10 columns"> -->
+      <div class="large-5 columns large-offset-1">
+        <h3>Our Vision & Mission</h3>
+        <h5>Our Founding Vision</h5>
+        <p>
+          Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics. Wolf scenester literally, organic street art Austin dreamcatcher deep v 90's vegan shabby chic artisan aesthetic Etsy freegan. Banjo 3 wolf moon wayfarers letterpress, Echo Park deep v fashion axe pop-up Banksy fixie cliche. Cornhole narwhal occupy Kickstarter tote bag scenester. VHS fap PBR, single-origin coffee deep v street art hoodie food truck seitan Tumblr locavore lomo pickled mustache occupy.
+        </p>
+        <h5>Our Mission</h5>
+        <p>
+        Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics. Wolf scenester literally, organic street art Austin dreamcatcher deep v 90's vegan shabby chic artisan aesthetic Etsy freegan.
+        </p>
+      </div>
+      <div class="large-4 columns left large-offset-1">
+        <h3>Our Values</h3>
+        <dl>
+          <dt>Coffee</dt>
+          <dd>
+            Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics.
+          </dd>
+          <dt>Milk</dt>
+          <dd>
+            Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics.
+          </dd>
+          <dt>Coffee</dt>
+          <dd>
+            Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics.
+          </dd>
+          <dt>Milk</dt>
+          <dd>
+            Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics.
+          </dd>
+          <dt>Coffee</dt>
+          <dd>
+            Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics.
+          </dd>
+          <dt>Milk</dt>
+          <dd>
+            Distillery YOLO retro, blog High Life pickled trust fund pork belly tilde seitan semiotics.
+          </dd>
+        </dl>
+      </div>
+    </div>
+  </div>
 {% endblock %}

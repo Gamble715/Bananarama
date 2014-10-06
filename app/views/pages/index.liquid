@@ -1,6 +1,6 @@
 ---
-title: Home page
-listed: false
+title: One Bananas
+listed: true
 published: true
 cache_strategy: none
 response_type: text/html
@@ -28,18 +28,18 @@ position: 0
 
   {% include hero_unit %}
 
-  {% include main_nav %}
+  <ul class="row main-nav" id="nav">
+    {% nav 'site', snippet: 'main_nav', no_wrapper: true %}
+  </ul>
 
-  {% include body_content %}
+  {% include footer %}
+
 
   {% block 'our_bananas' %}
 
   {% endblock %}
 
-  {% include footer %}
-  
   {{ 'vendor/jquery.js' | javascript_tag }}
-  {{ 'vendor/jquery.stellar.min.js' | javascript_tag }}
   <script>
   document.write('<script src=' +
   ('__proto__' in {} ? '{{ 'vendor/zepto.js' | javascript_url }}' : '{{ 'vendor/jquery.js' | javascript_url }}') +

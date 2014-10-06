@@ -8,13 +8,13 @@ listed: true
 published: true
 
 # position among sibling pages
-# position: 1
+position: 2
 
 # sets a redirection to the given url (301)
 # redirect_url: "<url to a page or to a remote url>"
 
 # content type that this page is templatizing
-# content_type: "recipes"
+# contentype: "recipes"
 
 # editable_elements:
 #   'some_block/some_slug': "<text>"
@@ -23,6 +23,7 @@ published: true
 {% extends 'generic' %}
 
 {% block 'generic_body_content' %}
+
 	<div class="recipe-row row">
 		{% for recipe in contents.recipes %}
 			<div class="small-4 columns">
@@ -40,4 +41,4 @@ published: true
 			</div>
 		{% endfor %}
 	</div>
-{% endblock %}
+{%endblock%}
