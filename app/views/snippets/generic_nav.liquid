@@ -1,54 +1,7 @@
-{% nav <origin>(, <options>) %}
 
-{% nav site, depth: , snippet: menu_entry %}
-{% block misc_properties %}
-  {% editable_text menu_teaser %}{% endeditable_text %}
-  {% editable_file menu_image %}{% endeditable_file %}
-{% endblock %}
+    <li class="small-2 columns center nav-item">
+      <a href="{{page.slug}}">
 
-<ul class="row" data-tab id="nav">
-    <li class="small-1 columns center nav-item">
-      <a href="#ourBananas">
-
-        <strong>OUR BANANAS</strong>
+        <strong>{{page.title}}</strong>
       </a>
     </li>
-    <li class="small-1 columns center nav-item">
-      <a href="#recipes">
-        <strong>RECIPES</strong>
-      </a>
-    </li>
-
-    <li class="small-1 columns center nav-item">
-      <a href="#oneDifference">
-
-        <strong>ONE DIFFERENCE</strong>
-      </a>
-    </li>
-    <li class="small-1 columns center nav-item">
-      <a href="#ourHistory">
-
-        <strong>OUR HISTORY</strong>
-      </a>
-    </li>
-
-    <li class="small-1 columns center nav-item">
-      <a href="#media">
-
-        <strong>MEDIA</strong>
-      </a>
-    </li>
-    <li class="small-1 columns center nav-item">
-      <a href="#faqs">
-
-        <strong>FAQS</strong>
-      </a>
-    </li>
-
-    <li class="small-1 columns center nav-item">
-        <a href="#contactUs">
-
-          <strong>CONTACT US</strong>
-          </a>
-    </li>
-  </ul>

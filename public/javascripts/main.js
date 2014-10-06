@@ -9,9 +9,7 @@ $(document).ready(function(){
   hdr = $('.orbit-container').height() - $(".main-nav").height() - $(".nav-header").height() - 10;
 
 	$(window).mousemove(function() {
-		console.log($(this).scrollTop());
   		if( $(this).scrollTop() > hdr ) {
-  			console.log("sticky");
     		mn.addClass(mns);
   		} else {
     		mn.removeClass(mns);

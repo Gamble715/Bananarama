@@ -1,5 +1,5 @@
 ---
-title: One-difference
+title: One Difference
 
 # true if the page is included in the menu
 listed: true
@@ -8,7 +8,7 @@ listed: true
 published: true
 
 # position among sibling pages
-# position: 1
+position: 3
 
 # sets a redirection to the given url (301)
 # redirect_url: "<url to a page or to a remote url>"
@@ -20,33 +20,46 @@ published: true
 #   'some_block/some_slug': "<text>"
 #   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
 ---
-{% extends 'index' %}
+{% extends 'generic' %}
 
-{% block 'main' %}
+{% block 'generic_body_content' %}
 
-
-<div class="row copy">
-	<span class="large-6 columns">
-		Photo
-	</span>
-	<span class="large-6 columns">
-		Text
-	</span>
+<div class="row">
+  <h1 class="large-8 columns large-centered center">At ONE Banana, we believe people make a difference.</h1>
 </div>
-<ul data-orbit class="car">
-  <li>
-    <img src="images/Earth.jpg" />
-    <div class="orbit-caption">...</div>
-  </li>
-  <li>
-    <img src="images/fav.png" />
-    <div class="orbit-caption">...</div>
-  </li>
-  <li>
-    <img src="images/menu.jpg" />
-    <div class="orbit-caption">...</div>
-  </li>
-</ul>
+<div class="row">
+  <h5 class="large-8 columns large-centered center">Roof party shabby chic gastropub, squid craft beer Echo Park direct trade farm-to-table skateboard chillwave. Meggings 3 wolf moon YOLO, Etsy Banksy disrupt PBR try-hard chillwave squid deep v Schlitz. Single-origin coffee deep v messenger bag, try-hard four loko Helvetica brunch stumptown wolf. Tattooed letterpress jean shorts Shoreditch crucifix viral.</h5>
+  <hr>
+</div>
+<div class="row">
+  <div class="large-10 columns large-centered">
+    <div class="large-6 columns">
+      <h4>Organics</h4>
+      <p>
+        Roof party shabby chic gastropub, squid craft beer Echo Park direct trade farm-to-table skateboard chillwave. Meggings 3 wolf moon YOLO, Etsy Banksy disrupt PBR try-hard chillwave squid deep v Schlitz. Single-origin coffee deep v messenger bag, try-hard four loko Helvetica brunch stumptown wolf. Tattooed letterpress jean shorts Shoreditch crucifix viral.
+        Roof party shabby chic gastropub, squid craft beer Echo Park direct trade farm-to-table skateboard chillwave. Meggings 3 wolf moon YOLO, Etsy Banksy disrupt PBR try-hard chillwave squid deep v Schlitz. Single-origin coffee deep v messenger bag, try-hard four loko Helvetica brunch stumptown wolf. Tattooed letterpress jean shorts Shoreditch crucifix viral.
+      </p>
+    </div>
+    <div class="large-6 large-1-offset columns">
+      <h4>Happy Families Program</h4>
+      <p>
+        Roof party shabby chic gastropub, squid craft beer Echo Park direct trade farm-to-table skateboard chillwave. Meggings 3 wolf moon YOLO, Etsy Banksy disrupt PBR try-hard chillwave squid deep v Schlitz. Single-origin coffee deep v messenger bag, try-hard four loko Helvetica brunch stumptown wolf. Tattooed letterpress jean shorts Shoreditch crucifix viral.
+      </p>
+    </div>
+    <div class="large-6 columns">
+      <h4>Savings and credit cooperative "Mi Gente" (My People)</h4>
+      <p>
+        Roof party shabby chic gastropub, squid craft beer Echo Park direct trade farm-to-table skateboard chillwave. Meggings 3 wolf moon YOLO, Etsy Banksy disrupt PBR try-hard chillwave squid deep v Schlitz. Single-origin coffee deep v messenger bag, try-hard four loko Helvetica brunch stumptown wolf. Tattooed letterpress jean shorts Shoreditch crucifix viral.
+      </p>
+    </div>
+    <div class="large-6 columns left">
+      <h4>Human Development Center</h4>
+      <p>
+        Roof party shabby chic gastropub, squid craft beer Echo Park direct trade farm-to-table skateboard chillwave. Meggings 3 wolf moon YOLO, Etsy Banksy disrupt PBR try-hard chillwave squid deep v Schlitz. Single-origin coffee deep v messenger bag, try-hard four loko Helvetica brunch stumptown wolf. Tattooed letterpress jean shorts Shoreditch crucifix viral.
+      </p>
+    </div>
+  </div>
+</div>
 
-<div style="height: 500px"></div>
+
 {% endblock %}

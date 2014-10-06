@@ -22,11 +22,17 @@ position: 0
   {{ 'vendor/custom.modernizr.js' | javascript_tag }}
   {% inline_editor %}
 </head>
-<body>
-  <!-- <div class="row"> -->
+
+
+<body class="generic-body">
     {% include header %}
-    {% include generic_nav %}
-  <!-- </div> -->
+
+    <ul class="row" data-tab id="nav">
+      {% nav 'site', snippet: 'generic_nav', no_wrapper: true%}
+    </ul>
+
+    {% include sub_nav %}
+
 
   <div class="row">
 
@@ -34,7 +40,10 @@ position: 0
     {% endblock %}
   </div>
 
-  {% include generic_nav %}
+  <ul class="row" data-tab id="nav">
+    {% nav 'site', snippet: 'generic_nav', no_wrapper: true%}
+  </ul>
+
   {% include footer %}
 
   {{ 'vendor/jquery.js' | javascript_tag }}
@@ -59,42 +68,6 @@ position: 0
   </script>
   {{ 'foundation.min.js' | javascript_tag }}
   {{ 'main.js' | javascript_tag }}
-  {{ 'footer.js' | javascript_tag }}
-  <!--
-
-  {{ 'foundation/foundation.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.alerts.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.clearing.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.cookie.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.dropdown.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.forms.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.joyride.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.magellan.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.orbit.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.reveal.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.section.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.tooltips.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.topbar.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.interchange.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.placeholder.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.abide.js' | javascript_tag }}
-
-  -->
 
 <script>
 $(document).foundation();
