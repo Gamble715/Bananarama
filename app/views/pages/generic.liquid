@@ -27,8 +27,8 @@ position: 0
 <body class="generic-body">
     {% include header %}
 
-    <ul class="row" data-tab id="nav">
-      {% nav 'site', snippet: 'generic_nav', no_wrapper: true %}
+    <ul class="row" id="nav">
+      {% nav 'site', snippet: 'generic_nav', no_wrapper: true%}
     </ul>
 
     {% include sub_nav %}
@@ -46,13 +46,15 @@ position: 0
 
   {% include generic_footer %}
   {{ 'vendor/jquery.js' | javascript_tag }}
-  {{ 'vendor/jquery.stellar.min.js' | javascript_tag }}
   <script>
   document.write('<script src=' +
   ('__proto__' in {} ? '{{ 'vendor/zepto.js' | javascript_url }}' : '{{ 'vendor/jquery.js' | javascript_url }}') +
   '><\/script>')
 
-  $.stellar();
+  $(function() {
+    $('li a[href$="' + location.pathname.split("/")[1] + '"]').find(".pointer").addClass('selection');
+  });
+
 
     $(".next-slide").click(function() {
     $("#ORBIT-ID").siblings(".orbit-next").click();

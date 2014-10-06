@@ -111,9 +111,20 @@ html, body{
   font-size: 0.9em;
 }
 
-.active{
+.active {
   background-color: #8B4B9A;
 }
+
+.selection {
+  margin: 10px auto 0 auto;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+
+  border-bottom: 10px solid #8B4B9A;
+}
+
 .active i, .active a, .active h4, .active strong{
   color: white;
 }
