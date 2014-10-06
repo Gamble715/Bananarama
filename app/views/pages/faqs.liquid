@@ -14,39 +14,32 @@ position: 6
 # redirect_url: "<url to a page or to a remote url>"
 
 # content type that this page is templatizing
-# content_type: "<slug of one of the content types>"
+# contenttype: "faqs"
 
 # editable_elements:
 #   'some_block/some_slug': "<text>"
 #   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
 ---
-{% extends 'index' %}
+{% extends 'generic' %}
 
-{% block 'main' %}
+{% block 'generic_body_content' %}
 
-
-<div class="row copy">
-	<span class="large-6 columns">
-		Photo
-	</span>
-	<span class="large-6 columns">
-		Text
-	</span>
+<div class="row">
+  <h1 class="large-8 columns large-centered center">Can't find the answer to your question?</h1>
 </div>
-<ul data-orbit class="car">
-  <li>
-    <img src="images/Earth.jpg" />
-    <div class="orbit-caption">...</div>
-  </li>
-  <li>
-    <img src="images/fav.png" />
-    <div class="orbit-caption">...</div>
-  </li>
-  <li>
-    <img src="images/menu.jpg" />
-    <div class="orbit-caption">...</div>
-  </li>
-</ul>
+<div class="row">
+  <h3 class="large-8 columns large-centered center">Feel free to contact us. We love hearing from you!</h3>
+  <hr>
+</div>
 
-<div style="height: 500px"></div>
+{% for faq in contents.faqs%}
+<div class="row">
+  <h3 class="large-4 columns large-offset-1">
+    {{ faq.question}}
+  </h3>
+  <p>{{ faq.answer }}</p>
+  <hr>
+</div>
+{%endfor%}
+
 {% endblock %}
