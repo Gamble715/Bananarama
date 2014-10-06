@@ -129,11 +129,11 @@ html, body{
   width: 100%;
 }
 
-.nav-header *{
+.nav-header *, .nav *{
   color: #7F3992;
 }
 
-.nav-header h4{
+.nav-header h4, .header h4{
   font-size: 0.9em;
 }
 
@@ -144,13 +144,21 @@ html, body{
   width: 100%;
 }
 
+.header *{
+  color: #7F3992;
+}
+
 .generic-body .header{
-  background-color: rbg(255,255,255);
+  background-color: white;
+  padding: 15px 2% 0px 2%;
 }
 
 #newsletter {
   text-decoration: none;
   border-bottom: 2px solid #FDB53D;
+  font-weight: 300;
+  font-size: 0.75em;
+}
 }
 #newsletter:hover {
   border-bottom-color: #FDB53D;
@@ -202,6 +210,11 @@ html, body{
   height: 50px;
   padding-bottom: 25px; 
   margin-top: 25px;
+}
+
+.footer-container .nav{
+  height: 100px;
+  padding: 17px 0 0 0;
 }
 
 .footer-content{
@@ -312,8 +325,8 @@ html, body{
   height: 48%;
 }
 
-.recipe h1, h4 {
-  color: #5b1856;
+.recipe h1, .recipe h4 {
+  color: #803594;
 }
 
 .recipe h1{
@@ -334,4 +347,5 @@ html, body{
 .recipe p{
   font-size: .9em;
   font-weight: 300;
+  color: #444444;
 }
