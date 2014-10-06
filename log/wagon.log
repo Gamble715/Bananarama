@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 unable to get an API token: 795: unexpected token at '<?xml version="1.0" encoding="iso-8859-1"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
@@ -7649,3 +7650,5 @@ Found page "FAQs" [faqs]
 [0;32;49mCompleted 200 OK in 4.8ms
 
 [0m
+=======
+>>>>>>> d5d03d19093205efbad31c3c20f39689f75d7411
