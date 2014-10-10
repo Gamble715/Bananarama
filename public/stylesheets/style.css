@@ -332,7 +332,7 @@ html, body{
 
 .recipe-row {
   padding: 0 1% 0 1%;
-  margin-top: 2%;
+  margin-top: 2% !important;
 }
 
 .recipe-row div{
