@@ -29,7 +29,7 @@ position: 0
 
   {% include hero_unit %}
 
-  <ul class="row main-nav" id="nav">
+  <ul class="row scroll" id="nav">
     {% nav 'site', snippet: 'main_nav', no_wrapper: true %}
   </ul>
 
@@ -45,8 +45,6 @@ position: 0
   document.write('<script src=' +
   ('__proto__' in {} ? '{{ 'vendor/zepto.js' | javascript_url }}' : '{{ 'vendor/jquery.js' | javascript_url }}') +
   '><\/script>')
-
-  $.stellar();
 
     $(".next-slide").click(function() {
     $("#ORBIT-ID").siblings(".orbit-next").click();

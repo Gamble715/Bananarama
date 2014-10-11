@@ -21,7 +21,6 @@ a {
 
 .copy {
 	height: 500px;
-	/*width: 100%;*/
 }
 
 
@@ -323,7 +322,7 @@ a {
 }
 
 .banana-facts{
-  height: 350px;
+  /*height: 350px;*/
   text-align: center;
   padding: 5% 5% 5% 5%;
 }
