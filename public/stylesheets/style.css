@@ -16,7 +16,6 @@ a {
 
 .generic-body{
   background-color: #f5f5f5;
-
 }
 
 .copy {
@@ -87,7 +86,6 @@ a {
   height: 60px;
   padding-top: 15px;
   padding-bottom: 15px;
-  /*width: 14.28%;*/
   background: rgba(255,255,255,0.9);
 }
 
@@ -108,7 +106,7 @@ a {
 }
 
 .nav-item *{
-  color: #7F3992;
+  color: #823296;
 }
 
 .nav-item > a, h4, strong {
@@ -116,7 +114,7 @@ a {
 }
 
 .active {
-  background-color: #8B4B9A;
+  background-color: #583059;
 }
 
 .selection {
@@ -126,7 +124,7 @@ a {
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
 
-  border-bottom: 10px solid #8B4B9A;
+  border-bottom: 10px solid #583059;
 }
 
 .active i, .active a, .active h4, .active strong{
@@ -176,7 +174,7 @@ a {
   font-size: 0.75em;
 }
 }
-#newsletter:hover {
+#newsletter:  {
   border-bottom-color: #FDB53D;
 }
 
@@ -294,7 +292,7 @@ a {
 /*-- Index Body Styles --*/
 
 .sub-nav {
-  background: #8B4B9A;
+  background: #583059;
   height: 25px;
   color:#fff;
 }

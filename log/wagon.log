@@ -7672,3 +7672,313 @@ Found page "Recipes" [recipes]
 [0;32;49mCompleted 200 OK in 30.5ms
 
 [0m
+[0;97;49mStarted GET "/recipes" at 2014-10-10 16:10:40 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 21.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-10 16:12:24 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 40.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-10 16:13:09 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 31.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-10 16:14:17 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 31.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-10 16:15:03 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 37.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-10 19:29:12 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 58.7ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-10 19:39:02 -0500
+* Reloaded "content_types", "content_entries" at 2014-10-10 19:39:02 -0500
+* Reloaded "content_entries" at 2014-10-10 19:39:26 -0500
+* Reloaded "content_entries" at 2014-10-10 19:39:30 -0500
+* Reloaded "content_entries" at 2014-10-10 19:39:37 -0500
+unknow content type "sub_menus"
+unknow content type "sub_menus"
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_types", "content_entries" at 2014-10-10 19:39:46 -0500
+unknow content type "sub_menus"
+unknow content type "sub_menus"
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_types", "content_entries" at 2014-10-10 19:41:22 -0500
+* Reloaded "content_types", "content_entries" at 2014-10-10 19:43:58 -0500
+unknow content type "sub_menus"
+unknow content type "sub_menus"
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_entries" at 2014-10-10 19:44:09 -0500
+* Reloaded "content_entries" at 2014-10-10 19:44:58 -0500
+unknow content type "sub_menu"
+unknow content type "sub_menu"
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_types", "content_entries" at 2014-10-10 19:44:58 -0500
+* Reloaded "content_types", "content_entries" at 2014-10-10 19:45:11 -0500
+unknow content type "sub_menu"
+unknow content type "sub_menu"
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_entries" at 2014-10-10 19:45:18 -0500
+* Reloaded "content_entries" at 2014-10-10 19:45:26 -0500
+unknow content type "sub_menus"
+unknow content type "sub_menus"
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_types", "content_entries" at 2014-10-10 19:45:26 -0500
+* Reloaded "content_types", "content_entries" at 2014-10-10 19:46:42 -0500
+unknow content type "sub_menus"
+unknow content type "sub_menus"
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_entries" at 2014-10-10 19:46:51 -0500
+* Reloaded "content_entries" at 2014-10-10 19:46:59 -0500
+unknow content type "sub_menus"
+unknow content type "sub_menus"
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_types", "content_entries" at 2014-10-10 19:46:59 -0500
+* Reloaded "content_types", "content_entries" at 2014-10-10 19:47:33 -0500
+unknow content type "sub_menus"
+unknow content type "sub_menus"
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:45:in `block in get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `tap'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:43:in `get_content_type'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:24:in `block in fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:21:in `fetch_from_filesystem'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/content_entries_reader.rb:13:in `read'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/Users/j4ustin/.rvm/gems/ruby-2.1.2/gems/listen-0.7.3/lib/listen/adapters/darwin.rb:38:in `block in start'
+
+
+* Reloaded "content_entries" at 2014-10-10 19:47:40 -0500
+* Reloaded "content_types", "content_entries" at 2014-10-10 19:47:41 -0500
+* Reloaded "content_entries" at 2014-10-10 19:47:41 -0500
+* Reloaded "content_entries" at 2014-10-10 19:52:02 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-10 19:52:20 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 20.1ms
+
+[0m
