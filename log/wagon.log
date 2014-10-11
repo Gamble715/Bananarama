@@ -1,0 +1,371 @@
+[0;97;49mStarted GET "/recipes" at 2014-10-11 12:44:30 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 55.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 12:45:29 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 12:46:25 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 53.6ms
+
+[0m
+* Reloaded "site", "content_types", "pages", "snippets", "content_entries", "translations" at 2014-10-11 12:48:27 -0500
+* Reloaded "content_entries" at 2014-10-11 12:49:26 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 12:49:28 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 60.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 12:51:09 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 57.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 12:51:18 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 120.4ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-11 12:51:53 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 12:53:08 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 48.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 12:54:09 -0500
+* Reloaded "pages", "snippets" at 2014-10-11 13:07:07 -0500
+* Reloaded "pages", "snippets" at 2014-10-11 13:14:12 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:14:41 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] Unknown tag 'menu' - ./app/views/pages/recipes.liquid:11:in `Recipes'
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:14:58 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:15:00 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] Unknown tag 'menu' - ./app/views/pages/recipes.liquid:11:in `Recipes'
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:15:02 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] Unknown tag 'menu' - ./app/views/pages/recipes.liquid:11:in `Recipes'
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:15:04 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] Unknown tag 'menu' - ./app/views/pages/recipes.liquid:11:in `Recipes'
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:15:25 -0500
+* Reloaded "pages", "snippets" at 2014-10-11 13:15:53 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:16:00 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] undefined method `title' for #<Locomotive::Mounter::Models::ContentEntry:0x007fb953864688> - ./app/views/pages/recipes.liquid:11:in `Recipes'
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:16:10 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:16:11 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] undefined method `title' for #<Locomotive::Mounter::Models::ContentEntry:0x007fb953864688> - ./app/views/pages/recipes.liquid:11:in `Recipes'
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:16:15 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:16:17 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] undefined method `title' for #<Locomotive::Mounter::Models::ContentEntry:0x007fb953864688> - ./app/views/pages/recipes.liquid:11:in `Recipes'
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:16:19 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+[0;31;49m[ERROR] undefined method `title' for #<Locomotive::Mounter::Models::ContentEntry:0x007fb953864688> - ./app/views/pages/recipes.liquid:11:in `Recipes'
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:16:51 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:16:55 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 55.1ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:17:15 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 75.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:17:39 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 54.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:18:09 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:18:10 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 59.1ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:18:13 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 39.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:19:25 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:19:28 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 50.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:20:16 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 70.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:20:20 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 38.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:20:21 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 42.6ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-11 13:20:29 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:20:30 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 53.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:24:06 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:24:07 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 67.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:24:22 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 64.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:24:22 -0500
+* Reloaded "pages", "snippets" at 2014-10-11 13:24:36 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:24:37 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 58.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:24:58 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:25:07 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 59.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:26:05 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 41.4ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-11 13:35:18 -0500
+* Reloaded "pages", "snippets" at 2014-10-11 13:36:23 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:36:26 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 92.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:36:32 -0500
+* Reloaded "pages", "snippets" at 2014-10-11 13:36:52 -0500
+* Reloaded "content_entries" at 2014-10-11 13:37:15 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:37:28 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+Unable to resize on the fly: nil
+Unable to resize on the fly: nil
+Unable to resize on the fly: nil
+Unable to resize on the fly: nil
+Unable to resize on the fly: nil
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 53.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:37:42 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:37:43 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 43.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:37:57 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:37:59 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 61.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-11 13:38:11 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:38:12 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 59.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:39:22 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 69.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:39:35 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 56.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-11 13:40:55 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 60.3ms
+
+[0m

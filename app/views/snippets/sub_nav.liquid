@@ -1,6 +1,9 @@
-  <div class="row sub-nav">
-    <div class="large-3 columns large-offset-1">The One Banana Story</div>
-    <div class="large-3 columns">Our Vision & Mission</div>
-    <div class="large-3 columns">Our Value</div>
-    <div class="large-2 columns">Contact Us</div>
-  </div>
+<div class="row sub-nav">
+	{% for sub_menu in contents.sub_menus %}  
+	  {% if page.title == sub_menu.page_title %}
+	  	<a href="{{ sub_menu.path }}">
+	    	<div class="sub-name"><img src='{{ sub_menu.icon["url"] }}' />{{ sub_menu.name }}</div>
+		</a>
+	  {% endif %}
+	{% endfor %}
+</div>

@@ -2,5 +2,5 @@
 name: Banana
 locales: [en]
 subdomain: banana
-domains: [banana.locomotivehosting.com]
+domains: [pulsarlabs.herokuapp.com]
 timezone: UTC

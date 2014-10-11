@@ -1,36 +1,36 @@
-- "snack & Bites":
+- "Snack & Bites":
     path: "#snacks"
     page_title: "Recipes"
-    icon: null # Path to a file in the public/samples folder or to a remote and external file.
+    icon: images/muffin_icon.png # Path to a file in the public/samples folder or to a remote and external file.
     sort_order: 1
 
 - "Breakfast & Brunch":
     path: "#breakfast"
     page_title: "Recipes."
-    icon: null # Path to a file in the public/samples folder or to a remote and external file.
+    icon: images/coffee_icon.png # Path to a file in the public/samples folder or to a remote and external file.
     sort_order: 2
 
 - "Beverages & Smoothies":
     path: "#beverages"
     page_title: "Recipes"
-    icon: null # Path to a file in the public/samples folder or to a remote and external file.
+    icon: images/malt_icon.png # Path to a file in the public/samples folder or to a remote and external file.
     sort_order: 3
 
 - "Bread & Muffins":
     path: "#bread"
     page_title: "Recipes"
-    icon: null # Path to a file in the public/samples folder or to a remote and external file.
+    icon: images/bread_icon.png # Path to a file in the public/samples folder or to a remote and external file.
     sort_order: 4
 
 - "Desserts":
     path: "#desserts"
     page_title: "Recipes"
-    icon: null
+    icon: images/cupkake_icon.png
     sort_order: 5
 
 - "Kid Friendly":
     path: "#kids"
     page_title: "Recipes"
-    icon: null
+    icon: images/bicycle_icon.png
     sort_order: 6
 

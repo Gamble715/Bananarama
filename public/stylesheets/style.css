@@ -292,8 +292,25 @@ a {
 
 .sub-nav {
   background: #583059;
-  height: 25px;
+  height: 50px;
+  padding-top: 15px;
   color:#fff;
+  text-align:center;
+}
+
+.sub-name{
+  width: auto;
+  margin: auto;
+  display: inline;
+  padding: 5%;
+  font-size: 0.8rem;
+}
+
+.sub-name img{
+  width: 21px;
+  height: 20px;
+  margin-right: 10px;
+  vertical-align: text-bottom;
 }
 
 #nav {
