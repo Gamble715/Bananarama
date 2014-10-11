@@ -28,15 +28,25 @@ position: 2
 		{% for recipe in contents.recipes %}
 			<div class="small-12 columns large-4 medium-6">
 				<div class="recipe">
-					<img src='{{ recipe.image["url"] }}' />
-					<h1>{{ recipe.title }}</h1>
-					<h4><span>{{ recipe.minutes }}</span> min, <span>{{ recipe.ingredients }}</span> ingredients </h4>
-					<p>{{ recipe.description }}</p>
-					<p> My Recipes </p>
-					<p> Rating </p>
-					<hr>
-					<p> Social stuff </p>
-					<p> Number </p>
+					<img src='{{ recipe.image["url"] | resize: '500x400' }}' class="pull-left" />
+					<div class="recipe-content">
+						<h1>{{ recipe.title }}</h1>
+						<h4><span>{{ recipe.minutes }}</span> min, <span>{{ recipe.ingredients }}</span> ingredients </h4>
+						<p>{{ recipe.description }}</p>
+						<div class="pull-left">
+							<p> My Recipes </p>
+						</div>
+						<div class="pull-right">
+							<p> {{recipe.rating}} </p>
+						</div>
+						<hr>
+						<div class="pull-left">
+							<p> Social stuff </p>
+						</div>
+						<div class="pull-right">
+							<p> Number </p>
+						</div>
+					</div>
 				</div>
 			</div>
 		{% endfor %}
