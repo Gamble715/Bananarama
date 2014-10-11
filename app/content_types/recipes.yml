@@ -26,7 +26,7 @@ order_by: manually # default: manually, also available: created_at or any field 
 # public_submission_accounts: ['john@acme.net']
 
 # Describe each field. The name shoud always be an underscored string
-fields: 
+fields:
 -  image: # Name of the field
     label:  image
     type: file
@@ -60,6 +60,24 @@ fields:
     type: text
     required: false
     hint: A description of the field for the editors
+    localized: false
+    # Enable or not the RTE [html|text]
+    # text_formatting: html
+
+- rating: # Name of the field
+    label: Rating
+    type: integer
+    required: false
+    hint: A 5 star rating of the recipe
+    localized: false
+    # Enable or not the RTE [html|text]
+    # text_formatting: html
+
+- shares: # Name of the field
+    label: Shares
+    type: integer
+    required: false
+    hint: Number of times has been shared
     localized: false
     # Enable or not the RTE [html|text]
     # text_formatting: html

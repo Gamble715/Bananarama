@@ -1,31 +1,36 @@
 (function() {
 
-  $.stellar({
-  	scrollProperty: 'scroll',
-  	 verticalScrolling: true,
-  	 positionProperty: 'position',
-  });
+
 
   function moveScroller() {
       var move = function() {
+
           var st = $(window).scrollTop();
-          var ot = $("#scroller-anchor").offset().top;
+          var ot = $("#scroller-anchor").position().top;
+          // console.log(st)
           var s = $(".scroll");
-          if(st > ot) {
+          var f = $(".filler")
+          if(st > 640) {
               s.css({
                   position: "fixed",
-                  top: "0px"
+                  top: 60
+              });
+              f.css({
+                position: "relative",
+                top: 50
               });
           } else {
-              if(st <= ot) {
+              if(st <= 640) {
                   s.css({
                       position: "relative",
-                      top: ""
+                      top: 0
                   });
               }
           }
       };
-      $(window).scroll(move);
+      $(window).scroll(function() {
+        move()
+      });
       move();
   };
 
