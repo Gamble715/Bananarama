@@ -3,7 +3,7 @@
     description: "Et commodi fugit pariatur quasi voluptas. Sequi quis sit est quibusdam accusantium molestiae nam. Et suscipit nostrum molestias"
     minutes: 40
     ingredients: 5
-    rating: 5
+    rating: 3
 
 
 - "Suprise Bananas":
@@ -11,7 +11,7 @@
     description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
     minutes: 40
     ingredients: 5
-    rating: 5
+    rating: 4
 
 
 - "Super Banana Supremo":
@@ -19,7 +19,7 @@
     description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
     minutes: 40
     ingredients: 10
-    rating: 5
+    rating: 1
 
 
 - "Delicious something or other":
