@@ -401,7 +401,7 @@ div.row.sub-nav{
 }
 
 .recipe{
-  height: 425px;
+  height: 510px;
   background-color: white;
   overflow: visible;
 }
@@ -413,7 +413,7 @@ div.row.sub-nav{
 
 .recipe-image{
   width: 100%;
-  height: 40%;
+  height: 50%;
   margin-bottom: 5%;
 }
 
