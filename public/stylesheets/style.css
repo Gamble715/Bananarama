@@ -8,6 +8,7 @@ h1,h2,h3,h4,p,span,a{
 html, body{
   width: 100%;
   height: 100%;
+  overflow-x: hidden;
 }
 
 a {
@@ -82,10 +83,26 @@ a {
 }
 
 .nav-item{
-  height: 60px;
+  height: 50px;
   padding-top: 15px;
   padding-bottom: 15px;
-  background: rgba(255,255,255,0.9);
+  background: rgba(255,255,255,1);
+}
+
+#nav li.nav-item{
+  width: 14.28%;
+}
+
+.nav-item-footer {
+  height: 65px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  background: rgba(255,255,255,1);
+}
+
+#nav li.nav-item-footer{
+  width: 14.28%;
+  margin-top: 2%;
 }
 
 .nav{
@@ -104,7 +121,7 @@ a {
   padding-bottom: 5px;
 }
 
-.nav-item *{
+.nav-item *, .nav-item-footer *{
   color: #823296;
 }
 
@@ -117,7 +134,7 @@ a {
 }
 
 .selection {
-  margin: 10px auto 0 auto;
+  margin: 0 auto 0 auto;
   width: 0;
   height: 0;
   border-left: 10px solid transparent;
@@ -131,6 +148,16 @@ a {
 }
 
 /*-- Navigation Styles --*/
+
+#header-logo{
+  position: absolute;
+  z-index: 1000;
+  width: 18%;
+  left: 38%;
+  margin: auto;
+  top: 0;
+  margin-top: -15px;
+}
 
 .nav-header{
   background-color: rgba(255,255,255,0.9);
@@ -163,13 +190,13 @@ a {
 
 .generic-body .header{
   background-color: white;
-  padding: 15px 2% 0px 2%;
+  padding: 15px 0% 0px 2%;
 }
 
 #newsletter {
   text-decoration: none;
   border-bottom: 2px solid #FDB53D;
-  font-weight: 300;
+  font-weight: 600;
   font-size: 0.75em;
 }
 }
@@ -222,8 +249,7 @@ a {
   width: 100%;
   height: 40px;
   padding-bottom: 25px;
-  margin-top: 25px;
-  background: #79258C;
+  background: #823296;
 }
 
 .footer-container .nav{
@@ -234,14 +260,16 @@ a {
 .footer-content{
   position: absolute;
   display: inline;
-  left: 15px;
+  left: 11px;
   width: 100%;
+  padding-top: 12px;
 }
 
-.footer-content *{
-  font-size: 1em;
-  margin-left: 2%;
-  display:inline;
+.footer-content * {
+  font-size: 0.7rem;
+  margin-left: 1.3%;
+  margin-right:2%;
+  display: inline;
 }
 
 .social-section-footer{
@@ -290,12 +318,20 @@ a {
 
 /*-- Index Body Styles --*/
 
+div.row.sub-nav{
+  display: block;
+  overflow: hidden;
+  margin-bottom: 0.5%;
+  margin-right: 0;
+}
+
 .sub-nav {
   background: #583059;
   height: 50px;
   padding-top: 15px;
   color:#fff;
   text-align:center;
+  margin-left: 0px;
 }
 
 .sub-name{
@@ -362,15 +398,10 @@ a {
 
 .recipe-row {
   padding: 0 1% 0 1%;
-  margin-top: 2% !important;
-}
-
-.recipe-row div{
-  margin-bottom: 2%;
 }
 
 .recipe{
-  height: 575px;
+  height: 425px;
   background-color: white;
   overflow: visible;
 }
@@ -426,4 +457,17 @@ a {
   float: right;
   margin-left: 5%;
 }
+
+.recipe-social-section {
+  padding-right: 15px;
+}
+
+.recipe-social-section span{
+  margin-right: 15px;
+  font-size: 0.9rem;
+}
+
+.recipe p.share-number {
+  font-weight: 700;
+  color: #5b1856;
 }

@@ -12,7 +12,7 @@ position: 2
 
 {% block 'generic_body_content' %}
 
-	<div class="recipe-row row">
+	<div class="recipe-row">
 		{% for recipe in contents.recipes %}
 			<div class="small-12 columns large-4 medium-6">
 				<div class="recipe">
@@ -35,11 +35,15 @@ position: 2
 							{% endfor %}
 						</div>
 						<hr>
-						<div class="pull-left">
-							<p> Social stuff </p>
+						<div class="recipe-social-section pull-left">
+					      	<a href="#"><span class="icon-twitter" id="twiticon"></span></a>
+					      	<a href="#"><span class="icon-facebook" id="fbicon"></span></a>
+					      	<a href="#"><span class="icon-pinterest-circled" id="pinicon"></span></a>
+					      	<a href="#"><img src="{{ 'email_icon.jpg' | theme_image_url }}" style="width: 8%; margin-right: 15px;" /></a>
+					      	<a href="#"><img src="{{ 'more_icon.png' | theme_image_url }}" style="width: 8%; margin-right: 15px;" /></a>
 						</div>
 						<div class="pull-right">
-							<p> Number </p>
+							<p class="share-number">16.1 K</p>
 						</div>
 					</div>
 				</div>

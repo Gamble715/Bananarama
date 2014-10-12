@@ -36,13 +36,12 @@ position: 0
 
 
   <div class="row">
-
     {% block 'generic_body_content' %}
     {% endblock %}
   </div>
 
   <ul class="row" data-tab id="nav">
-    {% nav 'site', snippet: 'generic_nav', no_wrapper: true%}
+    {% nav 'site', snippet: 'generic_footer_nav', no_wrapper: true%}
   </ul>
 
   {% include generic_footer %}
