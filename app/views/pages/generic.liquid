@@ -32,7 +32,11 @@ position: 0
       {% nav 'site', snippet: 'generic_nav', no_wrapper: true%}
     </ul>
 
-    {% include sub_nav %}
+    {% if page.title == "FAQs" %}
+      {% include faq_header %}
+    {% else %}
+      {% include sub_nav %}
+    {% endif %}
 
 
   <div class="row">
