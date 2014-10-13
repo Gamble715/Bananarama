@@ -1,0 +1,410 @@
+ /*-- Site Wide Styles / Foundation Override --*/
+ @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800);
+
+h1,h2,h3,h4,p,span,a{
+  font-family: 'Open Sans', sans-serif;
+}
+
+html, body{
+  width: 100%;
+  height: 100%;
+}
+
+a {
+  color:white;
+}
+
+.generic-body{
+  background-color: #f5f5f5;
+}
+
+.copy {
+  height: 500px;
+}
+
+
+.full-width {
+   width: 100%;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: initial;
+}
+
+.row {
+  width: 100%;
+  max-width: 100%;
+}
+
+.center {
+  text-align: center;
+}
+
+.spacing {
+  line-height: 45px;
+  font-size: 1.2em;
+}
+
+.left {
+  display: inline-block;
+  text-decoration: none;
+  margin-right: 45px;
+}
+
+.organic-photo {
+  background-image: url('http://www.placehold.it/350x500');
+}
+
+.color-purple{
+  color:purple;
+}
+
+.color-white{
+  color:white;
+}
+
+/*-- Below Orbit Nav Bar --*/
+
+.main-nav{
+  margin-top: -100px;
+  z-index: 1;
+}
+
+.main-nav-scrolled {
+  position: fixed;
+  width: 100%;
+  top: 160px;
+}
+
+.nav-item{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background: rgba(255,255,255,0.9);
+}
+
+#nav li.nav-item{
+  width: 14.28%;
+}
+
+.nav-item-footer {
+  height: 65px;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  background: rgba(255,255,255,1);
+}
+
+#nav li.nav-item-footer{
+  width: 14.28%;
+  margin-top: 2%;
+}
+
+.nav{
+  background: white;
+}
+
+.item{
+  width: 14.28%;
+  height: 25px;
+  padding-top: 5px;
+}
+
+.nav-item i{
+  font-size: 2.75em;
+  display: block;
+  padding-bottom: 5px;
+}
+
+.nav-item *, .nav-item-footer *{
+  color: #823296;
+}
+
+.nav-item > a, h4, strong {
+  font-size: 0.9em;
+}
+
+.active {
+  background-color: #583059;
+}
+
+.selection {
+  margin: 0 auto 0 auto;
+  width: 0;
+  height: 0;
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+
+  border-bottom: 10px solid #583059;
+}
+
+.active i, .active a, .active h4, .active strong{
+  color: white;
+}
+
+/*-- Navigation Styles --*/
+
+#header-logo{
+  position: absolute;
+  z-index: 1000;
+  width: 18%;
+  left: 38%;
+  margin: auto;
+  top: 0;
+  margin-top: -15px;
+}
+
+.nav-header{
+  background-color: rgba(255,255,255,0.9);
+  position: fixed;
+  top: 0;
+  z-index: 30;
+  height: 60px;
+  padding-top: 10px;
+  width: 100%;
+}
+
+.nav-header *, .nav *{
+  color: #7F3992;
+}
+
+.nav-header h4, .header h4{
+  font-size: 0.9em;
+}
+
+.header {
+  background-color: white;
+  height: 60px;
+  padding-top: 10px;
+  width: 100%;
+}
+
+.header *{
+  color: #7F3992;
+}
+
+.generic-body .header{
+  background-color: white;
+  padding: 15px 0% 0px 2%;
+}
+
+#newsletter {
+  text-decoration: none;
+  border-bottom: 2px solid #FDB53D;
+  font-weight: 600;
+  font-size: 0.75em;
+  margin-left: 3%;
+}
+}
+#newsletter:  {
+  border-bottom-color: #FDB53D;
+}
+
+.pill-search{
+  border: 0;
+  background-color: #ECECEC;
+  height: 20px;
+  margin-top: 0px;
+  margin-left: 35px;
+  padding-left: 15px;
+  border-radius:15px;
+  -moz-border-radius:15px;
+  -webkit-border-radius:15px;
+}
+
+.social-section {
+  float: right;
+  padding-right: 15px;
+  padding-top: 10px;
+}
+
+.social-section span{
+  margin-left: 15px;
+}
+
+.search {
+  float: right;
+}
+
+#fbicon{
+  color: #3755C9;
+}
+#googicon{
+  color: #DB6E3C;
+}
+#twiticon{
+  color: #6AE1EF;
+}
+#pinicon{
+  color: #DE3B41;
+}
+
+/*-- Footer Styles--*/
+
+.footer{
+  width: 100%;
+  height: 45px;
+  padding-bottom: 25px;
+  background: white;
+}
+
+.footer-container .nav{
+  height: 100px;
+  padding: 17px 0 0 0;
+}
+
+.footer-content{
+  margin-left: 0%;
+  width: 100%;
+  padding-top: 12px;
+}
+
+.footer-content * {
+  font-size: 0.7rem;
+  margin-right: 1%;
+  display: inline;
+  margin-left: 2%;
+  color: #2d2c2d;
+}
+
+.social-section-footer{
+  display: inline-block;
+  float: right;
+  margin-bottom: 0px;
+  margin-top: -15px;
+  margin-right: 0%;
+  width: 15%;
+}
+
+.social-section-footer a{
+  padding-left: 10%;
+  display: inline;
+  font-size: 0.9rem;
+}
+
+/*-- Large Slider Styles --*/
+
+.orbit-container {
+  height: 700px;
+  z-index: 0;
+}
+
+.orbit-container .orbit-prev span,
+.orbit-container .orbit-next span {
+    color: #fff;
+    border: none;
+    font-size: 70px;
+    text-indent: 0;
+    margin-top: -32px;
+}
+
+.orbit-container .orbit-prev {
+    background-color: transparent;
+}
+.orbit-container .orbit-prev span:before {
+    font-family: fontello;
+    content: '\e804';
+}
+.orbit-container .orbit-next {
+    background-color: transparent;
+}
+.orbit-container .orbit-next span:before {
+    font-family: fontello;
+    content: '\e805'
+}
+
+.orbit-slide-number{
+  display: none;
+}
+.orbit-timer{
+  display: none;
+}
+
+/*-- Index Body Styles --*/
+
+div.row.sub-nav{
+  display: block;
+  overflow: hidden;
+  margin-bottom: 0.5%;
+  margin-right: 0;
+}
+
+.sub-nav {
+  background: #583059;
+  height: 50px;
+  padding-top: 15px;
+  color:#fff;
+  text-align:center;
+  margin-left: 0px;
+}
+
+.sub-name{
+  width: auto;
+  margin: auto;
+  display: inline;
+  padding: 5%;
+  font-size: 0.8rem;
+}
+
+.sub-name img{
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  padding-bottom: 1px;
+  vertical-align: middle;
+}
+
+#nav {
+  list-style: none;
+}
+
+.side-pic{
+  margin-left: 25%;
+  margin-top: -27%;
+  -webkit-transform: rotateX(120deg);
+  transform: rotateY(180deg);
+  height: 450px;
+}
+
+.call-to-action-purple{
+  height: 400px;
+  background-color: #5D2158;
+  text-align: center;
+  padding: 2% 5% 5% 5%;
+}
+
+.call-to-action-purple *{
+  color: white;
+}
+
+div.call-to-action-purple i{
+  font-size: 3rem;
+}
+
+div.call-to-action-purple h4{
+  width: 38%;
+  margin-left: 32%;
+  font-size: 1.3rem;
+  font-weight: 100;
+  letter-spacing: 2px;
+  margin-bottom: 2%;
+}
+
+div.call-to-action-purple button{
+  background-color: #813694;
+  border: 0;
+  border-radius: 12px;
+  height: 35px;
+  padding: 0px 25px 0px 25px;
+  font-weight: 300;
+  font-size: 0.9rem;
+  letter-spacing: 1px;
+  -webkit-box-shadow: 0 0px 0 rgba(255, 255, 255, 0.5) inset;
+  box-shadow: 0 0px 0 rgba(255, 255, 255, 0.5) inset;
+  -webkit-transition: background-color 300ms ease-out;
+  -moz-transition: background-color 300ms ease-out;
+  transition: background-color 300ms ease-out;
+}
+
+.banana-facts{
+  /*height: 350px;*/
+  text-align: center;
+  padding: 5% 5% 5% 5%;
+}

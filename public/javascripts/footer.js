@@ -1,7 +1,4 @@
 (function() {
-
-
-
   function moveScroller() {
       var move = function() {
 
@@ -10,17 +7,18 @@
           // console.log(st)
           var s = $(".scroll");
           var f = $(".filler")
-          if(st > 640) {
+          if(st > 540) {
               s.css({
                   position: "fixed",
-                  top: 60
+                  top: 160,
+                  width: "100%"
               });
               f.css({
                 position: "relative",
                 top: 50
               });
           } else {
-              if(st <= 640) {
+              if(st <= 540) {
                   s.css({
                       position: "relative",
                       top: 0
@@ -33,7 +31,5 @@
       });
       move();
   };
-
   moveScroller();
-
 })();
