@@ -65,7 +65,7 @@ a {
 /*-- Below Orbit Nav Bar --*/
 
 .main-nav{
-  margin-top: -100px;
+  margin-top: -87px;
   z-index: 1;
 }
 
@@ -268,7 +268,7 @@ a {
   display: inline-block;
   float: right;
   margin-bottom: 0px;
-  margin-top: -15px;
+  margin-top: -20px;
   margin-right: 0%;
   width: 15%;
 }
@@ -406,5 +406,26 @@ div.call-to-action-purple button{
 .banana-facts{
   /*height: 350px;*/
   text-align: center;
-  padding: 5% 5% 5% 5%;
+  padding: 2% 5% 5% 5%;
+}
+
+#banana-fact-title{
+  color: #813694;
+}
+
+.slick-slider{
+  margin-bottom: 0px;
+}
+
+#main-hero{
+  height: 700px;
+}
+
+.hero-text{
+  color: #88418e;
+  padding-top: 10%;
+  width: 75%;
+  font-size: 4rem;
+  margin-left: 15%;
+  text-align: center;
 }

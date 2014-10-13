@@ -19,6 +19,7 @@ position: 0
   {{ 'grid-5.css' | stylesheet_tag }}
   {{ 'fonts.css' | stylesheet_tag }}
   {{ 'fontello.css' | stylesheet_tag }}
+  {{ 'slick.css' | stylesheet_tag }}
   {{ 'index_style.css' | stylesheet_tag }}
   {{ 'vendor/custom.modernizr.js' | javascript_tag }}
   {% inline_editor %}
@@ -44,6 +45,8 @@ position: 0
   </div>
 
   {{ 'vendor/jquery.js' | javascript_tag }}
+  {{ 'foundation.min.js' | javascript_tag }}
+  {{ 'vendor/slick.min.js' | javascript_tag }}
   <script>
   document.write('<script src=' +
   ('__proto__' in {} ? '{{ 'vendor/zepto.js' | javascript_url }}' : '{{ 'vendor/jquery.js' | javascript_url }}') +
@@ -60,7 +63,6 @@ position: 0
   });
 
   </script>
-  {{ 'foundation.min.js' | javascript_tag }}
   {{ 'main.js' | javascript_tag }}
   {{ 'footer.js' | javascript_tag }}
   <!--
@@ -80,8 +82,6 @@ position: 0
   {{ 'foundation/foundation.joyride.js' | javascript_tag }}
 
   {{ 'foundation/foundation.magellan.js' | javascript_tag }}
-
-  {{ 'foundation/foundation.orbit.js' | javascript_tag }}
 
   {{ 'foundation/foundation.reveal.js' | javascript_tag }}
 
