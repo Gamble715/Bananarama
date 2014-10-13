@@ -1442,3 +1442,53 @@ Found page "Recipes" [recipes]
 [0;32;49mCompleted 200 OK in 63.2ms
 
 [0m
+[0;97;49mStarted GET "/recipes" at 2014-10-12 20:04:55 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 88.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-12 20:07:10 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 85.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-12 20:08:30 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 63.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-12 20:09:26 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 97.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-12 20:09:42 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 60.3ms
+
+[0m
