@@ -402,7 +402,8 @@ div.row.sub-nav{
 .recipe{
   height: 100%;
   overflow: visible;
-  margin-bottom: 2%;
+  margin-bottom: 1%;
+  margin-top: 1%;
 }
 
 .recipe-content {
