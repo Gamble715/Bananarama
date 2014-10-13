@@ -343,10 +343,11 @@ div.row.sub-nav{
 }
 
 .sub-name img{
-  width: 21px;
+  width: 20px;
   height: 20px;
   margin-right: 10px;
-  vertical-align: text-bottom;
+  padding-bottom: 1px;
+  vertical-align: middle;
 }
 
 #nav {

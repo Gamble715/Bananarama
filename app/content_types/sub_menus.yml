@@ -55,6 +55,20 @@ fields:
     hint: A description of the field for the editors
     localized: false
 
+- icon_height: # Name of the field
+    label: Icon height
+    type: integer
+    required: false
+    hint: A description of the field for the editors
+    localized: false
+
+- icon_width: # Name of the field
+    label: Icon width
+    type: integer
+    required: false
+    hint: A description of the field for the editors
+    localized: false
+
 - sort_order: # Name of the field
     label: Sort order
     type: integer
