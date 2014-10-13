@@ -15,8 +15,8 @@ position: 2
 	<div class="recipe-row">
 		{% for recipe in contents.recipes %}
 			<div class="small-12 columns large-4 medium-6">
-				<div class="recipe">
-					<img src='{{ recipe.image["url"] | resize: '500x400' }}' class="pull-left recipe-image" />
+				<div class="recipe">					
+					<div style="background-image: url({{ recipe.image["url"] | resize: '500x400' }}); background-size: 100% 100%; height: 400px; background-repeat: no-repeat;" class="pull-left recipe-image"></div>
 					<div class="recipe-content">
 						<h1>{{ recipe.title }}</h1>
 						<h4><span>{{ recipe.minutes }}</span> min, <span>{{ recipe.ingredients }}</span> ingredients </h4>

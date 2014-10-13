@@ -3045,3 +3045,66 @@ Found page "One Bananas" [index]
 [0;32;49mCompleted 200 OK in 9.2ms
 
 [0m
+[0;97;49mStarted GET "/" at 2014-10-13 12:25:38 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-13 12:25:40 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 74.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-13 12:26:21 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-13 12:26:24 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 77.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-13 12:26:59 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-13 12:27:00 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 88.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-13 12:28:12 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-13 12:28:13 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 92.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-13 12:28:39 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 62.0ms
+
+[0m
