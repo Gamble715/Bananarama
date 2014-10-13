@@ -2890,3 +2890,36 @@ Found page "One Bananas" [one-bananas]
 [0;32;49mCompleted 200 OK in 11.9ms
 
 [0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-13 01:55:02 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 37.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-13 01:57:00 -0500
+* Reloaded "pages", "snippets" at 2014-10-13 01:59:00 -0500
+* Reloaded "pages", "snippets" at 2014-10-13 01:59:12 -0500
+[0;97;49mStarted GET "/one-bananas" at 2014-10-13 02:00:19 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 21.7ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-13 02:04:14 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.8ms
+
+[0m

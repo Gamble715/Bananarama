@@ -404,13 +404,14 @@ div.call-to-action-purple button{
 }
 
 .banana-facts{
-  /*height: 350px;*/
+  height: 450px;
   text-align: center;
   padding: 2% 5% 5% 5%;
 }
 
 #banana-fact-title{
   color: #813694;
+  font-size: 2.25rem;
 }
 
 .slick-slider{
@@ -428,4 +429,21 @@ div.call-to-action-purple button{
   font-size: 4rem;
   margin-left: 15%;
   text-align: center;
+}
+
+#fact-slider div div div i{
+  font-size: 5rem;
+  margin-bottom: 5%;
+  color: #7d3191;
+}
+
+#fact-slider div div div h4{
+  font-size: 1.5rem;
+  color: #323232;
+}
+
+#fact-slider div div div p{
+  font-size: 1.25rem;
+  margin-top: 5%;
+  font-weight: 300;
 }
