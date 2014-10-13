@@ -14,37 +14,35 @@ position: 2
 
 	<div class="recipe-row">
 		{% for recipe in contents.recipes %}
-			<div class="small-12 columns large-4 medium-6">
-				<div class="recipe">					
-					<div style="background-image: url({{ recipe.image["url"] | resize: '500x400' }}); background-size: cover; height: 400px; background-repeat: no-repeat; background-position: 50% 50%;" class="pull-left recipe-image"></div>
-					<div class="recipe-content">
-						<h1>{{ recipe.title }}</h1>
-						<h4><span>{{ recipe.minutes }}</span> min, <span>{{ recipe.ingredients }}</span> ingredients </h4>
-						<p>{{ recipe.description }}</p>
-						<div class="pull-left">
-							<p class="my-recipes"><img src="{{ 'my_recipes.png' | theme_image_url }}"> My Recipes </p>
-						</div>
-						<div class="pull-right recipe-rating">
-							{% assign reverse =   5 | minus: recipe.rating  %}
-							{% for i in (1..5) %}
-								{% if reverse >= i %}
-									<img src="{{ 'empty_star.png' | theme_image_url }}" />
-								{% else %}
-									<img src="{{ 'filled_star.png' | theme_image_url }}" />
-								{% endif %}
-							{% endfor %}
-						</div>
-						<hr>
-						<div class="recipe-social-section pull-left">
-					      	<a href="#"><span class="icon-twitter" id="twiticon"></span></a>
-					      	<a href="#"><span class="icon-facebook" id="fbicon"></span></a>
-					      	<a href="#"><span class="icon-pinterest-circled" id="pinicon"></span></a>
-					      	<a href="#"><img src="{{ 'email_icon.jpg' | theme_image_url }}" style="width: 8%; margin-right: 15px;" /></a>
-					      	<a href="#"><img src="{{ 'more_icon.png' | theme_image_url }}" style="width: 8%; margin-right: 15px;" /></a>
-						</div>
-						<div class="pull-right">
-							<p class="share-number">16.1 K</p>
-						</div>
+			<div class="small-12 columns large-4 medium-6 recipe">					
+				<div style="background-image: url({{ recipe.image["url"] | resize: '500x400' }}); background-size: cover; height: 400px; background-repeat: no-repeat; background-position: 50% 50%;" class="pull-left recipe-image"></div>
+				<div class="recipe-content">
+					<h1>{{ recipe.title }}</h1>
+					<h4><span>{{ recipe.minutes }}</span> min, <span>{{ recipe.ingredients }}</span> ingredients </h4>
+					<p>{{ recipe.description }}</p>
+					<div class="pull-left">
+						<p class="my-recipes"><img src="{{ 'my_recipes.png' | theme_image_url }}"> My Recipes </p>
+					</div>
+					<div class="pull-right recipe-rating">
+						{% assign reverse =   5 | minus: recipe.rating  %}
+						{% for i in (1..5) %}
+							{% if reverse >= i %}
+								<img src="{{ 'empty_star.png' | theme_image_url }}" />
+							{% else %}
+								<img src="{{ 'filled_star.png' | theme_image_url }}" />
+							{% endif %}
+						{% endfor %}
+					</div>
+					<hr>
+					<div class="recipe-social-section pull-left">
+				      	<a href="#"><span class="icon-twitter" id="twiticon"></span></a>
+				      	<a href="#"><span class="icon-facebook" id="fbicon"></span></a>
+				      	<a href="#"><span class="icon-pinterest-circled" id="pinicon"></span></a>
+				      	<a href="#"><img src="{{ 'email_icon.jpg' | theme_image_url }}" style="width: 8%; margin-right: 15px;" /></a>
+				      	<a href="#"><img src="{{ 'more_icon.png' | theme_image_url }}" style="width: 8%; margin-right: 15px;" /></a>
+					</div>
+					<div class="pull-right">
+						<p class="share-number">16.1 K</p>
 					</div>
 				</div>
 			</div>
