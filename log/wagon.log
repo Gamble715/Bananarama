@@ -3108,3 +3108,23 @@ Found page "Recipes" [recipes]
 [0;32;49mCompleted 200 OK in 62.0ms
 
 [0m
+[0;97;49mStarted GET "/" at 2014-10-13 12:38:03 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-13 12:38:06 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 77.7ms
+
+[0m
