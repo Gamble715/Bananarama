@@ -6,16 +6,18 @@ $(document).ready(function(){
 
   $('#main-hero').slick({
     accessibility: true,
-    infinite: true, 
-    autoplay: true, 
+    infinite: true,
+    autoplay: true,
     autoplaySpeed: 2500,
     speed: 500
   });
   $('#fact-slider').slick({
     accessibility: true,
-    infinite: true, 
-    autoplay: true, 
+    infinite: true,
+    autoplay: true,
     autoplaySpeed: 2500,
     speed: 500
   });
 });
+
+
