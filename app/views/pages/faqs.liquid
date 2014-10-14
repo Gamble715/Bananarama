@@ -25,19 +25,19 @@ position: 6
 {% block 'generic_body_content' %}
 
 
-<div class="row heading">
-	<h4 class="large-4 columns questions">Questions</h4>
-	<h4 class="large-1 columns left answers"> Answers</h4>
+<div class="row faq-head">
+	<h4 class="large-4 columns questions heading">Questions</h4>
+	<h4 class="large-1 columns left answers heading"> Answers</h4>
 </div>
-{% for faq in contents.faqs%}
+{% for faq in contents.faqs %}
 <div class="row">
-  <h4 class="large-4 columns question">
+  <h4 class="large-4 columns question color-purple">
     {{ faq.question}}
   </h4>
   <p class="large-6 columns answer large-offset-1 left">{{ faq.answer }}</p>
 </div>
 <div class="row">
-	<div class="faq large-10 columns large-centered"></div>
+	<div class="faq large-11 columns large-centered"></div>
 </div>
 {%endfor%}
 
