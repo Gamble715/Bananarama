@@ -24,8 +24,12 @@ a {
 }
 
 .row {
-  max-width: 1000px !important;
+  max-width: 1200px !important;
   margin: 0 auto;
+}
+
+.divide {
+  padding-top: 15px;
 }
 
 .copy {
@@ -149,7 +153,7 @@ a {
   height: 0;
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
-
+  margin-bottom:0;
   border-bottom: 10px solid #583059;
 }
 
@@ -326,7 +330,7 @@ a {
 
 /*-- Index Body Styles --*/
 
-div.row.sub-nav{
+div.sub-nav{
   display: block;
   overflow: hidden;
   margin-bottom: 0.5%;
@@ -340,6 +344,7 @@ div.row.sub-nav{
   color:#fff;
   text-align:center;
   margin-left: 0px;
+  margin-top: 0;
 }
 
 .sub-name{
