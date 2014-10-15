@@ -35,6 +35,18 @@ a {
   max-width: 100%;
 }
 
+.organics {
+  margin-top: 60px;
+}
+
+.yellow {
+  color: #FFB019 !important;
+}
+
+.kid {
+  margin-top: -75px;
+}
+
 .center {
   text-align: center;
 }
@@ -55,7 +67,7 @@ a {
 }
 
 .color-purple{
-  color:purple;
+  color: #813694;
 }
 
 .color-white{
@@ -69,11 +81,6 @@ a {
   z-index: 1;
 }
 
-.main-nav-scrolled {
-  position: fixed;
-  width: 100%;
-  top: 160px;
-}
 
 .nav-item{
   padding-top: 15px;
@@ -326,6 +333,10 @@ div.row.sub-nav{
   margin-right: 0;
 }
 
+.separator {
+  border-bottom: 2px dotted #813694;
+}
+
 .sub-nav {
   background: #583059;
   height: 50px;
@@ -333,6 +344,20 @@ div.row.sub-nav{
   color:#fff;
   text-align:center;
   margin-left: 0px;
+}
+
+.index-copy {
+  font-size: 1.2em;
+  font-weight: 300;
+  margin-bottom: 15px;
+}
+
+.quality {
+  margin-top: 100px;
+}
+
+.first {
+  margin-bottom: 50px;
 }
 
 .sub-name{
@@ -369,10 +394,13 @@ div.row.sub-nav{
 }
 
 .call-to-action-purple{
-  height: 400px;
-  background-color: #5D2158;
-  text-align: center;
+  height: 450px;
+  background-color: #79268A;
   padding: 2% 5% 5% 5%;
+}
+
+.ripe {
+  float: left !important;
 }
 
 .call-to-action-purple *{
@@ -416,7 +444,11 @@ div.call-to-action-purple button{
 
 #banana-fact-title{
   color: #813694;
-  font-size: 2.25rem;
+  text-align: left;
+}
+
+.lefty {
+  text-align: left;
 }
 
 .slick-slider{

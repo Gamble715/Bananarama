@@ -8,14 +8,14 @@ $(document).ready(function(){
     accessibility: true,
     infinite: true,
     autoplay: true,
-    autoplaySpeed: 2500,
+    autoplaySpeed: 5000,
     speed: 500
   });
   $('#fact-slider').slick({
     accessibility: true,
     infinite: true,
     autoplay: true,
-    autoplaySpeed: 2500,
+    autoplaySpeed: 5000,
     speed: 500
   });
 });

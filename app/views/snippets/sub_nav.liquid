@@ -1,5 +1,5 @@
-<div class="row sub-nav">
-	{% for sub_menu in contents.sub_menus %}  
+<div class="row sub-nav scroll">
+	{% for sub_menu in contents.sub_menus %}
 	  {% if page.title == sub_menu.page_title %}
 	  	<a href="{{ sub_menu.path }}">
 	    	<div class="sub-name"><img src='{{ sub_menu.icon["url"] }}' style="height: {{ sub_menu.icon_height }}px; width: {{ sub_menu.icon_width}}px;" />{{ sub_menu.name }}</div>
