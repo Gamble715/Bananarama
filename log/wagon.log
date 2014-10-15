@@ -6172,3 +6172,104 @@ Found page "Recipes" [recipes]
 [0;32;49mCompleted 200 OK in 51.0ms
 
 [0m
+[0;97;49mStarted GET "/recipes" at 2014-10-15 14:04:25 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 37.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-15 14:10:00 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 44.9ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-15 14:10:04 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.4ms
+
+[0m
+[0;97;49mStarted GET "/faqs" at 2014-10-15 14:10:10 -0500[0m
+Detecting locale EN
+Found page "FAQs" [faqs]
+  Rendered snippet header
+  Rendered snippet faq_header
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.2ms
+
+[0m
+[0;97;49mStarted GET "/media" at 2014-10-15 14:10:13 -0500[0m
+Detecting locale EN
+Found page "Media" [media]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.9ms
+
+[0m
+[0;97;49mStarted GET "/our-company" at 2014-10-15 14:10:14 -0500[0m
+Detecting locale EN
+Found page "Our Company" [our-company]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.7ms
+
+[0m
+[0;97;49mStarted GET "/one-difference" at 2014-10-15 14:10:16 -0500[0m
+Detecting locale EN
+Found page "One Difference" [one-difference]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-15 14:10:21 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 34.8ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-15 14:13:39 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 20.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-15 14:14:10 -0500
+[0;97;49mStarted GET "/one-bananas" at 2014-10-15 14:14:18 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.3ms
+
+[0m
