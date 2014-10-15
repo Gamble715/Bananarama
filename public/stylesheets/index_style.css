@@ -6,8 +6,19 @@ h1,h2,h3,h4,p,span,a{
 }
 
 html, body{
-  width: 100%;
+  /*max-width: 1000px;*/
+  /*padding:0 2em;*/
   height: 100%;
+  margin: 0 auto;
+}
+
+.row {
+  max-width: 1000px !important;
+  margin: 0 auto;
+}
+
+.foot {
+  clear: both;
 }
 
 a {

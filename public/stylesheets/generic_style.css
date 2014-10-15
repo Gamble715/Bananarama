@@ -19,6 +19,15 @@ a {
   background-color: #f5f5f5;
 }
 
+.foot {
+  clear: both;
+}
+
+.row {
+  max-width: 1000px !important;
+  margin: 0 auto;
+}
+
 .copy {
 	height: 500px;
 }

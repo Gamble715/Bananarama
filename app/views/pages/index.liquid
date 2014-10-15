@@ -30,11 +30,10 @@ position: 0
 
   {% include hero_unit %}
 
-  <div class="row">
     <ul class="scroll main-nav" id="nav">
       {% nav 'site', snippet: 'main_nav', no_wrapper: true %}
     </ul>
-  </div>
+
 
   <div class="filler"></div>
 
@@ -119,9 +118,8 @@ position: 0
     </div>
   </div>
 
-  <div class="row">
-    {% include footer %}
-  </div>
+  {% include footer %}
+
 
   {{ 'vendor/jquery.js' | javascript_tag }}
   {{ 'foundation.min.js' | javascript_tag }}
