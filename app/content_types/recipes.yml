@@ -17,7 +17,7 @@ order_by: manually # default: manually, also available: created_at or any field 
 # order_direction: asc # default: asc, also available: desc
 
 # Display entries grouped by <field> in the backoffice
-# group_by: <your field>
+group_by: category
 
 # Activate public 'create' API (e.g for a contact form)
 # public_submission_enabled: false
@@ -76,6 +76,15 @@ fields:
 - shares: # Name of the field
     label: Shares
     type: integer
+    required: false
+    hint: Number of times has been shared
+    localized: false
+    # Enable or not the RTE [html|text]
+    # text_formatting: html
+
+- category: # Name of the field
+    label: Shares
+    type: hash
     required: false
     hint: Number of times has been shared
     localized: false

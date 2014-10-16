@@ -1,47 +1,47 @@
 - "Snack & Bites":
-    path: "#snacks"
+    path: "/recipes/snacks"
     page_title: "Recipes"
-    icon: images/muffin_icon.png # Path to a file in the public/samples folder or to a remote and external file.
+    icon: ../images/muffin_icon.png # Path to a file in the public/samples folder or to a remote and external file.
     sort_order: 1
     icon_height: 25
     icon_width: 40
 
 - "Breakfast & Brunch":
-    path: "#breakfast"
-    page_title: "Recipes."
-    icon: images/coffee_icon.png # Path to a file in the public/samples folder or to a remote and external file.
+    path: "/recipes/breakfast"
+    page_title: "Recipes"
+    icon: ../images/coffee_icon.png # Path to a file in the public/samples folder or to a remote and external file.
     sort_order: 2
     icon_height: 25
     icon_width: 20
 
 - "Beverages & Smoothies":
-    path: "#beverages"
+    path: "/recipes/beverages"
     page_title: "Recipes"
-    icon: images/malt_icon.png # Path to a file in the public/samples folder or to a remote and external file.
+    icon: ../images/malt_icon.png # Path to a file in the public/samples folder or to a remote and external file.
     sort_order: 3
     icon_height: 25
     icon_width: 23
 
 - "Bread & Muffins":
-    path: "#bread"
+    path: "/recipes/breads"
     page_title: "Recipes"
-    icon: images/bread_icon.png # Path to a file in the public/samples folder or to a remote and external file.
+    icon: ../images/bread_icon.png # Path to a file in the public/samples folder or to a remote and external file.
     sort_order: 4
     icon_height: 20
     icon_width: 35
 
 - "Desserts":
-    path: "#desserts"
+    path: "/recipes/desserts"
     page_title: "Recipes"
-    icon: images/cupkake_icon.png
+    icon: ../images/cupkake_icon.png
     sort_order: 5
     icon_height: 25
     icon_width: 25
 
 - "Kid Friendly":
-    path: "#kids"
+    path: "/recipes/kids"
     page_title: "Recipes"
-    icon: images/bicycle_icon.png
+    icon: ../images/bicycle_icon.png
     sort_order: 6
     icon_height: 25
     icon_width: 25
