@@ -475,11 +475,30 @@ div.sub-nav{
 }
 
 .recipe{
-  height: 350px;
+  height: 325px;
   overflow: visible;
   margin-bottom: 1%;
   margin-top: 1%;
-  position: relative;
+}
+
+.separate {
+  width: 100%;
+  /*padding-top: -5% !important;*/
+  /*overflow: hidden;*/
+  margin-right: 10% !important;
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+}
+
+.recipe-social-section {
+  position: absolute;
+  bottom: 10px;
+}
+
+.recipe-social-section span{
+  margin-right: 15px;
+  font-size: 0.9rem;
 }
 
 .recipe-content {
@@ -487,6 +506,7 @@ div.sub-nav{
   margin-top: 5% !important;
   background-color: white;
   height: 100%;
+  position: relative;
 }
 
 .recipe-image{
@@ -536,16 +556,6 @@ div.sub-nav{
   margin-left: 5%;
 }
 
-.recipe-social-section {
-  padding-right: 15px;
-  position: absolute;
-  bottom: 0;
-}
-
-.recipe-social-section span{
-  margin-right: 15px;
-  font-size: 0.9rem;
-}
 
 .recipe p.share-number {
   font-weight: 700;
