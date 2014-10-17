@@ -133,7 +133,7 @@ a {
 }
 
 .nav-item > a, h4, strong {
-  font-size: 0.9em;
+  font-size: 15px;
 }
 
 .active {
@@ -159,7 +159,7 @@ a {
 #header-logo{
   position: absolute;
   z-index: 1000;
-  width: 18%;
+  width: 75px;
   left: 38%;
   margin: auto;
   top: 0;
