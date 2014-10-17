@@ -24,15 +24,20 @@ position: 0
   {{ 'vendor/custom.modernizr.js' | javascript_tag }}
   {% inline_editor %}
 </head>
-<body>
+<body class="row">
 
+<div class="row">
   {% include index_header %}
+</div>
 
   {% include hero_unit %}
 
-    <ul class="scroll main-nav" id="nav">
+    <div class="row">
+
+    <ul class="scroll main-nav " id="nav">
       {% nav 'site', snippet: 'main_nav', no_wrapper: true %}
     </ul>
+    </div>
 
 
   <div class="filler"></div>
@@ -117,8 +122,9 @@ position: 0
 
     </div>
   </div>
-
-  {% include footer %}
+  <div class="row">
+    {% include footer %}
+  </div>
 
 
   {{ 'vendor/jquery.js' | javascript_tag }}

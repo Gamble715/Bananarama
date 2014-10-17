@@ -84,7 +84,7 @@ fields:
 
 - category: # Name of the field
     label: Shares
-    type: hash
+    type: string
     required: false
     hint: Number of times has been shared
     localized: false

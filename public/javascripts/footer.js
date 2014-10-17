@@ -13,7 +13,7 @@
               s.css({
                   position: "fixed",
                   top: 97,
-                  width: "100%"
+                  width: "93.8%"
               });
               f.css({
                 position: "relative",
@@ -23,7 +23,8 @@
               if(st <= 600) {
                   s.css({
                       position: "relative",
-                      top: 0
+                      top: 0,
+                      width: "100%"
                   });
                   f.css({
                     position: "relative",
