@@ -13952,3 +13952,31 @@ Found page "One Bananas" [one-bananas]
 * Reloaded "pages", "snippets" at 2014-10-17 16:43:02 -0600
 * Reloaded "pages", "snippets" at 2014-10-17 16:43:47 -0600
 * Reloaded "content_entries" at 2014-10-17 16:44:30 -0600
+      entries_custom_fields => base, is invalid, 54395fb93b6263ffd3000002, Label is already taken, 7, Label is already taken
+* Reloaded "content_types", "content_entries" at 2014-10-17 16:50:14 -0600
+unable to get an API token: getaddrinfo: nodename nor servname provided, or not known
+unable to get an API token: getaddrinfo: nodename nor servname provided, or not known
+unable to get an API token: Operation timed out
+[0;97;49mStarted GET "/recipes" at 2014-10-17 17:29:41 -0600[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 15.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 17:32:47 -0600[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-17 17:34:48 -0600

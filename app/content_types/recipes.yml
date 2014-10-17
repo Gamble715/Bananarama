@@ -17,7 +17,7 @@ order_by: manually # default: manually, also available: created_at or any field 
 # order_direction: asc # default: asc, also available: desc
 
 # Display entries grouped by <field> in the backoffice
-group_by: category
+# group_by: category
 
 # Activate public 'create' API (e.g for a contact form)
 # public_submission_enabled: false
@@ -83,7 +83,7 @@ fields:
     # text_formatting: html
 
 - category: # Name of the field
-    label: Shares
+    label: Category
     type: string
     required: false
     hint: Number of times has been shared
