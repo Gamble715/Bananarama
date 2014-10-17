@@ -13,7 +13,7 @@
               s.css({
                   position: "fixed",
                   top: 97,
-                  width: "93.8%"
+                  maxWidth: "1200px"
               });
               f.css({
                 position: "relative",

@@ -61,6 +61,7 @@ a {
   width:100%;
 }
 
+
 .left {
   display: inline-block;
   text-decoration: none;
@@ -166,8 +167,9 @@ a {
   width: 18%;
   left: 38%;
   margin: auto;
-  top: 0;
-  margin-top: -15px;
+  top: ;
+  /*margin-top: -15px;*/
+  border-radius: 7px;
 }
 
 .nav-header{
@@ -226,7 +228,6 @@ a {
   -moz-border-radius:15px;
   -webkit-border-radius:15px;
   float: right;
-  position: absolute;
 }
 
 .social-section {
@@ -234,7 +235,6 @@ a {
   padding-right: 15px;
   padding-top: 10px;
   position: relative;
-  right: 45%;
 }
 
 .social-section span{

@@ -12967,3 +12967,815 @@ Detecting locale EN
 [0;32;49mCompleted 404 Not Found in 6.1ms
 
 [0m
+      entries_custom_fields => base, is invalid, 54395fb93b6263ffd3000002, Label is already taken, 7, Label is already taken
+[0;97;49mStarted GET "/recipes/one-bananas" at 2014-10-17 09:43:19 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 110.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes/recipes" at 2014-10-17 09:43:42 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 7.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes/recipes" at 2014-10-17 09:43:56 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 14.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-17 09:44:00 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:44:03 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 27.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-17 09:44:50 -0500
+* Reloaded "pages", "snippets" at 2014-10-17 09:44:54 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:45:10 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:46:48 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:46:50 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 62.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:46:55 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:46:56 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:47:05 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 15.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:47:06 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-17 09:47:25 -0500
+* Reloaded "pages", "snippets" at 2014-10-17 09:47:30 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:47:50 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:48:00 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:48:09 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breads" at 2014-10-17 09:48:14 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breads]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 20.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes/one-difference" at 2014-10-17 09:48:19 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 5.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-17 09:51:07 -0500
+* Reloaded "pages", "snippets" at 2014-10-17 09:51:14 -0500
+* Reloaded "pages", "snippets" at 2014-10-17 09:51:36 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:51:42 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+[0;31;49m[ERROR] Tag '{%' was not properly terminated with regexp: /\%\}/ - ./app/views/pages/recipes.liquid:12:in `Recipes'
+[0m
+* Reloaded "pages", "snippets" at 2014-10-17 09:51:48 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:51:48 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 21.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:51:56 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 18.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-17 09:51:56 -0500
+* Reloaded "pages", "snippets" at 2014-10-17 09:52:06 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:52:07 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:52:08 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:52:09 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-17 09:52:44 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:52:45 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.1ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:52:47 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:52:48 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:52:52 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-17 09:52:53 -0500
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:52:54 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breads" at 2014-10-17 09:53:11 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breads]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.1ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-17 09:53:14 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:53:22 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breakfast" at 2014-10-17 09:53:23 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breakfast]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breakfast
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 09:53:25 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 5.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breakfast" at 2014-10-17 09:53:32 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breakfast]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breakfast
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 18.5ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-17 09:53:35 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:53:42 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 09:53:44 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 7.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes/recipes" at 2014-10-17 09:55:48 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 7.1ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:55:53 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 09:55:53 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breakfast" at 2014-10-17 09:55:59 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breakfast]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breakfast
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 15.1ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 09:56:24 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-17 09:57:57 -0500
+[0;97;49mStarted GET "/recipes/breakfast" at 2014-10-17 09:58:00 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breakfast]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breakfast
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 09:58:02 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 5.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-17 10:00:36 -0500
+[0;97;49mStarted GET "/recipes/breakfast" at 2014-10-17 10:00:37 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breakfast]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breakfast
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:00:40 -0500[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 5.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes/beverages" at 2014-10-17 10:00:43 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/beverages]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == beverages
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-17 10:00:57 -0500
+* Reloaded "pages", "snippets" at 2014-10-17 10:01:01 -0500
+[0;97;49mStarted GET "/recipes/beverages" at 2014-10-17 10:01:01 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/beverages]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == beverages
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 15.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes/beverages" at 2014-10-17 10:01:03 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/beverages]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == beverages
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 15.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breakfast" at 2014-10-17 10:01:05 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breakfast]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breakfast
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:01:07 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breakfast" at 2014-10-17 10:01:23 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breakfast]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breakfast
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breakfast" at 2014-10-17 10:02:00 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breakfast]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breakfast
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 18.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-17 10:02:49 -0500
+* Reloaded "pages", "snippets" at 2014-10-17 10:03:00 -0500
+[0;97;49mStarted GET "/recipes/breakfast" at 2014-10-17 10:03:04 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breakfast]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breakfast
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 21.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:03:06 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:03:46 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.1ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:03:47 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:03:48 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:03:49 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:04:05 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:04:06 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.1ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:04:07 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:04:08 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.7ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:04:15 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:04:32 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.1ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:04:53 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:04:58 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:05:22 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.4ms
+
+[0m
+[0;97;49mStarted GET "/one-difference" at 2014-10-17 10:05:32 -0500[0m
+Detecting locale EN
+Found page "One Difference" [one-difference]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 10:05:36 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == bread
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes/beverages" at 2014-10-17 10:05:38 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/beverages]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == beverages
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 15.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breads" at 2014-10-17 10:05:40 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breads]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 16.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 10:05:42 -0500[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.8ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-17 10:05:44 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.2ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-17 10:06:08 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.4ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-17 10:06:39 -0500[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.5ms
+
+[0m
