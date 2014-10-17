@@ -160,7 +160,7 @@
     category: "desserts"
 
 
-- "Frozen Bananas (kid friendly)":
+- "Frozen Bananas":
     image: images/06_frozenbanana_iStock_000043586550Large.jpg
     description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
     minutes: 50
@@ -169,7 +169,7 @@
     category: "desserts"
 
 
-- "Banana Pops (kid friendly)":
+- "Banana Pops":
     image: images/07_bananapop_iStock_000026766117Large_V2.jpg
     description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
     minutes: 50
@@ -223,7 +223,7 @@
     category: "desserts"
 
 
-- "Frozen Banana Bites (snack too)":
+- "Frozen Banana Bites":
     image: images/03_frzn_choc_bn_bites_iStock_000031148386Large.jpg
     description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
     minutes: 50
