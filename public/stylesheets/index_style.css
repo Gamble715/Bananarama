@@ -93,7 +93,7 @@ a {
 .nav-item{
   padding-top: 15px;
   padding-bottom: 15px;
-  background: rgba(255,255,255,1);
+  background: #F7F7F7;
 }
 
 #nav li.nav-item{
@@ -159,7 +159,7 @@ a {
     z-index: 1000;
     width: 200px;
     margin: auto;
-    padding-top: 50px;
+    padding-top: 25px;
     border-radius: 20px;
   }
 
@@ -175,7 +175,7 @@ a {
     z-index: 1000;
     width: 200px;
     margin: auto;
-    padding-top: 50px;
+    padding-top: 25px;
     border-radius: 20px;
   }
 
@@ -192,7 +192,7 @@ a {
     z-index: 1000;
     width: 200px;
     margin: auto;
-    padding-top: 50px;
+    padding-top: 25px;
     border-radius: 20px;
   }
 
@@ -203,7 +203,7 @@ a {
 
 
 .nav-header{
-  background-color: rgba(255,255,255,1);
+  background-color: #F7F7F7;
   position: fixed;
   top: 0;
   z-index: 30;
@@ -504,16 +504,54 @@ div.call-to-action-purple button{
 
 #main-hero{
   height: 700px!important;
-
 }
 
 .hero-text{
   color: #88418e;
+}
+
+.slide-one {
   width: 75%;
-  font-size: 4rem;
+  font-size: 1.2em;
+  font-weight: 800;
+  margin-left: 8%;
+  text-align: left;
+  letter-spacing: 4px;
+}
+
+.slide-copy {
+  margin-left: 8%;
+  font-size: 1.2em;
+  width: 45%;
+}
+
+.copy-one {
+  margin-left: 8%;
+  font-size: 1.2em;
+  width: 30%;
+}
+
+.slide-two {
+  width: 75%;
+  font-size: 1.7em;
   margin-left: 12%;
   text-align: center;
 }
+
+.three {
+  margin-left: 8%;
+  font-size: 1.2em;
+  width: 35%;
+}
+
+.slide-three {
+  width: 75%;
+  font-size: 1.2em;
+  margin-left: 8%;
+  text-align: left;
+  letter-spacing: 4px;
+}
+
 
 #fact-slider div div div i{
   font-size: 5rem;

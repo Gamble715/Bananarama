@@ -16593,3 +16593,921 @@ Found page "One Bananas" [one-bananas]
 [0;32;49mCompleted 200 OK in 11.1ms
 
 [0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:29:04 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.2ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:29:53 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.3ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:30:19 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 15:33:27 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:33:27 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 15:34:24 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:36:44 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.6ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:36:46 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.9ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:38:58 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.6ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:39:02 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 15:42:38 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:42:42 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.1ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:43:16 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.2ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:43:26 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 15:47:03 -0700
+* Reloaded "pages", "snippets" at 2014-10-18 15:47:10 -0700
+* Reloaded "pages", "snippets" at 2014-10-18 15:52:55 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:52:58 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.8ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:54:18 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.5ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:54:56 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.7ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:55:03 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.0ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:55:42 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.8ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:55:53 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.7ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:56:10 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.3ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:56:13 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.2ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:56:37 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.7ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:56:39 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.1ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:56:40 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.4ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:56:45 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.3ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:56:47 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.4ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:57:02 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 15:57:35 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 15:58:46 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.8ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:00:45 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.9ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:01:42 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:01:42 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:01:44 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.3ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:01:53 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.0ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:01:58 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.8ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:02:10 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:02:16 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.8ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:02:21 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.4ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:02:29 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.4ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:02:57 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:05:46 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.1ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:05:51 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.4ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:05:58 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.4ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:06:09 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.3ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:06:13 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.5ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:06:29 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:12:13 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:13:37 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.6ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:13:52 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 9.0ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:14:16 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.4ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:14:22 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:14:30 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:16:51 -0700
+* Reloaded "pages", "snippets" at 2014-10-18 16:20:08 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:21:27 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:21:53 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:21:54 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.2ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:22:37 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.2ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:22:39 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:22:50 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:22:51 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.5ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:23:43 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:23:43 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:24:01 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.4ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:24:19 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:24:20 -0700
+* Reloaded "pages", "snippets" at 2014-10-18 16:24:32 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:24:56 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.7ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:25:36 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.3ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:25:46 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:26:10 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:27:11 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:27:12 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:27:31 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:27:33 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:27:39 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:27:40 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:28:29 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:28:58 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:29:11 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:29:18 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.3ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:36:40 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 10.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:36:40 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:36:42 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:38:19 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:38:34 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:39:13 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:39:16 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.6ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:39:56 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.7ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:40:16 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:40:29 -0700
+* Reloaded "pages", "snippets" at 2014-10-18 16:41:11 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:41:18 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.0ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:41:34 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.6ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:42:20 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:42:41 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:42:58 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:43:06 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.3ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:43:14 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:43:14 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:43:15 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.5ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:43:55 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:43:55 -0700
+* Reloaded "pages", "snippets" at 2014-10-18 16:44:03 -0700
+* Reloaded "pages", "snippets" at 2014-10-18 16:44:04 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:44:05 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:44:10 -0700
+* Reloaded "pages", "snippets" at 2014-10-18 16:47:38 -0700
+* Reloaded "pages", "snippets" at 2014-10-18 16:47:44 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:49:25 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.7ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:50:08 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:50:08 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:50:10 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.8ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:50:31 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:50:31 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:50:32 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.2ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:50:48 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:50:48 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:50:50 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.6ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:51:04 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 16:51:04 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 16:51:07 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.3ms
+
+[0m
