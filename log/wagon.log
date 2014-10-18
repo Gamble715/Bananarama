@@ -15834,3 +15834,143 @@ Found page "Recipes" [recipes]
 [0;32;49mCompleted 200 OK in 18.3ms
 
 [0m
+* Reloaded "pages", "snippets" at 2014-10-18 01:58:31 -0700
+* Reloaded "pages", "snippets" at 2014-10-18 01:59:36 -0700
+[0;97;49mStarted GET "/recipes" at 2014-10-18 01:59:40 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 36.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-18 01:59:43 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 18.3ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 01:59:45 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.1ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-18 01:59:49 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.9ms
+
+[0m
+[0;97;49mStarted GET "/one-difference" at 2014-10-18 01:59:52 -0700[0m
+Detecting locale EN
+Found page "One Difference" [one-difference]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.0ms
+
+[0m
+[0;97;49mStarted GET "/our-company" at 2014-10-18 01:59:53 -0700[0m
+Detecting locale EN
+Found page "Our Company" [our-company]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-18 01:59:54 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-18 02:00:05 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 32.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-18 02:00:05 -0700
+[0;97;49mStarted GET "/one-bananas" at 2014-10-18 02:00:08 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-18 02:00:12 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.4ms
+
+[0m
+[0;97;49mStarted GET "/one-difference" at 2014-10-18 02:00:15 -0700[0m
+Detecting locale EN
+Found page "One Difference" [one-difference]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.5ms
+
+[0m
+[0;97;49mStarted GET "/our-company" at 2014-10-18 02:00:17 -0700[0m
+Detecting locale EN
+Found page "Our Company" [our-company]
+  Rendered snippet header
+  Rendered snippet sub_nav
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-18 02:00:18 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.7ms
+
+[0m
