@@ -85,8 +85,8 @@ a {
 /*-- Below Orbit Nav Bar --*/
 
 .main-nav{
-  margin-top: -87px;
-  z-index: 1;
+  /*margin-top: -87px;*/
+  margin: -87px auto 0 auto;
 }
 
 
@@ -132,12 +132,8 @@ a {
   color: #823296;
 }
 
-.nav-item > a, h4, strong {
-  font-size: 15px;
-}
-
 .active {
-  background-color: #583059;
+  background-color: #581267;
 }
 
 .selection {
@@ -156,18 +152,8 @@ a {
 
 /*-- Navigation Styles --*/
 
-#header-logo{
-  position: absolute;
-  z-index: 1000;
-  width: 75px;
-  left: 38%;
-  margin: auto;
-  top: 0;
-  margin-top: -15px;
-}
-
 /* Desktops and laptops ----------- */
-@media only screen  and (min-width : 1224px) {
+@media only screen  and (min-width : 1024px) {
   #header-logo{
     position: absolute;
     z-index: 1000;
@@ -177,62 +163,32 @@ a {
     top: 0;
     margin-top: -15px;
   }
-}
 
-/* Large screens ----------- */
-@media only screen  and (min-width : 1824px) {
-  #header-logo{
-    position: absolute;
-    z-index: 1000;
-    width: 75px;
-    left: 38%;
-    margin: auto;
-    top: 0;
-    margin-top: -15px;
+  .nav-item > a, h4, strong {
+    font-size: 15px;
   }
 }
 
 /* Smartphones (portrait and landscape) ----------- */
-@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+@media only screen and (min-width : 320px) and (max-width : 480px) {
     #header-logo{
     position: absolute;
     z-index: 1000;
-    width: 75px;
+    width: 65px;
     left: 38%;
     margin: auto;
     top: 0;
     margin-top: -15px;
+  }
+
+  .nav-item > a, h4, strong {
+    font-size: 12px;
   }
 }
 
-/* Smartphones (landscape) ----------- */
-@media only screen and (min-width : 321px) {
-  #header-logo{
-    position: absolute;
-    z-index: 1000;
-    width: 75px;
-    left: 38%;
-    margin: auto;
-    top: 0;
-    margin-top: -15px;
-  }
-}
-
-/* Smartphones (portrait) ----------- */
-@media only screen and (max-width : 320px) {
-  #header-logo{
-    position: absolute;
-    z-index: 1000;
-    width: 75px;
-    left: 38%;
-    margin: auto;
-    top: 0;
-    margin-top: -15px;
-  }
-}
 
 /* iPads (portrait and landscape) ----------- */
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+@media only screen and (min-width : 481px) and (max-width : 1023px) {
   #header-logo{
     position: absolute;
     z-index: 1000;
@@ -241,34 +197,13 @@ a {
     margin: auto;
     top: 0;
     margin-top: -15px;
+  }
+
+  .nav-item > a, h4, strong {
+    font-size: 13px;
   }
 }
 
-/* iPads (landscape) ----------- */
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
-  #header-logo{
-    position: absolute;
-    z-index: 1000;
-    width: 75px;
-    left: 38%;
-    margin: auto;
-    top: 0;
-    margin-top: -15px;
-  }
-}
-
-/* iPads (portrait) ----------- */
-@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
-  #header-logo{
-    position: absolute;
-    z-index: 1000;
-    width: 75px;
-    left: 38%;
-    margin: auto;
-    top: 0;
-    margin-top: -15px;
-  }
-}
 
 .nav-header{
   background-color: rgba(255,255,255,0.9);
