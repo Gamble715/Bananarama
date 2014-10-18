@@ -13980,3 +13980,603 @@ Found page "Recipes" [recipes]
 
 [0m
 * Reloaded "pages", "snippets" at 2014-10-17 17:34:48 -0600
+unable to get an API token: 
+unable to get an API token: end of file reached
+unable to get an API token: 
+[0;97;49mStarted GET "/recipes" at 2014-10-17 19:31:26 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 27.9ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-17 19:31:29 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 19:31:47 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 11.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breads" at 2014-10-17 19:31:49 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breads]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/muffin_icon.png" at 2014-10-17 19:31:49 -0700[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/coffee_icon.png" at 2014-10-17 19:31:49 -0700[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 6.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/bread_icon.png" at 2014-10-17 19:31:49 -0700[0m
+[0;97;49mStarted GET "/recipes/images/malt_icon.png" at 2014-10-17 19:31:49 -0700[0m
+[0;97;49mStarted GET "/recipes/images/cupkake_icon.png" at 2014-10-17 19:31:49 -0700[0m
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+[0;97;49mStarted GET "/recipes/images/bicycle_icon.png" at 2014-10-17 19:31:49 -0700[0m
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+  Rendered snippet footer
+Detecting locale EN
+  Rendered snippet footer
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 49.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 43.0ms
+
+[0m
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 13.1ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 49.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes/beverages" at 2014-10-17 19:31:54 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes/beverages]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == beverages
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/muffin_icon.png" at 2014-10-17 19:31:54 -0700[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 8.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/coffee_icon.png" at 2014-10-17 19:31:54 -0700[0m
+Detecting locale EN
+[0;97;49mStarted GET "/recipes/images/malt_icon.png" at 2014-10-17 19:31:54 -0700[0m
+  Rendered snippet index_header
+Detecting locale EN
+[0;97;49mStarted GET "/recipes/images/cupkake_icon.png" at 2014-10-17 19:31:54 -0700[0m
+  Rendered snippet hero_unit
+[0;97;49mStarted GET "/recipes/images/bread_icon.png" at 2014-10-17 19:31:54 -0700[0m
+[0;97;49mStarted GET "/recipes/images/bicycle_icon.png" at 2014-10-17 19:31:54 -0700[0m
+  Rendered snippet index_header
+Detecting locale EN
+  Rendered snippet footer
+Detecting locale EN
+Detecting locale EN
+  Rendered snippet hero_unit
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 22.4ms
+
+[0m
+  Rendered snippet footer
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 32.2ms
+
+[0m
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 35.4ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 38.0ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 36.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breakfast" at 2014-10-17 19:31:56 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breakfast]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breakfast
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 35.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/muffin_icon.png" at 2014-10-17 19:31:56 -0700[0m
+[0;97;49mStarted GET "/recipes/images/malt_icon.png" at 2014-10-17 19:31:56 -0700[0m
+[0;97;49mStarted GET "/recipes/images/bread_icon.png" at 2014-10-17 19:31:56 -0700[0m
+Detecting locale EN
+[0;97;49mStarted GET "/recipes/images/cupkake_icon.png" at 2014-10-17 19:31:56 -0700[0m
+Detecting locale EN
+[0;97;49mStarted GET "/recipes/images/bicycle_icon.png" at 2014-10-17 19:31:56 -0700[0m
+Detecting locale EN
+Detecting locale EN
+  Rendered snippet index_header
+[0;97;49mStarted GET "/recipes/images/coffee_icon.png" at 2014-10-17 19:31:56 -0700[0m
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered snippet footer
+  Rendered snippet footer
+  Rendered snippet index_header
+[0;32;49mCompleted 404 Not Found in 41.3ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 41.6ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 52.3ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 56.6ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 55.5ms
+
+[0m
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 64.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 19:31:58 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 39.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/muffin_icon.png" at 2014-10-17 19:31:59 -0700[0m
+Detecting locale EN
+[0;97;49mStarted GET "/recipes/images/coffee_icon.png" at 2014-10-17 19:31:59 -0700[0m
+[0;97;49mStarted GET "/recipes/images/malt_icon.png" at 2014-10-17 19:31:59 -0700[0m
+[0;97;49mStarted GET "/recipes/images/bread_icon.png" at 2014-10-17 19:31:59 -0700[0m
+[0;97;49mStarted GET "/recipes/images/cupkake_icon.png" at 2014-10-17 19:31:59 -0700[0m
+[0;97;49mStarted GET "/recipes/images/bicycle_icon.png" at 2014-10-17 19:31:59 -0700[0m
+  Rendered snippet index_header
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+  Rendered snippet hero_unit
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 31.1ms
+
+[0m
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 36.9ms
+
+[0m
+  Rendered snippet footer
+  Rendered snippet footer
+  Rendered snippet footer
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 36.6ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 38.9ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 35.9ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 37.1ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breakfast" at 2014-10-17 19:32:02 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breakfast]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breakfast
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/muffin_icon.png" at 2014-10-17 19:32:02 -0700[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 7.9ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/coffee_icon.png" at 2014-10-17 19:32:02 -0700[0m
+Detecting locale EN
+[0;97;49mStarted GET "/recipes/images/malt_icon.png" at 2014-10-17 19:32:02 -0700[0m
+[0;97;49mStarted GET "/recipes/images/bread_icon.png" at 2014-10-17 19:32:02 -0700[0m
+[0;97;49mStarted GET "/recipes/images/cupkake_icon.png" at 2014-10-17 19:32:02 -0700[0m
+[0;97;49mStarted GET "/recipes/images/bicycle_icon.png" at 2014-10-17 19:32:02 -0700[0m
+  Rendered snippet index_header
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+Detecting locale EN
+  Rendered snippet hero_unit
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet footer
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+[0;32;49mCompleted 404 Not Found in 22.0ms
+
+[0m
+  Rendered snippet footer
+  Rendered snippet footer
+  Rendered snippet footer
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 26.8ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 27.3ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 27.1ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 27.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes/beverages" at 2014-10-17 19:32:03 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes/beverages]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == beverages
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/muffin_icon.png" at 2014-10-17 19:32:04 -0700[0m
+Detecting locale EN
+  Rendered snippet index_header
+[0;97;49mStarted GET "/recipes/images/coffee_icon.png" at 2014-10-17 19:32:04 -0700[0m
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 12.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/bread_icon.png" at 2014-10-17 19:32:04 -0700[0m
+Detecting locale EN
+[0;97;49mStarted GET "/recipes/images/cupkake_icon.png" at 2014-10-17 19:32:04 -0700[0m
+Detecting locale EN
+[0;97;49mStarted GET "/recipes/images/malt_icon.png" at 2014-10-17 19:32:04 -0700[0m
+Detecting locale EN
+Detecting locale EN
+[0;97;49mStarted GET "/recipes/images/bicycle_icon.png" at 2014-10-17 19:32:04 -0700[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered snippet footer
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 41.6ms
+
+[0m
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 42.3ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 45.8ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 44.0ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 43.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-17 19:33:21 -0700
+* Reloaded "pages", "snippets" at 2014-10-17 19:33:55 -0700
+* Reloaded "pages", "snippets" at 2014-10-17 19:34:37 -0700
+[0;97;49mStarted GET "/recipes/beverages" at 2014-10-17 19:34:39 -0700[0m
+Detecting locale EN
+* Reloaded "pages", "snippets" at 2014-10-17 19:34:49 -0700
+[0;97;49mStarted GET "/recipes/beverages" at 2014-10-17 19:34:49 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes/beverages]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == beverages
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 16.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/muffin_icon.png" at 2014-10-17 19:34:49 -0700[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;97;49mStarted GET "/recipes/images/coffee_icon.png" at 2014-10-17 19:34:49 -0700[0m
+[0;32;49mCompleted 404 Not Found in 7.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/bread_icon.png" at 2014-10-17 19:34:49 -0700[0m
+[0;97;49mStarted GET "/recipes/images/malt_icon.png" at 2014-10-17 19:34:49 -0700[0m
+Detecting locale EN
+[0;97;49mStarted GET "/recipes/images/cupkake_icon.png" at 2014-10-17 19:34:49 -0700[0m
+Detecting locale EN
+Detecting locale EN
+  Rendered snippet index_header
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+[0;97;49mStarted GET "/recipes/images/bicycle_icon.png" at 2014-10-17 19:34:49 -0700[0m
+  Rendered snippet footer
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered snippet footer
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 37.4ms
+
+[0m
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 37.3ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 38.6ms
+
+[0m
+  Rendered snippet index_header
+[0;32;49mCompleted 404 Not Found in 45.3ms
+
+[0m
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 25.4ms
+
+[0m
+[0;97;49mStarted GET "/recipes/beverages" at 2014-10-17 19:34:51 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes/beverages]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == beverages
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 32.6ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/muffin_icon.png" at 2014-10-17 19:34:52 -0700[0m
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 8.8ms
+
+[0m
+[0;97;49mStarted GET "/recipes/images/coffee_icon.png" at 2014-10-17 19:34:52 -0700[0m
+[0;97;49mStarted GET "/recipes/images/cupkake_icon.png" at 2014-10-17 19:34:52 -0700[0m
+Detecting locale EN
+[0;97;49mStarted GET "/recipes/images/malt_icon.png" at 2014-10-17 19:34:52 -0700[0m
+[0;97;49mStarted GET "/recipes/images/bread_icon.png" at 2014-10-17 19:34:52 -0700[0m
+Detecting locale EN
+  Rendered snippet index_header
+Detecting locale EN
+Detecting locale EN
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+[0;97;49mStarted GET "/recipes/images/bicycle_icon.png" at 2014-10-17 19:34:52 -0700[0m
+  Rendered snippet index_header
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+Detecting locale EN
+  Rendered snippet hero_unit
+  Rendered snippet hero_unit
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 35.9ms
+
+[0m
+  Rendered snippet index_header
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 45.0ms
+
+[0m
+  Rendered snippet footer
+  Rendered snippet hero_unit
+[0;32;49mCompleted 404 Not Found in 48.7ms
+
+[0m
+[0;32;49mCompleted 404 Not Found in 51.2ms
+
+[0m
+  Rendered snippet footer
+[0;32;49mCompleted 404 Not Found in 36.5ms
+
+[0m
+* Reloaded "content_entries" at 2014-10-17 19:35:39 -0700
+[0;97;49mStarted GET "/recipes/beverages" at 2014-10-17 19:35:39 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes/beverages]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == beverages
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.5ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-17 19:35:43 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes" at 2014-10-17 19:35:46 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 12.2ms
+
+[0m
+[0;97;49mStarted GET "/recipes/beverages" at 2014-10-17 19:35:48 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes/beverages]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == beverages
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 14.0ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breakfast" at 2014-10-17 19:35:50 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breakfast]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breakfast
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.3ms
+
+[0m
+[0;97;49mStarted GET "/recipes/snacks" at 2014-10-17 19:35:51 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes/snacks]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == snacks
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 21.5ms
+
+[0m
+[0;97;49mStarted GET "/recipes/breads" at 2014-10-17 19:35:53 -0700[0m
+Detecting locale EN
+Found page "Recipes" [recipes/breads]
+  Rendered snippet header
+  Rendered snippet sub_nav
+[with_scope] conditions: category == breads
+  Rendered snippet generic_footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 13.9ms
+
+[0m
+[0;97;49mStarted GET "/one-bananas" at 2014-10-17 19:35:54 -0700[0m
+Detecting locale EN
+Found page "One Bananas" [one-bananas]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 6.0ms
+
+[0m
