@@ -166,6 +166,110 @@ a {
   margin-top: -15px;
 }
 
+/* Desktops and laptops ----------- */
+@media only screen  and (min-width : 1224px) {
+  #header-logo{
+    position: absolute;
+    z-index: 1000;
+    width: 75px;
+    left: 38%;
+    margin: auto;
+    top: 0;
+    margin-top: -15px;
+  }
+}
+
+/* Large screens ----------- */
+@media only screen  and (min-width : 1824px) {
+  #header-logo{
+    position: absolute;
+    z-index: 1000;
+    width: 75px;
+    left: 38%;
+    margin: auto;
+    top: 0;
+    margin-top: -15px;
+  }
+}
+
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    #header-logo{
+    position: absolute;
+    z-index: 1000;
+    width: 75px;
+    left: 38%;
+    margin: auto;
+    top: 0;
+    margin-top: -15px;
+  }
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen and (min-width : 321px) {
+  #header-logo{
+    position: absolute;
+    z-index: 1000;
+    width: 75px;
+    left: 38%;
+    margin: auto;
+    top: 0;
+    margin-top: -15px;
+  }
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen and (max-width : 320px) {
+  #header-logo{
+    position: absolute;
+    z-index: 1000;
+    width: 75px;
+    left: 38%;
+    margin: auto;
+    top: 0;
+    margin-top: -15px;
+  }
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+  #header-logo{
+    position: absolute;
+    z-index: 1000;
+    width: 75px;
+    left: 38%;
+    margin: auto;
+    top: 0;
+    margin-top: -15px;
+  }
+}
+
+/* iPads (landscape) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+  #header-logo{
+    position: absolute;
+    z-index: 1000;
+    width: 75px;
+    left: 38%;
+    margin: auto;
+    top: 0;
+    margin-top: -15px;
+  }
+}
+
+/* iPads (portrait) ----------- */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+  #header-logo{
+    position: absolute;
+    z-index: 1000;
+    width: 75px;
+    left: 38%;
+    margin: auto;
+    top: 0;
+    margin-top: -15px;
+  }
+}
+
 .nav-header{
   background-color: rgba(255,255,255,0.9);
   position: fixed;
