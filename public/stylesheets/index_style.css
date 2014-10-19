@@ -72,16 +72,8 @@ a {
 }
 
 .crop {
-  width: 45%;
-  height: 250px;
-  overflow: hidden;
-  /*margin-top: -20px !important;*/
-}
-
-.banana-milk {
-  margin: -90px 0 0 20px;
-  -webkit-transform: rotateZ(-55deg);
-  transform: rotateZ(-55deg);
+  width: 40%;
+  float: right;
 }
 
 .banana-spinner {
