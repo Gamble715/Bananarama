@@ -7,18 +7,21 @@
           var ot = $("#scroller-anchor").position().top;
           // console.log(st)
           var s = $(".scroll");
-          var f = $(".filler")
+          var header = $("div.nav-header");
+          var itemImg = $(".nav-item > a > img");
           console.log(st)
           if(st > 540) {
               s.css({
                   position: "fixed",
-                  top: 60,
+                  top: 40,
                   maxWidth: "1200px"
               });
-              f.css({
-                position: "relative",
-                height: 65
+              header.css({
+                height: "140px"
               });
+              itemImg.css({
+                marginTop: "12px"
+              })
           } else {
               if(st <= 540) {
                   s.css({
@@ -26,9 +29,11 @@
                       top: 0,
                       width: "100%"
                   });
-                  f.css({
-                    position: "relative",
-                    height: 0
+                  header.css({
+                    height: "60px"
+                  });
+                  itemImg.css({
+                    marginTop: "0px"
                   });
               }
           }

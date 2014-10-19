@@ -29,6 +29,9 @@ html, body{
 #nav-row {
   height: 60px;
 }
+#sub-nav-row{ 
+  height: 100px;
+}
 
 #nav-row .container{ 
   background-color: #f8f8f8;
@@ -124,7 +127,7 @@ a {
 /*-- Below Orbit Nav Bar --*/
 
 .main-nav{
-  z-index: 6;
+  z-index: 99999;
 }
 
 .nav-icons {
@@ -132,7 +135,6 @@ a {
 }
 
 .nav-item{
-  padding-top: 8px;
   background: #F7F7F7;
   height: 80px;
 }
@@ -463,6 +465,8 @@ div.row.sub-nav{
 
 #nav {
   list-style: none;
+  margin-bottom: 0;
+  padding-top: 20px;
 }
 
 .side-pic{
