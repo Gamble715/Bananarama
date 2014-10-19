@@ -200,7 +200,6 @@ a {
     z-index: 1000;
     width: 200px;
     margin: auto;
-    padding-top: 25px;
     border-radius: 20px;
   }
 
@@ -216,7 +215,6 @@ a {
     z-index: 1000;
     width: 200px;
     margin: auto;
-    padding-top: 25px;
     border-radius: 20px;
   }
 
@@ -233,7 +231,6 @@ a {
     z-index: 1000;
     width: 200px;
     margin: auto;
-    padding-top: 25px;
     border-radius: 20px;
   }
 
@@ -548,6 +545,14 @@ div.call-to-action-purple button{
 
 .hero-text{
   color: #88418e;
+  margin-top: 25px;
+}
+
+.slide-img{ 
+  background-size: 100%; 
+  background-repeat: no-repeat; 
+  height: 700px; 
+  padding-top: 25px;
 }
 
 .slide-one {
