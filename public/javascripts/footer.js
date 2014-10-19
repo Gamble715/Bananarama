@@ -9,10 +9,10 @@
           var s = $(".scroll");
           var f = $(".filler")
           console.log(st)
-          if(st > 600) {
+          if(st > 540) {
               s.css({
                   position: "fixed",
-                  top: 97,
+                  top: 60,
                   maxWidth: "1200px"
               });
               f.css({
@@ -20,7 +20,7 @@
                 height: 65
               });
           } else {
-              if(st <= 600) {
+              if(st <= 540) {
                   s.css({
                       position: "relative",
                       top: 0,

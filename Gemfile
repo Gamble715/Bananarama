@@ -6,6 +6,7 @@ gem 'locomotivecms_wagon', '1.4.0'
 
 gem "binding_of_caller"
 
+gem 'tzinfo'
 
 group :development do
   # Mac OS X

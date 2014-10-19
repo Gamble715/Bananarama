@@ -1,9 +1,9 @@
 <div class="sub-nav">
-		{% for sub_menu in contents.sub_menus %}
-		  {% if page.title == sub_menu.page_title %}
-		  	<a href="{{ sub_menu.path }}" class="squeeze">
-		    	<div class="sub-name"><img src='{{ sub_menu.icon["url"] }}' style="height: {{ sub_menu.icon_height }}px; width: {{ sub_menu.icon_width}}px;" />{{ sub_menu.name }}</div>
-			</a>
-		  {% endif %}
-		{% endfor %}
+	{% for sub_menu in contents.sub_menus %}
+		{% if page.title == sub_menu.page_title %}
+		  <a href="{{ sub_menu.path }}" class="squeeze">
+		    <div class="sub-name"><img src='{{ sub_menu.icon["url"] }}' style="height: {{ sub_menu.icon_height }}px; width: {{ sub_menu.icon_width}}px;" />{{ sub_menu.name }}</div>
+		</a>
+		{% endif %}
+	{% endfor %}
 </div>

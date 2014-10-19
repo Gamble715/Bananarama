@@ -21169,3 +21169,628 @@ Detecting locale EN
 
 [0m
 * Reloaded "pages", "snippets" at 2014-10-18 19:31:19 -0700
+uninitialized constant Class::TZInfo
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:366:in `rescue in []'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:364:in `[]'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:337:in `new'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:260:in `require_mounter'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:75:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon/cli.rb:249:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/bin/wagon:12:in `<top (required)>'
+	/usr/bin/wagon:23:in `load'
+	/usr/bin/wagon:23:in `<main>'
+
+
+uninitialized constant Class::TZInfo
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:366:in `rescue in []'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:364:in `[]'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:337:in `new'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:260:in `require_mounter'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:75:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon/cli.rb:249:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/bin/wagon:12:in `<top (required)>'
+	/usr/bin/wagon:23:in `load'
+	/usr/bin/wagon:23:in `<main>'
+
+
+uninitialized constant Class::TZInfo
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:366:in `rescue in []'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:364:in `[]'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:337:in `new'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:260:in `require_mounter'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:75:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon/cli.rb:249:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/bin/wagon:12:in `<top (required)>'
+	/usr/bin/wagon:23:in `load'
+	/usr/bin/wagon:23:in `<main>'
+
+
+uninitialized constant Class::TZInfo
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:366:in `rescue in []'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:364:in `[]'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:337:in `new'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:260:in `require_mounter'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:75:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon/cli.rb:249:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/bin/wagon:12:in `<top (required)>'
+	/usr/bin/wagon:23:in `load'
+	/usr/bin/wagon:23:in `<main>'
+
+
+uninitialized constant Class::TZInfo
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:366:in `rescue in []'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:364:in `[]'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:337:in `new'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:260:in `require_mounter'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:75:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon/cli.rb:249:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/bin/wagon:12:in `<top (required)>'
+	/usr/bin/wagon:23:in `load'
+	/usr/bin/wagon:23:in `<main>'
+
+
+uninitialized constant Class::TZInfo
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:366:in `rescue in []'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:364:in `[]'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:337:in `new'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:260:in `require_mounter'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:75:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon/cli.rb:249:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/bin/wagon:12:in `<top (required)>'
+	/usr/bin/wagon:23:in `load'
+	/usr/bin/wagon:23:in `<main>'
+
+
+uninitialized constant Class::TZInfo
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:366:in `rescue in []'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:364:in `[]'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:337:in `new'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:260:in `require_mounter'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:75:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon/cli.rb:249:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/bin/wagon:12:in `<top (required)>'
+	/usr/bin/wagon:23:in `load'
+	/usr/bin/wagon:23:in `<main>'
+
+
+uninitialized constant Class::TZInfo
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:366:in `rescue in []'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:364:in `[]'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:337:in `new'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:260:in `require_mounter'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:75:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon/cli.rb:249:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/bin/wagon:12:in `<top (required)>'
+	/usr/bin/wagon:23:in `load'
+	/usr/bin/wagon:23:in `<main>'
+
+
+uninitialized constant Class::TZInfo
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:366:in `rescue in []'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:364:in `[]'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:337:in `new'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:260:in `require_mounter'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:75:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon/cli.rb:249:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/bin/wagon:12:in `<top (required)>'
+	/usr/bin/wagon:23:in `load'
+	/usr/bin/wagon:23:in `<main>'
+
+
+uninitialized constant Class::TZInfo
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:366:in `rescue in []'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:364:in `[]'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:337:in `new'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:260:in `require_mounter'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:75:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon/cli.rb:249:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/bin/wagon:12:in `<top (required)>'
+	/usr/bin/wagon:23:in `load'
+	/usr/bin/wagon:23:in `<main>'
+
+
+uninitialized constant Class::TZInfo
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:366:in `rescue in []'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:364:in `[]'
+	/Library/Ruby/Gems/2.0.0/gems/activesupport-3.2.19/lib/active_support/values/time_zone.rb:337:in `new'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:18:in `block in read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/file_system/site_reader.rb:16:in `read'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:76:in `block (2 levels) in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `each'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:73:in `block in build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `tap'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:70:in `build_mounting_point'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_mounter-1.4.4/lib/locomotive/mounter/reader/runner.rb:29:in `run!'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:260:in `require_mounter'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon.rb:75:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/lib/locomotive/wagon/cli.rb:249:in `serve'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/command.rb:27:in `run'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/invocation.rb:126:in `invoke_command'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor.rb:359:in `dispatch'
+	/Library/Ruby/Gems/2.0.0/gems/thor-0.19.1/lib/thor/base.rb:440:in `start'
+	/Library/Ruby/Gems/2.0.0/gems/locomotivecms_wagon-1.5.0/bin/wagon:12:in `<top (required)>'
+	/usr/bin/wagon:23:in `load'
+	/usr/bin/wagon:23:in `<main>'
+
+
+[0;97;49mStarted GET "/" at 2014-10-19 11:21:07 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:00:57 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:01:00 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:01:04 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:01:44 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.3ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-19 12:24:28 -0400
+* Reloaded "pages", "snippets" at 2014-10-19 12:24:58 -0400
+[0;97;49mStarted GET "/" at 2014-10-19 12:24:59 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:31:08 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 17.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:33:42 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:35:08 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:35:15 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:35:36 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:35:39 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:37:39 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.5ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-19 12:39:05 -0400
+[0;97;49mStarted GET "/" at 2014-10-19 12:39:06 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-19 12:42:43 -0400
+* Reloaded "pages", "snippets" at 2014-10-19 12:43:02 -0400
+* Reloaded "pages", "snippets" at 2014-10-19 12:44:51 -0400
+[0;97;49mStarted GET "/" at 2014-10-19 12:45:34 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:46:34 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:46:43 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-19 12:52:39 -0400
+* Reloaded "pages", "snippets" at 2014-10-19 12:52:43 -0400
+* Reloaded "pages", "snippets" at 2014-10-19 12:53:10 -0400
+[0;97;49mStarted GET "/" at 2014-10-19 12:55:42 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:55:52 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 8.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:56:58 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:57:01 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 12:59:21 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2014-10-19 13:00:28 -0400
+[0;97;49mStarted GET "/" at 2014-10-19 13:00:29 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 13:02:47 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 13:05:30 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.6ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 13:36:26 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 13:37:57 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 13:38:52 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 13:40:39 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 13:41:46 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 13:42:26 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 13:45:41 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 5.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 13:45:57 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2014-10-19 13:50:18 -0400[0m
+Detecting locale EN
+Found page "One Bananas" [index]
+  Rendered snippet index_header
+  Rendered snippet hero_unit
+  Rendered snippet footer
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.5ms
+
+[0m
