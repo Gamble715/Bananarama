@@ -1,5 +1,6 @@
 <li class="small-2 columns center nav-item" id="scroller-anchor">
-    <img src="{{ page.slug | theme_image_url }}.png" alt="Icon" class="nav-icons">
+		{% assign icon = page.slug %}
+    <img src='{{ ".png" | theme_image_url }}' alt="Icon" class="nav-icons">
     <br>
     <strong>{{page.title}}</strong>
 </li>
