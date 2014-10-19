@@ -9,7 +9,6 @@
           var s = $(".scroll");
           var header = $("div.nav-header");
           var itemImg = $(".nav-item > a > img");
-          console.log(st)
           if(st > 540) {
               s.css({
                   position: "fixed",
@@ -19,27 +18,20 @@
               header.css({
                 height: "140px"
               });
-              itemImg.css({
-                marginTop: "12px"
-              })
           } else {
-              if(st <= 540) {
-                  s.css({
-                      position: "relative",
-                      top: 0,
-                      width: "100%"
-                  });
-                  header.css({
-                    height: "60px"
-                  });
-                  itemImg.css({
-                    marginTop: "0px"
-                  });
-              }
+              console.log("bam");
+              s.css({
+                  position: "relative",
+                  top: 0,
+                  width: "100%"
+              });
+              header.css({
+                height: "60px"
+              });
           }
       };
       $(window).scroll(function() {
-        move()
+        move();
       });
       move();
   };

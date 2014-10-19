@@ -134,7 +134,11 @@ div.color-purple{
 
 .nav-item{
   background: #F7F7F7;
-  height: 80px;
+  height: 100px;
+}
+.nav-item > a > img{
+  width: 35%;
+  margin-top: 15px;
 }
 
 #nav li.nav-item{
@@ -464,7 +468,6 @@ div.row.sub-nav{
 #nav {
   list-style: none;
   margin-bottom: 0;
-  padding-top: 20px;
 }
 
 .side-pic{
