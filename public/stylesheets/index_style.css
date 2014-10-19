@@ -44,7 +44,24 @@ a {
 
 
 .organics {
-  margin-top: 60px;
+  margin-top: 75px;
+}
+
+.crop {
+  width: 45%;
+  height: 250px;
+  overflow: hidden;
+  /*margin-top: -20px !important;*/
+}
+
+.banana-milk {
+  margin: -90px 0 0 20px;
+  -webkit-transform: rotateZ(-55deg);
+  transform: rotateZ(-55deg);
+}
+
+.banana-spinner {
+  background-color: white;
 }
 
 .yellow {
@@ -52,7 +69,7 @@ a {
 }
 
 .kid {
-  margin-top: -75px;
+  margin-top: -190px;
 }
 
 .center {
@@ -68,6 +85,7 @@ a {
   display: inline-block;
   text-decoration: none;
   margin-right: 45px;
+  margin-bottom: -20px;
 }
 
 .organic-photo {
@@ -89,11 +107,15 @@ a {
   margin: -87px auto 0 auto;
 }
 
+.nav-icons {
+  width: 20%;
+}
 
 .nav-item{
   padding-top: 15px;
   padding-bottom: 15px;
   background: #F7F7F7;
+  height: 80px;
 }
 
 #nav li.nav-item{
@@ -394,7 +416,7 @@ div.row.sub-nav{
 }
 
 .index-copy {
-  font-size: 1.2em;
+  font-size: 1.3em;
   font-weight: 300;
   margin-bottom: 15px;
 }
@@ -448,6 +470,7 @@ div.row.sub-nav{
 
 .ripe {
   float: left !important;
+  z-index: 2 !important;
 }
 
 .call-to-action-purple *{
@@ -486,7 +509,9 @@ div.call-to-action-purple button{
 .banana-facts{
   height: 500px;
   text-align: center;
-  padding: 2% 5% 5% 5%;
+  padding: 0 5% 10% 5% !important;
+  width: 100%;
+  background-color: #F7F7F7;
 }
 
 #banana-fact-title{
@@ -568,4 +593,11 @@ div.call-to-action-purple button{
   font-size: 1.25rem;
   margin-top: 5%;
   font-weight: 300;
+}
+
+.fact {
+  width: 35%;
+  margin-left: 10%;
+  font-size: 1.7em !important;
+  height: 225px;
 }
