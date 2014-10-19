@@ -93,7 +93,8 @@ a {
 }
 
 .kid {
-  margin-top: -190px;
+  margin-top: -165px;
+  padding-bottom: 25px;
 }
 
 .center {
@@ -109,11 +110,16 @@ a {
   display: inline-block;
   text-decoration: none;
   margin-right: 45px;
-  margin-bottom: -20px;
+  margin-bottom: -25px;
 }
 
 .organic-photo {
   background-image: url('http://www.placehold.it/350x500');
+}
+
+div.color-purple{
+  padding-top: 25px;
+  padding-bottom: 75px;
 }
 
 .color-purple{
@@ -479,8 +485,7 @@ div.row.sub-nav{
 
 .call-to-action-purple{
   height: 450px;
-  background-color: #79268A;
-  padding: 2% 5% 5% 5%;
+  background-color: #823296;
 }
 
 .ripe {
