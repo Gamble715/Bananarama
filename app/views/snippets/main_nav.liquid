@@ -1,6 +1,20 @@
 <li class="small-2 columns center nav-item" id="scroller-anchor">
-		{% assign icon = page.slug %}
-    <img src='{{ ".png" | theme_image_url }}' alt="Icon" class="nav-icons">
+	{% assign icon = page.slug %}
+	{% if page.slug == "one-bananas" %}
+    	<img src='{{ "banana-icon.png" | theme_image_url }}' alt="Icon" class="nav-icons">
+    {% elsif page.slug == "recipes" %}
+    	<img src='{{ "whisk-icon.png" | theme_image_url }}' alt="Icon" class="nav-icons">
+    {% elsif page.slug == "one-difference" %}
+    	<img src='{{ "heart-icon.jpg" | theme_image_url }}' alt="Icon" class="nav-icons">
+    {% elsif page.slug == "our-company" %}
+    	<img src='{{ "globe-icon.png" | theme_image_url }}' alt="Icon" class="nav-icons">
+    {% elsif page.slug == "media" %}
+    	<img src='{{ "media-icon.png" | theme_image_url }}' alt="Icon" class="nav-icons">
+    {% elsif page.slug == "faqs" %}
+    	<img src='{{ "faqs-icon.png" | theme_image_url }}' alt="Icon" class="nav-icons">
+    {% elsif page.slug == "promotions" %}
+    	<img src='{{ "star-icon.png" | theme_image_url }}' alt="Icon" class="nav-icons">
+    {% endif %}
     <br>
     <strong>{{page.title}}</strong>
 </li>

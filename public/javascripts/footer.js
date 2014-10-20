@@ -7,34 +7,31 @@
           var ot = $("#scroller-anchor").position().top;
           // console.log(st)
           var s = $(".scroll");
-          var f = $(".filler")
-          console.log(st)
+          var header = $("div.nav-header");
+          var itemImg = $(".nav-item > a > img");
           if(st > 540) {
               s.css({
                   position: "fixed",
-                  top: 60,
+                  top: 40,
                   maxWidth: "1200px"
               });
-              f.css({
-                position: "relative",
-                height: 65
+              header.css({
+                height: "140px"
               });
           } else {
-              if(st <= 540) {
-                  s.css({
-                      position: "relative",
-                      top: 0,
-                      width: "100%"
-                  });
-                  f.css({
-                    position: "relative",
-                    height: 0
-                  });
-              }
+              console.log("bam");
+              s.css({
+                  position: "relative",
+                  top: 0,
+                  width: "100%"
+              });
+              header.css({
+                height: "60px"
+              });
           }
       };
       $(window).scroll(function() {
-        move()
+        move();
       });
       move();
   };

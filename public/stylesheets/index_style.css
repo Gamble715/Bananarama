@@ -29,6 +29,9 @@ html, body{
 #nav-row {
   height: 60px;
 }
+#sub-nav-row{ 
+  height: 100px;
+}
 
 #nav-row .container{
   background-color: #f8f8f8;
@@ -69,16 +72,8 @@ a {
 }
 
 .crop {
-  width: 45%;
-  height: 250px;
-  overflow: hidden;
-  /*margin-top: -20px !important;*/
-}
-
-.banana-milk {
-  margin: -90px 0 0 20px;
-  -webkit-transform: rotateZ(-55deg);
-  transform: rotateZ(-55deg);
+  width: 40%;
+  float: right;
 }
 
 .banana-spinner {
@@ -90,7 +85,8 @@ a {
 }
 
 .kid {
-  margin-top: -190px;
+  margin-top: -165px;
+  padding-bottom: 25px;
 }
 
 .center {
@@ -106,11 +102,16 @@ a {
   display: inline-block;
   text-decoration: none;
   margin-right: 45px;
-  margin-bottom: -20px;
+  margin-bottom: -25px;
 }
 
 .organic-photo {
   background-image: url('http://www.placehold.it/350x500');
+}
+
+div.color-purple{
+  padding-top: 25px;
+  padding-bottom: 75px;
 }
 
 .color-purple{
@@ -124,7 +125,7 @@ a {
 /*-- Below Orbit Nav Bar --*/
 
 .main-nav{
-  z-index: 6;
+  z-index: 99999;
 }
 
 .nav-icons {
@@ -132,9 +133,12 @@ a {
 }
 
 .nav-item{
-  padding-top: 8px;
   background: #F7F7F7;
-  height: 80px;
+  height: 100px;
+}
+.nav-item > a > img{
+  width: 35%;
+  margin-top: 15px;
 }
 
 #nav li.nav-item{
@@ -464,6 +468,7 @@ div.row.sub-nav{
 
 #nav {
   list-style: none;
+  margin-bottom: 0;
 }
 
 .side-pic{
@@ -476,8 +481,7 @@ div.row.sub-nav{
 
 .call-to-action-purple{
   height: 450px;
-  background-color: #79268A;
-  padding: 2% 5% 5% 5%;
+  background-color: #823296;
 }
 
 .ripe {
