@@ -1,6 +1,6 @@
 - "Classic Banana Bread":
     image: images/16_classicbanana_brd_iStock_000036114352Large.jpg
-    description: "Et commodi fugit pariatur quasi voluptas. Sequi quis sit est quibusdam accusantium molestiae nam. Et suscipit nostrum molestias"
+    description: "http://www.myrecipes.com/recipe/classic-banana-bread-10000000549764/"
     minutes: 40
     ingredients: 5
     rating: 3
@@ -9,7 +9,7 @@
 
 - "Banana Nutella Muffins":
     image: images/17_nutellamufin_iStock_000034748430Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.myrecipes.com/recipe/banana-nutella-muffins-50400000134943/"
     minutes: 40
     ingredients: 5
     rating: 4
@@ -18,7 +18,7 @@
 
 - "Peanut Butter Banana Bread":
     image: images/18_PB_banana_brd_iStock_000030161954Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.myrecipes.com/recipe/peanut-butter-banana-bread-10000002012779/"
     minutes: 40
     ingredients: 10
     rating: 1
@@ -27,7 +27,7 @@
 
 - "Coconut Banana Bread with Lime Glaze":
     image: images/19_ccntbanana_brd_iStock_000019228658Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.myrecipes.com/recipe/coconut-banana-bread-with-lime-glaze-10000001654705/"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -36,7 +36,7 @@
 
 - "Morning Glory Muffins":
     image: images/05_mrng_muffin_iStock_000027718583Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.myrecipes.com/recipe/morning-glory-muffins-10000001634764/"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -45,7 +45,7 @@
 
 - "Banana Coconut Muffins":
     image: images/20_ccnut_muffin_iStock_000007425217Large_crp.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Banana-Coconut-Muffins-109473"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -54,7 +54,7 @@
 
 - "Banana Macadamia Nut Muffins":
     image: images/21_macnut_muffin_iStock_000009549084Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Banana-Macadamia-Nut-Muffins-2050"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -63,7 +63,7 @@
 
 - "Banana Orange Smoothie":
     image: images/22_bananorange_smoothie_iStock_000017201805Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.foodnetwork.com/recipes/ina-garten/orange-banana-smoothie-recipe.html"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -72,7 +72,7 @@
 
 - "Mixed Berries & Banana Smoothie":
     image: images/23_mixberry_smoothie_iStock_000007044097Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.foodnetwork.com/recipes/food-network-kitchens/mixed-berries-and-banana-smoothie-recipe.html"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -80,7 +80,7 @@
 
 - "Banana & Greek Yogurt Smoothie":
     image: images/38_bananagreeksmoothie_iStock_000004526958Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.myrecipes.com/recipe/banana-breakfast-smoothie-10000001981739/"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -88,7 +88,7 @@
 
 - "Coconut, Strawberry & Banana Smoothie":
     image: images/24_ccnutstrawb_smoothie_iStock_000019422063Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Coconut-Strawberry-and-Banana-Smoothie-234783"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -96,7 +96,7 @@
 
 - "Banana Peanut Butter Smoothie":
     image: images/25_PB_banana_smoothie_iStock_000032701544Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://allrecipes.com/recipe/peanut-butter-banana-smoothie/"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -104,7 +104,7 @@
 
 - "Parsley, Kale, Berry & Banana Smoothie":
     image: images/26_parsleykalesmoothie_iStock_000046119392Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Parsley-Kale-and-Berry-Smoothie-395062"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -112,7 +112,7 @@
 
 - "Energy Shake":
     image: images/27_energyshake_iStock_000019448603Large_V1.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Energy-Shake-362931"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -120,7 +120,7 @@
 
 - "Four Flowers":
     image: images/28_fourflowersjuice_iStock_000002911551Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Four-Flowers-Juice-200592"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -128,7 +128,7 @@
 
 - "Summer Fruit Salad":
     image: images/01_summer_fruit_salad_iStock_000040861650Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://allrecipes.com/recipe/perfect-summer-fruit-salad/"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -136,7 +136,7 @@
 
 - "Juicy Fruit Salad":
     image: images/02_juicy_salad_iStock_000041472532Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://allrecipes.com/recipe/juicy-fruit-salad/"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -144,7 +144,7 @@
 
 - "Banana Chocolate and Walnut Cake":
     image: images/29_walnutcake_iStock_000040601224Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Banana-Chocolate-Walnut-Cake-241517"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -153,7 +153,7 @@
 
 - "Banana Pudding":
     image: images/30_bananapudding_iStock_000005843443Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://allrecipes.com/Recipe/Banana-Pudding-IV/Detail.aspx?event8=1&prop24=SR_Thumb&e11=banana&e8=Quick%20Search&event10=1&e7=Home%20Page&soid=sr_results_p1i5"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -162,7 +162,7 @@
 
 - "Frozen Bananas":
     image: images/06_frozenbanana_iStock_000043586550Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://allrecipes.com/Recipe/Frozen-Bananas/Detail.aspx?event8=1&prop24=SR_Thumb&e11=banana&e8=Quick%20Search&event10=1&e7=Home%20Page&soid=sr_results_p1i9"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -171,7 +171,7 @@
 
 - "Banana Pops":
     image: images/07_bananapop_iStock_000026766117Large_V2.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://allrecipes.com/Recipe/Banana-Pops/Detail.aspx?event8=1&prop24=SR_Thumb&e11=banana&e8=Quick%20Search&event10=1&e7=Home%20Page&soid=sr_results_p1i16"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -180,7 +180,7 @@
 
 - "Banana Trifle":
     image: images/31_bananatrifle_iStock_000043245424Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://allrecipes.com/Recipe/Banana-Trifle/Detail.aspx?event8=1&prop24=SR_Thumb&e11=banana&e8=Quick%20Search&event10=1&e7=Home%20Page&soid=sr_results_p1i8"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -189,7 +189,7 @@
 
 - "Banana Cake":
     image: images/32_bananacake_iStock_000031728280Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://allrecipes.com/Recipe/Banana-Cake-VI/Detail.aspx?event8=1&prop24=SR_Thumb&e11=banana&e8=Quick%20Search&event10=1&e7=Home%20Page&soid=sr_results_p3i5"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -198,7 +198,7 @@
 
 - "Tropical Bananas Fosters":
     image: images/33_bananafoster_iStock_000015952257Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Tropical-Bananas-Foster-103653"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -207,7 +207,7 @@
 
 - "Banana Upside Down Cake":
     image: images/34_upsidedowncake_iStock_000025960961Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Banana-Upside-Down-Cake-1691"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -216,7 +216,7 @@
 
 - "Peanut Butter Banana Cream Pie":
     image: images/35_PB_cream_pie_iStock_000006113172Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Peanut-Butter-Banana-Cream-Pie-352677"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -225,7 +225,7 @@
 
 - "Frozen Banana Bites":
     image: images/03_frzn_choc_bn_bites_iStock_000031148386Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Chocolate-Dipped-Frozen-Banana-Bites-352009"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -234,7 +234,7 @@
 
 - "Banoffee":
     image: images/36_banoffeeiStock_000024803844Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.foodnetwork.com/recipes/paula-deen/banoffee-pie-recipe.html"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -243,7 +243,7 @@
 
 - "Banana Crepes":
     image: images/08_crepe_iStock_000038106784Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://allrecipes.com/Recipe/Banana-Crepes/Detail.aspx?event8=1&prop24=SR_Thumb&e11=banana&e8=Quick%20Search&event10=1&e7=Home%20Page&soid=sr_results_p1i4"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -253,7 +253,7 @@
 
 - "Banana Frittata":
     image: images/09_frittata_iStock_000020930236Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://allrecipes.com/Recipe/Banana-Frittata/Detail.aspx?event8=1&prop24=SR_Thumb&e11=banana&e8=Quick%20Search&event10=1&e7=Home%20Page&soid=sr_results_p2i18"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -262,7 +262,7 @@
 
 - "Banana Waffles":
     image: images/10_waffles_iStock_000029493612Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://allrecipes.com/Recipe/Banana-Waffles/Detail.aspx?event8=1&prop24=SR_Thumb&e11=banana&e8=Quick%20Search&event10=1&e7=Home%20Page&soid=sr_results_p3i4"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -271,7 +271,7 @@
 
 - "Baked Bananas":
     image: images/11_bakedbanana_iStock_000019862221Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Baked-Bananas-235198"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -280,7 +280,7 @@
 
 - "Banana Pancakes":
     image: images/12_pancakes_iStock_000021046408Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Banana-Pancakes-with-Caramel-Banana-Syrup-233140"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -289,7 +289,7 @@
 
 - "Peach, Strawberry & Banana Bruschetta":
     image: images/37_bruschetta_iStock_000024839959XLarge.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Peach-Strawberry-and-Banana-Bruschetta-12503"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -298,7 +298,7 @@
 
 - "Belgian Buttermilk Waffles with Glazed Bananas":
     image: images/13_belgian_waffle_iStock_000032856830Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.epicurious.com/recipes/food/views/Belgian-Buttermilk-Waffles-with-Glazed-Bananas-232170"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -307,7 +307,7 @@
 
 - "Steel-Cut Oats with Bananas and Strawberries":
     image: images/14_oats_iStock_000042513006Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.foodnetwork.com/recipes/jamie-deen/steel-cut-oats-with-bananas-and-strawberries-recipe.html"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -316,7 +316,7 @@
 
 - "Banana and Strawberry Stuffed French Toast":
     image: images/15_frnch_toast_iStock_000039914018Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.foodnetwork.com/recipes/guy-fieri/strawberry-and-banana-stuffed-french-toast-with-grand-marnier-syrup-recipe.html"
     minutes: 50
     ingredients: 5
     rating: 5
@@ -325,7 +325,7 @@
 
 - "Banana & Nutella Panini":
     image: images/04_panini_iStock_000028316608Large.jpg
-    description: "Rerum occaecati molestias velit. Alias cupiditate sit hic rerum qui recusandae aut quae. Unde ratione illo dolor iste odio. Aliquid id ratione rerum."
+    description: "http://www.foodnetwork.com/recipes/bobby-flay/grilled-banana-and-nutella-panini-recipe.html"
     minutes: 50
     ingredients: 5
     rating: 5

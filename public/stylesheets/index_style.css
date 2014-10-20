@@ -18,7 +18,7 @@ html, body{
   max-width: 100%;
 }
 
-.container{ 
+.container{
   max-width: 1200px !important;
   margin:auto;
 }
@@ -30,7 +30,7 @@ html, body{
   height: 60px;
 }
 
-#nav-row .container{ 
+#nav-row .container{
   background-color: #f8f8f8;
   position: fixed;
   width: 100%;
@@ -419,6 +419,7 @@ div.row.sub-nav{
 
 .separator {
   border-bottom: 2px dotted #813694;
+  margin-top: 100px;
 }
 
 .sub-nav {
@@ -548,10 +549,10 @@ div.call-to-action-purple button{
   margin-top: 25px;
 }
 
-.slide-img{ 
-  background-size: 100%; 
-  background-repeat: no-repeat; 
-  height: 700px; 
+.slide-img{
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 700px;
   padding-top: 25px;
 }
 
