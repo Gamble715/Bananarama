@@ -59,8 +59,6 @@ position: 0
   $(function() {
     $('li a[href$="' + location.pathname.split("/")[1] + '"]').find(".pointer").addClass('selection');
     $('.sub-nav a[href$="/' + location.pathname.split("/")[1] + '/' + location.pathname.split("/")[2]).find('.sub-name').addClass('activate');
-
-    console.log("/" + location.pathname.split("/")[1] + "/" + location.pathname.split("/")[2])
   });
 
 
