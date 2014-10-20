@@ -12,11 +12,11 @@ position: 2
 
 {% block 'generic_body_content' %}
 
-	<div class="recipe-row">
+	<ul class="recipe-row small-block-grid-2 large-block-grid-4">
 
 	{% with_scope category: "breakfast" %}
 		{% for recipe in contents.recipes %}
-			<div class="small-6 columns large-3 medium-4 recipe">
+			<li class="recipe">
 				<a href="{{recipe.description}}" target="_blank">
 					<div style="background-image: url({{ recipe.image["url"] | resize: '500x400' }}); background-size: cover; background-repeat: no-repeat; background-position: 50% 50%;" class="recipe-image"></div>
 				</a>
@@ -31,8 +31,8 @@ position: 2
 						</div>
 					</div>
 				</div>
-			</div>
+			</li>
 		{% endfor %}
 	{% endwith_scope %}
-	</div>
+	</ul>
 {%endblock%}
