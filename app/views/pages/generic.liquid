@@ -58,7 +58,11 @@ position: 0
 
   $(function() {
     $('li a[href$="' + location.pathname.split("/")[1] + '"]').find(".pointer").addClass('selection');
-    $('.sub-nav a[href$="/' + location.pathname.split("/")[1] + '/' + location.pathname.split("/")[2]).find('.sub-name').addClass('activate');
+    if (location.pathname.split("/")[2] != undefined) {
+      $('.sub-nav a[href$="/' + location.pathname.split("/")[1] + '/' + location.pathname.split("/")[2]).find('.sub-name').addClass('activate');
+    } else {
+      $('.sub-nav a[href$="/recipes/snacks"').find('.sub-name').addClass('activate')
+    }
   });
 
 
