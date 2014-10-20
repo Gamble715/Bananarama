@@ -151,6 +151,10 @@ a {
   cursor: pointer;
 }
 
+.pointer {
+  margin-top: 3px !important;
+}
+
 #nav li.nav-item{
   width: 14.28%;
 }
@@ -189,6 +193,11 @@ a {
 
 .active {
   background-color: #581267;
+}
+
+.activate {
+  color: white;
+  background: #772589;
 }
 
 .selection {
