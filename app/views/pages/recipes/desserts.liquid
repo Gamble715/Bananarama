@@ -17,7 +17,7 @@ position: 2
 	{% with_scope category: "desserts" %}
 		{% for recipe in contents.recipes %}
 			<div class="small-6 columns large-3 medium-4 recipe">
-				<a href="{{recipe.desscription}}">
+				<a href="{{recipe.description}}">
 					<div style="background-image: url({{ recipe.image["url"] | resize: '500x400' }}); background-size: cover; background-repeat: no-repeat; background-position: 50% 50%;" class="recipe-image"></div>
 				</a>
 				<div class="recipe-content">
