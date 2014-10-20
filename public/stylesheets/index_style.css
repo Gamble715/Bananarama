@@ -29,7 +29,7 @@ html, body{
 #nav-row {
   height: 60px;
 }
-#sub-nav-row{ 
+#sub-nav-row{
   height: 100px;
 }
 
@@ -78,6 +78,14 @@ a {
 
 .banana-spinner {
   background-color: white;
+  position: relative;
+  height: 300px;
+}
+
+.fact-image {
+  position: absolute;
+  right: 2%;
+  overflow: hidden;
 }
 
 .yellow {
@@ -338,6 +346,7 @@ div.color-purple{
   height: 45px;
   padding-bottom: 25px;
   background: white;
+  clear:both;
 }
 
 .footer-container .nav{
@@ -623,6 +632,7 @@ div.call-to-action-purple button{
 .fact {
   width: 35%;
   margin-left: 10%;
+  margin-top: 9% !important;
   font-size: 1.7em !important;
-  height: 225px;
+  float:left;
 }

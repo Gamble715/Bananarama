@@ -12,7 +12,7 @@
           if(st > 540) {
               s.css({
                   position: "fixed",
-                  top: 40,
+                  top: 60,
                   maxWidth: "1200px"
               });
               header.css({
